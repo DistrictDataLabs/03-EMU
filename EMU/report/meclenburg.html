@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1"/>
+    <title>Meclenburg Per Capita Income and Number of Starbucks</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+    <script type="text/javascript" src="lib/d3.js"></script>
+    <script type="text/javascript" src="lib/topojson.js"></script>
+
+    <style>
+        .states {
+            fill: none;
+            stroke: #fff;
+            stroke-linejoin: round;
+        }
+
+    </style>
+</head>
+
+<body>
+<div style="font-size:8px">Keys:  0 - 20K,  20K - 40K,  40K - 60K,  60K - 80K,  80K - 100K</div>
+<script type="text/javascript">
+    var width = 1060, height = 600;
+
+    var projection = d3.geo.albers();
+    var path = d3.geo.path().projection(projection);
+
+    var svg = d3.select("body").append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+    var g = svg.append("g");
+
+    // A position encoding for the key only.
+    var x = d3.scale.linear()
+    .domain([0, 100000])
+    .range([0, 240]);
+
+    var threshold = d3.scale.threshold()
+    .domain([20000, 40000, 60000, 80000])
+    .range(["#6e7c5a", "#a0b28f", "#d8b8b3", "#b45554", "#760000"]);
+
+
+    d3.json("data/topo_nc_zipcode.json", function (error, us) {
+        var states = topojson.feature(us, us.objects.counties);
+
+            var b, s, t;
+            projection.scale(1).translate([0, 0]);
+            var b = path.bounds(states); // zoom to the county
+            var s = .9 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
+            var t = [(width - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
+            projection.scale(s).translate(t);
+
+
+        d3.csv('data/nc_city_zip_rand.csv', function(cities) {
+            var rateById = {};
+            cities.forEach(function (d) {
+                rateById[d.id] = +d.rate;
+            });
+
+            g.append("g")
+                    .attr("class", "counties")
+                    .selectAll("path")
+                    .data(topojson.feature(us, us.objects.counties).features)
+                    .enter().append("path")
+                    .attr("d", path)
+                    .style("fill", function (d) {
+                        return threshold(rateById[d.id]);
+                    });
+ 
+        var cityPoints = svg.selectAll('circle').data(cities);
+        var radius = d3.scale.linear().domain([0,100]).range([5,30]);
+
+          cityPoints.enter()
+              .append('circle')
+              .attr('cx', function(d) {return projection([d.lon, d.lat])[0]})
+              .attr('cy', function(d) {return projection([d.lon, d.lat])[1]})
+              .attr('r', function(d) {return radius(d.star); })
+              .style("stroke", "white")
+              .attr('fill', 'lightblue');
+
+         var cityText = svg.selectAll('text').data(cities);
+            
+           cityText.enter()
+              .append('text')
+              .attr("text-anchor", "middle")
+              .attr('x', function(d) {return projection([d.lon, d.lat])[0]})
+              .attr('y', function(d) {return projection([d.lon, d.lat])[1]})
+              .attr('dx', 5)
+              .attr('dy', 3)
+              .text(function(d) {return d.star})
+              .style("font-size","8px");
+
+        });
+    });
+
+
+    // add legend   
+    var legend = g.append("g")
+            .attr("class", "legend")
+            .attr("height", 100)
+            .attr("width", 100);
+
+
+    // http://bl.ocks.org/mbostock/4573883
+    legend.selectAll('rect')
+        .data(threshold.range().map(function(color) {
+          var d = threshold.invertExtent(color);
+          if (d[0] == null) d[0] = x.domain()[0];
+          if (d[1] == null) d[1] = x.domain()[1];
+          return d;
+      }))
+    .enter().append("rect")
+      .attr("height", 8)
+      .attr("x", function(d) { return x(d[0]); })
+      .attr("width", function(d) { return x(d[1]) - x(d[0]); })
+      .style("fill", function(d) { return threshold(d[0]); });
+
+</script>
+
+</body>
+
+</html>
