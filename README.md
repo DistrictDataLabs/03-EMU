@@ -1,4 +1,4 @@
-For this MVP, we hope to find a correlation between income and number of Starbucks stores in Meclenburg County, North Carolina. We collected the data for each of the 29 area zipcodes of Meclenburg County. A D3 Map Visualization is built with color overlay of per capita income on counties and bubbles showing number of starbucks in that county.
+For this MVP, we want to visualize the correlation between income and number of Starbucks stores in Meclenburg County, North Carolina. We collected the data for each of the 29 area zipcodes of Meclenburg County. A D3 Map Visualization is built with color overlay of per capita income on counties and bubbles showing number of starbucks in that county.
 
 ## Main Issues
 
