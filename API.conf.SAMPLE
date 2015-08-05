@@ -1,0 +1,13 @@
+
+###############################################################
+#CONFIGURATION FILE FOR API KEYS. DO NOT COMMIT YOUR CONF FILE!
+###############################################################
+
+#LINES THAT START WITH '#' ARE INGNORED
+
+#TO USE THE CONF FILE, YOU MUST REMOVE .SAMPLE FROM THE END OF THE FILE NAME.
+
+#PUT YOUR API KEYS HERE AND USE THE SAME FORMAT FOR ANY ADDITIONAL APIS THAT YOU NEED TO ADD.
+
+Census: 
+Yelp: 
