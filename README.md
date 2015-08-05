@@ -1,5 +1,3 @@
-For this MVP, we want to visualize the correlation between income and number of Starbucks stores in Meclenburg County, North Carolina. We collected the data for each of the 29 area zipcodes of Meclenburg County. A D3 Map Visualization is built with color overlay of per capita income on counties and bubbles showing number of starbucks in that county.
-
 ## Main Issues
 
 Commerce data provides data that is optimal for planning and research of general socioeconomic and demographic patterns. Generally, increased geographic specificity equates to longer time steps. Shorter time steps equates to more geographic aggregation. 
