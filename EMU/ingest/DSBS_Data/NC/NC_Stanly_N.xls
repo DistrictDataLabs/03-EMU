@@ -1,0 +1,855 @@
+
+<div style="display:none;"><!-- Define inline, here, in case this is an HTML Import. -->
+<style>
+<!-- /* Hide from older browsers that don't understand CSS, even the display:none above. Don't show CSS on the page. */
+#ProfileTable		{speak-header:	always;} /* Section 508: Screen reader instruction: Read headers aloud before each td. */
+#ProfileTable th,
+#ProfileTable td	{font-size:		10pt;}
+-->
+</style>
+</div>
+<table border="10" id="ProfileTable" summary="profiles matching search criteria">
+<thead>
+	<tr>
+		<th id="Col01">#</th>
+		<th id="Col02">Name and Trade Name of Firm</th>
+		<th id="Col03">Contact</th>
+		<th id="Col04">Address and City, State Zip</th>
+		<th id="Col05">Capabilities Narrative</th>
+		<th id="Col06">Accepts Credit Card?</th>
+		<th id="Col07">CAGE Code</th>
+		<th id="Col08">Congr. Dist.</th>
+		<th id="Col09">County Code</th>
+		<th id="Col10">DUNS Number</th>
+		<th id="Col11">Fiscal Year Ends</th>
+		<th id="Col12">In SAM?</th>
+		<th id="Col13">Incorp. Country</th>
+		<th id="Col14">Main/Branch</th>
+		<th id="Col15">Metro Stat Area</th>
+		<th id="Col16">WWW Page URL</th>
+		<th id="Col17">Year Established</th>
+		<th id="Col18">8(a) Entrance Date</th>
+		<th id="Col19">8(a) Exit Date</th>
+		<th id="Col20">HUBZone Certification Date</th>
+		<th id="Col21">HUBZone Exit Date</th>
+		<th id="Col22">Legal Structure</th>
+		<th id="Col23">SDB Entrance Date</th>
+		<th id="Col24">SDB Exit Date</th>
+		<th id="Col25">Keywords</th>
+		<th id="Col26">Special Equipment/Materials</th>
+		<th id="Col27">NAICS, All (for which firm is small)</th>
+	</tr>
+</thead>
+<tbody>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row1" id="Row1" align="right"> 1
+		</td>
+		<td headers="Col02 Row1" align="left">24 HOUR TAX & ACCOUNTING</td>
+		<td headers="Col03 Row1" align="left">Charlie Swaringen Jr</td>
+		<td headers="Col04 Row1" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=2216%20CARTER%20DR%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D9647">2216 CARTER DR<br>ALBEMARLE, NC 28001-9647</a></td>
+		<td headers="Col05 Row1" align="left"></td>
+		<td headers="Col06 Row1" align="left">Yes</td>
+		<td headers="Col07 Row1" align="left">3VYS3</td>
+		<td headers="Col08 Row1" align="left">08</td>
+		<td headers="Col09 Row1" align="left">167</td>
+		<td headers="Col10 Row1" align="left">148097939</td>
+		<td headers="Col11 Row1" align="left">1201</td>
+		<td headers="Col12 Row1" align="left">Y</td>
+		<td headers="Col13 Row1" align="left">USA</td>
+		<td headers="Col14 Row1" align="left">Main</td>
+		<td headers="Col15 Row1" align="left"></td>
+		<td headers="Col16 Row1" align="left"></td>
+		<td headers="Col17 Row1" align="left">1999</td>
+		<td headers="Col18 Row1" align="left"></td>
+		<td headers="Col19 Row1" align="left"></td>
+		<td headers="Col20 Row1" align="left"></td>
+		<td headers="Col21 Row1" align="left"></td>
+		<td headers="Col22 Row1" align="left"></td>
+		<td headers="Col23 Row1" align="left"></td>
+		<td headers="Col24 Row1" align="left"></td>
+		<td headers="Col25 Row1" align="left">Tax Services</td>
+		<td headers="Col26 Row1" align="left"></td>
+		<td headers="Col27 Row1" align="left">541213, 541214, 541219, 813920</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row2" id="Row2" align="right"> 2
+		</td>
+		<td headers="Col02 Row2" align="left">SEVEN OAKS SUPPLY HARDWARE DIVISION, INC.<br>Seven Oaks Doors & Hardware</td>
+		<td headers="Col03 Row2" align="left">Edwin Shimpock</td>
+		<td headers="Col04 Row2" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=329%20S%20Main%20St%2C%20Oakboro%2C%20NC%2C%2028129%2D7719">329 S Main St<br>Oakboro, NC 28129-7719</a></td>
+		<td headers="Col05 Row2" align="left"></td>
+		<td headers="Col06 Row2" align="left">Yes</td>
+		<td headers="Col07 Row2" align="left">306D9</td>
+		<td headers="Col08 Row2" align="left">08</td>
+		<td headers="Col09 Row2" align="left">167</td>
+		<td headers="Col10 Row2" align="left">789008455</td>
+		<td headers="Col11 Row2" align="left">1201</td>
+		<td headers="Col12 Row2" align="left">Y</td>
+		<td headers="Col13 Row2" align="left">USA</td>
+		<td headers="Col14 Row2" align="left">Main</td>
+		<td headers="Col15 Row2" align="left"></td>
+		<td headers="Col16 Row2" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Esevenoakshardware%2Ecom">www.sevenoakshardware.com</a></td>
+		<td headers="Col17 Row2" align="left">1989</td>
+		<td headers="Col18 Row2" align="left"></td>
+		<td headers="Col19 Row2" align="left"></td>
+		<td headers="Col20 Row2" align="left"></td>
+		<td headers="Col21 Row2" align="left"></td>
+		<td headers="Col22 Row2" align="left">SC</td>
+		<td headers="Col23 Row2" align="left"></td>
+		<td headers="Col24 Row2" align="left"></td>
+		<td headers="Col25 Row2" align="left"></td>
+		<td headers="Col26 Row2" align="left"></td>
+		<td headers="Col27 Row2" align="left">444130, 444190, 561622</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row3" id="Row3" align="right"> 3
+		</td>
+		<td headers="Col02 Row3" align="left">CROSSROADS YAMAHA</td>
+		<td headers="Col03 Row3" align="left">JOHN A RAMANTANIN</td>
+		<td headers="Col04 Row3" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1935%20E%20MAIN%20ST%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D5333">1935 E MAIN ST<br>ALBEMARLE, NC 28001-5333</a></td>
+		<td headers="Col05 Row3" align="left"></td>
+		<td headers="Col06 Row3" align="left">Yes</td>
+		<td headers="Col07 Row3" align="left">7AHT0</td>
+		<td headers="Col08 Row3" align="left">08</td>
+		<td headers="Col09 Row3" align="left">167</td>
+		<td headers="Col10 Row3" align="left">179298943</td>
+		<td headers="Col11 Row3" align="left">1201</td>
+		<td headers="Col12 Row3" align="left">Y</td>
+		<td headers="Col13 Row3" align="left">USA</td>
+		<td headers="Col14 Row3" align="left">Main</td>
+		<td headers="Col15 Row3" align="left"></td>
+		<td headers="Col16 Row3" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=crossroadsyamaha%2Ecom">crossroadsyamaha.com</a></td>
+		<td headers="Col17 Row3" align="left">2003</td>
+		<td headers="Col18 Row3" align="left"></td>
+		<td headers="Col19 Row3" align="left"></td>
+		<td headers="Col20 Row3" align="left"></td>
+		<td headers="Col21 Row3" align="left"></td>
+		<td headers="Col22 Row3" align="left">SC</td>
+		<td headers="Col23 Row3" align="left"></td>
+		<td headers="Col24 Row3" align="left"></td>
+		<td headers="Col25 Row3" align="left"></td>
+		<td headers="Col26 Row3" align="left"></td>
+		<td headers="Col27 Row3" align="left">441228</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row4" id="Row4" align="right"> 4
+		</td>
+		<td headers="Col02 Row4" align="left">HORIZONS HYDRAULIC SALES & SERVICE</td>
+		<td headers="Col03 Row4" align="left">Clifford  D Cook</td>
+		<td headers="Col04 Row4" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=37615%20PAULS%20XING%20RD%2C%20RICHFIELD%2C%20NC%2C%2028137%2D8638">37615 PAULS XING RD<br>RICHFIELD, NC 28137-8638</a></td>
+		<td headers="Col05 Row4" align="left"></td>
+		<td headers="Col06 Row4" align="left">Yes</td>
+		<td headers="Col07 Row4" align="left">5W8T6</td>
+		<td headers="Col08 Row4" align="left">08</td>
+		<td headers="Col09 Row4" align="left">167</td>
+		<td headers="Col10 Row4" align="left">004424920</td>
+		<td headers="Col11 Row4" align="left">1201</td>
+		<td headers="Col12 Row4" align="left">Y</td>
+		<td headers="Col13 Row4" align="left">USA</td>
+		<td headers="Col14 Row4" align="left">Main</td>
+		<td headers="Col15 Row4" align="left"></td>
+		<td headers="Col16 Row4" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2EHorizonHydraulic%2Ecom">http://www.HorizonHydraulic.com</a></td>
+		<td headers="Col17 Row4" align="left">2000</td>
+		<td headers="Col18 Row4" align="left"></td>
+		<td headers="Col19 Row4" align="left"></td>
+		<td headers="Col20 Row4" align="left">06/14/2010</td>
+		<td headers="Col21 Row4" align="left">11/25/2011</td>
+		<td headers="Col22 Row4" align="left"></td>
+		<td headers="Col23 Row4" align="left"></td>
+		<td headers="Col24 Row4" align="left"></td>
+		<td headers="Col25 Row4" align="left">Enerpac, Simplex, Rampac, Powerteam, Hydraulic wrench, hydraulic cylinder, hand pump, electric pump, air pump, hydraulic repair, machine repair, jacks, valves, hoses, high pressure</td>
+		<td headers="Col26 Row4" align="left"></td>
+		<td headers="Col27 Row4" align="left">326220, 332912, 333611, 333995, 333996, 333999, 423830, 423840, 444130, 488190, 488210, 811310, 811411</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row5" id="Row5" align="right"> 5
+		</td>
+		<td headers="Col02 Row5" align="left">SHAYONA 2007, INC.<br>HAMPTON INN</td>
+		<td headers="Col03 Row5" align="left">jay patel</td>
+		<td headers="Col04 Row5" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=2300%20HWY%2052%20N%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D8507">2300 HWY 52 N<br>ALBEMARLE, NC 28001-8507</a></td>
+		<td headers="Col05 Row5" align="left"></td>
+		<td headers="Col06 Row5" align="left">Yes</td>
+		<td headers="Col07 Row5" align="left">52L93</td>
+		<td headers="Col08 Row5" align="left">08</td>
+		<td headers="Col09 Row5" align="left">167</td>
+		<td headers="Col10 Row5" align="left">008890465</td>
+		<td headers="Col11 Row5" align="left">1201</td>
+		<td headers="Col12 Row5" align="left">Y</td>
+		<td headers="Col13 Row5" align="left">USA</td>
+		<td headers="Col14 Row5" align="left">Main</td>
+		<td headers="Col15 Row5" align="left"></td>
+		<td headers="Col16 Row5" align="left"></td>
+		<td headers="Col17 Row5" align="left">2007</td>
+		<td headers="Col18 Row5" align="left"></td>
+		<td headers="Col19 Row5" align="left"></td>
+		<td headers="Col20 Row5" align="left"></td>
+		<td headers="Col21 Row5" align="left"></td>
+		<td headers="Col22 Row5" align="left"></td>
+		<td headers="Col23 Row5" align="left"></td>
+		<td headers="Col24 Row5" align="left"></td>
+		<td headers="Col25 Row5" align="left"></td>
+		<td headers="Col26 Row5" align="left"></td>
+		<td headers="Col27 Row5" align="left">721110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row6" id="Row6" align="right"> 6
+		</td>
+		<td headers="Col02 Row6" align="left">SOUTH CENTRAL OIL CO INC</td>
+		<td headers="Col03 Row6" align="left">WILLIAM  G Lisk</td>
+		<td headers="Col04 Row6" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=2121%20W%20MAIN%20ST%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D5423">2121 W MAIN ST<br>ALBEMARLE, NC 28001-5423</a></td>
+		<td headers="Col05 Row6" align="left"></td>
+		<td headers="Col06 Row6" align="left">No</td>
+		<td headers="Col07 Row6" align="left">4APU3</td>
+		<td headers="Col08 Row6" align="left">08</td>
+		<td headers="Col09 Row6" align="left">167</td>
+		<td headers="Col10 Row6" align="left">041043332</td>
+		<td headers="Col11 Row6" align="left">1201</td>
+		<td headers="Col12 Row6" align="left">Y</td>
+		<td headers="Col13 Row6" align="left">USA</td>
+		<td headers="Col14 Row6" align="left">Main</td>
+		<td headers="Col15 Row6" align="left"></td>
+		<td headers="Col16 Row6" align="left"></td>
+		<td headers="Col17 Row6" align="left">1949</td>
+		<td headers="Col18 Row6" align="left"></td>
+		<td headers="Col19 Row6" align="left"></td>
+		<td headers="Col20 Row6" align="left"></td>
+		<td headers="Col21 Row6" align="left"></td>
+		<td headers="Col22 Row6" align="left">SC</td>
+		<td headers="Col23 Row6" align="left"></td>
+		<td headers="Col24 Row6" align="left"></td>
+		<td headers="Col25 Row6" align="left"></td>
+		<td headers="Col26 Row6" align="left"></td>
+		<td headers="Col27 Row6" align="left">424710, 424720, 447110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row7" id="Row7" align="right"> 7
+		</td>
+		<td headers="Col02 Row7" align="left">JANITORIAL SPECIALISTS...AND MORE, INC, THE</td>
+		<td headers="Col03 Row7" align="left">PORTIA  CHAPPELL</td>
+		<td headers="Col04 Row7" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=603%20SMITH%20ST%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D3021">603 SMITH ST<br>ALBEMARLE, NC 28001-3021</a></td>
+		<td headers="Col05 Row7" align="left">janitorial and lawn sercvices</td>
+		<td headers="Col06 Row7" align="left">Yes</td>
+		<td headers="Col07 Row7" align="left">1X7R2</td>
+		<td headers="Col08 Row7" align="left">08</td>
+		<td headers="Col09 Row7" align="left">167</td>
+		<td headers="Col10 Row7" align="left">134790844</td>
+		<td headers="Col11 Row7" align="left">1201</td>
+		<td headers="Col12 Row7" align="left">Y</td>
+		<td headers="Col13 Row7" align="left">USA</td>
+		<td headers="Col14 Row7" align="left">Main</td>
+		<td headers="Col15 Row7" align="left"></td>
+		<td headers="Col16 Row7" align="left"></td>
+		<td headers="Col17 Row7" align="left">2005</td>
+		<td headers="Col18 Row7" align="left"></td>
+		<td headers="Col19 Row7" align="left"></td>
+		<td headers="Col20 Row7" align="left">06/18/2010</td>
+		<td headers="Col21 Row7" align="left">11/22/2011</td>
+		<td headers="Col22 Row7" align="left"></td>
+		<td headers="Col23 Row7" align="left"></td>
+		<td headers="Col24 Row7" align="left"></td>
+		<td headers="Col25 Row7" align="left">housekeeping</td>
+		<td headers="Col26 Row7" align="left">buffer, lawn mower, mop, etc.</td>
+		<td headers="Col27 Row7" align="left">561720</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row8" id="Row8" align="right"> 8
+		</td>
+		<td headers="Col02 Row8" align="left">UNITED PROTECTIVE TECHNOLOGIES, LLC</td>
+		<td headers="Col03 Row8" align="left">BRENT  BARBEE</td>
+		<td headers="Col04 Row8" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=142%20CARA%20CT%2C%20LOCUST%2C%20NC%2C%2028097%2D0000">142 CARA CT<br>LOCUST, NC 28097-0000</a></td>
+		<td headers="Col05 Row8" align="left"></td>
+		<td headers="Col06 Row8" align="left">Yes</td>
+		<td headers="Col07 Row8" align="left">3EV52</td>
+		<td headers="Col08 Row8" align="left">08</td>
+		<td headers="Col09 Row8" align="left">167</td>
+		<td headers="Col10 Row8" align="left">129775834</td>
+		<td headers="Col11 Row8" align="left">1201</td>
+		<td headers="Col12 Row8" align="left">Y</td>
+		<td headers="Col13 Row8" align="left">USA</td>
+		<td headers="Col14 Row8" align="left">Main</td>
+		<td headers="Col15 Row8" align="left"></td>
+		<td headers="Col16 Row8" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Eunitedprotec%2Ecom">http://www.unitedprotec.com</a></td>
+		<td headers="Col17 Row8" align="left">2002</td>
+		<td headers="Col18 Row8" align="left"></td>
+		<td headers="Col19 Row8" align="left"></td>
+		<td headers="Col20 Row8" align="left">08/16/2010</td>
+		<td headers="Col21 Row8" align="left">12/02/2011</td>
+		<td headers="Col22 Row8" align="left">LL</td>
+		<td headers="Col23 Row8" align="left"></td>
+		<td headers="Col24 Row8" align="left"></td>
+		<td headers="Col25 Row8" align="left">Carbon Based Films</td>
+		<td headers="Col26 Row8" align="left"></td>
+		<td headers="Col27 Row8" align="left">325510, 332812, 332813, 541330, 541330, 541330, 541330, 541712, 541712, 541712, 541712</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row9" id="Row9" align="right"> 9
+		</td>
+		<td headers="Col02 Row9" align="left">STANLY INTERIORS, L.L.C.</td>
+		<td headers="Col03 Row9" align="left">Angela H Mabe</td>
+		<td headers="Col04 Row9" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1943%20E%20Main%20St%2C%20Albemarle%2C%20NC%2C%2028001%2D5333">1943 E Main St<br>Albemarle, NC 28001-5333</a></td>
+		<td headers="Col05 Row9" align="left"></td>
+		<td headers="Col06 Row9" align="left">Yes</td>
+		<td headers="Col07 Row9" align="left">7CKK2</td>
+		<td headers="Col08 Row9" align="left">08</td>
+		<td headers="Col09 Row9" align="left">167</td>
+		<td headers="Col10 Row9" align="left">198347747</td>
+		<td headers="Col11 Row9" align="left">1201</td>
+		<td headers="Col12 Row9" align="left">Y</td>
+		<td headers="Col13 Row9" align="left">USA</td>
+		<td headers="Col14 Row9" align="left">Main</td>
+		<td headers="Col15 Row9" align="left"></td>
+		<td headers="Col16 Row9" align="left"></td>
+		<td headers="Col17 Row9" align="left">2006</td>
+		<td headers="Col18 Row9" align="left"></td>
+		<td headers="Col19 Row9" align="left"></td>
+		<td headers="Col20 Row9" align="left"></td>
+		<td headers="Col21 Row9" align="left"></td>
+		<td headers="Col22 Row9" align="left"></td>
+		<td headers="Col23 Row9" align="left"></td>
+		<td headers="Col24 Row9" align="left"></td>
+		<td headers="Col25 Row9" align="left"></td>
+		<td headers="Col26 Row9" align="left"></td>
+		<td headers="Col27 Row9" align="left">238330, 238340</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row10" id="Row10" align="right"> 10
+		</td>
+		<td headers="Col02 Row10" align="left">FABREX UNLIMITED, INC.</td>
+		<td headers="Col03 Row10" align="left">EVELYN  M Poole</td>
+		<td headers="Col04 Row10" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=24181%20HWY%2049%20N%2C%20RICHFIELD%2C%20NC%2C%2028137%2D0000">24181 HWY 49 N<br>RICHFIELD, NC 28137-0000</a></td>
+		<td headers="Col05 Row10" align="left">Industrial equipment & supplies, Safety Equipment & supplies. Specialize in textile related products such as high performance wipers, pre-saturated wipes, liquid and air filtration media, protective apparel, absorbents.</td>
+		<td headers="Col06 Row10" align="left">Yes</td>
+		<td headers="Col07 Row10" align="left">1BL94</td>
+		<td headers="Col08 Row10" align="left">08</td>
+		<td headers="Col09 Row10" align="left">167</td>
+		<td headers="Col10 Row10" align="left">130787070</td>
+		<td headers="Col11 Row10" align="left">1201</td>
+		<td headers="Col12 Row10" align="left">Y</td>
+		<td headers="Col13 Row10" align="left">USA</td>
+		<td headers="Col14 Row10" align="left">Main</td>
+		<td headers="Col15 Row10" align="left"></td>
+		<td headers="Col16 Row10" align="left"></td>
+		<td headers="Col17 Row10" align="left">1984</td>
+		<td headers="Col18 Row10" align="left">03/05/1999</td>
+		<td headers="Col19 Row10" align="left">03/05/2008</td>
+		<td headers="Col20 Row10" align="left"></td>
+		<td headers="Col21 Row10" align="left"></td>
+		<td headers="Col22 Row10" align="left"></td>
+		<td headers="Col23 Row10" align="left">03/05/1999</td>
+		<td headers="Col24 Row10" align="left">03/04/2011</td>
+		<td headers="Col25 Row10" align="left">cheesecloth, food service, gauze, industrial textiles, industrial towels, muslin, rags, wiping cloth</td>
+		<td headers="Col26 Row10" align="left">Perf roll, heat seal, sonic welding, interleaving, folding and dye cut machinery.</td>
+		<td headers="Col27 Row10" align="left">314999, 423840, 424310</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row11" id="Row11" align="right"> 11
+		</td>
+		<td headers="Col02 Row11" align="left">BURROUGHS, JOAN T<br>TAYLOR APPRAISAL SERVICES</td>
+		<td headers="Col03 Row11" align="left">JOAN T. BURROUGHS BURROUGHS</td>
+		<td headers="Col04 Row11" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=10538%20WILLOW%20COVE%20RD%2C%20NORWOOD%2C%20NC%2C%2028128%2D0000">10538 WILLOW COVE RD<br>NORWOOD, NC 28128-0000</a></td>
+		<td headers="Col05 Row11" align="left"></td>
+		<td headers="Col06 Row11" align="left">No</td>
+		<td headers="Col07 Row11" align="left">6MWA1</td>
+		<td headers="Col08 Row11" align="left">08</td>
+		<td headers="Col09 Row11" align="left">167</td>
+		<td headers="Col10 Row11" align="left">838482339</td>
+		<td headers="Col11 Row11" align="left">1201</td>
+		<td headers="Col12 Row11" align="left">Y</td>
+		<td headers="Col13 Row11" align="left">USA</td>
+		<td headers="Col14 Row11" align="left">Main</td>
+		<td headers="Col15 Row11" align="left"></td>
+		<td headers="Col16 Row11" align="left"></td>
+		<td headers="Col17 Row11" align="left">2011</td>
+		<td headers="Col18 Row11" align="left"></td>
+		<td headers="Col19 Row11" align="left"></td>
+		<td headers="Col20 Row11" align="left"></td>
+		<td headers="Col21 Row11" align="left"></td>
+		<td headers="Col22 Row11" align="left"></td>
+		<td headers="Col23 Row11" align="left"></td>
+		<td headers="Col24 Row11" align="left"></td>
+		<td headers="Col25 Row11" align="left"></td>
+		<td headers="Col26 Row11" align="left"></td>
+		<td headers="Col27 Row11" align="left">531320</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row12" id="Row12" align="right"> 12
+		</td>
+		<td headers="Col02 Row12" align="left">MAYBURY FENCING INC</td>
+		<td headers="Col03 Row12" align="left">ROGER  Mabry</td>
+		<td headers="Col04 Row12" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=12842%20US%20HWY%2052%2C%20NORWOOD%2C%20NC%2C%2028128%2D0000">12842 US HWY 52<br>NORWOOD, NC 28128-0000</a></td>
+		<td headers="Col05 Row12" align="left"></td>
+		<td headers="Col06 Row12" align="left">Yes</td>
+		<td headers="Col07 Row12" align="left">6DTX8</td>
+		<td headers="Col08 Row12" align="left">08</td>
+		<td headers="Col09 Row12" align="left">167</td>
+		<td headers="Col10 Row12" align="left">603023461</td>
+		<td headers="Col11 Row12" align="left">1201</td>
+		<td headers="Col12 Row12" align="left">Y</td>
+		<td headers="Col13 Row12" align="left">USA</td>
+		<td headers="Col14 Row12" align="left">Main</td>
+		<td headers="Col15 Row12" align="left"></td>
+		<td headers="Col16 Row12" align="left"></td>
+		<td headers="Col17 Row12" align="left">2004</td>
+		<td headers="Col18 Row12" align="left"></td>
+		<td headers="Col19 Row12" align="left"></td>
+		<td headers="Col20 Row12" align="left"></td>
+		<td headers="Col21 Row12" align="left"></td>
+		<td headers="Col22 Row12" align="left">SC</td>
+		<td headers="Col23 Row12" align="left"></td>
+		<td headers="Col24 Row12" align="left"></td>
+		<td headers="Col25 Row12" align="left"></td>
+		<td headers="Col26 Row12" align="left"></td>
+		<td headers="Col27 Row12" align="left">331210</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row13" id="Row13" align="right"> 13
+		</td>
+		<td headers="Col02 Row13" align="left">LOGISTICS NETWORK INC.</td>
+		<td headers="Col03 Row13" align="left">Roger Younts</td>
+		<td headers="Col04 Row13" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=2055%20PEE%20DEE%20AVE%2C%20NORWOOD%2C%20NC%2C%2028128%2D6591">2055 PEE DEE AVE<br>NORWOOD, NC 28128-6591</a></td>
+		<td headers="Col05 Row13" align="left"></td>
+		<td headers="Col06 Row13" align="left">No</td>
+		<td headers="Col07 Row13" align="left">1RZ46</td>
+		<td headers="Col08 Row13" align="left">08</td>
+		<td headers="Col09 Row13" align="left">167</td>
+		<td headers="Col10 Row13" align="left">931231752</td>
+		<td headers="Col11 Row13" align="left">1201</td>
+		<td headers="Col12 Row13" align="left">Y</td>
+		<td headers="Col13 Row13" align="left">USA</td>
+		<td headers="Col14 Row13" align="left">Main</td>
+		<td headers="Col15 Row13" align="left"></td>
+		<td headers="Col16 Row13" align="left"></td>
+		<td headers="Col17 Row13" align="left">1995</td>
+		<td headers="Col18 Row13" align="left"></td>
+		<td headers="Col19 Row13" align="left"></td>
+		<td headers="Col20 Row13" align="left"></td>
+		<td headers="Col21 Row13" align="left"></td>
+		<td headers="Col22 Row13" align="left"></td>
+		<td headers="Col23 Row13" align="left"></td>
+		<td headers="Col24 Row13" align="left"></td>
+		<td headers="Col25 Row13" align="left"></td>
+		<td headers="Col26 Row13" align="left"></td>
+		<td headers="Col27 Row13" align="left">238330, 238340, 238390, 337127, 484210, 541219, 541410, 541420, 541490, 541614, 541990, 561210, 561499, 561720, 561740, 561790, 811420</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row14" id="Row14" align="right"> 14
+		</td>
+		<td headers="Col02 Row14" align="left">Dun-Rite Laundry & Cleaners Inc<br>Dun-Rite Carpet Care</td>
+		<td headers="Col03 Row14" align="left">Judson Dry</td>
+		<td headers="Col04 Row14" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1223%20Pee%20Dee%20Ave%2C%20Albemarle%2C%20NC%2C%2028001%2D5142">1223 Pee Dee Ave<br>Albemarle, NC 28001-5142</a></td>
+		<td headers="Col05 Row14" align="left"></td>
+		<td headers="Col06 Row14" align="left">Yes</td>
+		<td headers="Col07 Row14" align="left">465Y4</td>
+		<td headers="Col08 Row14" align="left">08</td>
+		<td headers="Col09 Row14" align="left">167</td>
+		<td headers="Col10 Row14" align="left">024404386</td>
+		<td headers="Col11 Row14" align="left">0901</td>
+		<td headers="Col12 Row14" align="left">Y</td>
+		<td headers="Col13 Row14" align="left">USA</td>
+		<td headers="Col14 Row14" align="left">Main</td>
+		<td headers="Col15 Row14" align="left"></td>
+		<td headers="Col16 Row14" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Edunritecleaners%2Ecom">http://www.dunritecleaners.com</a></td>
+		<td headers="Col17 Row14" align="left">1922</td>
+		<td headers="Col18 Row14" align="left"></td>
+		<td headers="Col19 Row14" align="left"></td>
+		<td headers="Col20 Row14" align="left"></td>
+		<td headers="Col21 Row14" align="left"></td>
+		<td headers="Col22 Row14" align="left"></td>
+		<td headers="Col23 Row14" align="left"></td>
+		<td headers="Col24 Row14" align="left"></td>
+		<td headers="Col25 Row14" align="left"></td>
+		<td headers="Col26 Row14" align="left"></td>
+		<td headers="Col27 Row14" align="left">236118, 236220, 238990, 561720, 561740, 561790, 562910, 562910, 811490, 812320, 812332</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row15" id="Row15" align="right"> 15
+		</td>
+		<td headers="Col02 Row15" align="left">BLISS LLC</td>
+		<td headers="Col03 Row15" align="left">WILLIAM R HICKS</td>
+		<td headers="Col04 Row15" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=621%20NC%2024%2D27%20BYP%20E%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D5358">621 NC 24-27 BYP E<br>ALBEMARLE, NC 28001-5358</a></td>
+		<td headers="Col05 Row15" align="left"></td>
+		<td headers="Col06 Row15" align="left">Yes</td>
+		<td headers="Col07 Row15" align="left">3NGF2</td>
+		<td headers="Col08 Row15" align="left">08</td>
+		<td headers="Col09 Row15" align="left">167</td>
+		<td headers="Col10 Row15" align="left">132557120</td>
+		<td headers="Col11 Row15" align="left">1201</td>
+		<td headers="Col12 Row15" align="left">Y</td>
+		<td headers="Col13 Row15" align="left">USA</td>
+		<td headers="Col14 Row15" align="left">Main</td>
+		<td headers="Col15 Row15" align="left"></td>
+		<td headers="Col16 Row15" align="left"></td>
+		<td headers="Col17 Row15" align="left">2001</td>
+		<td headers="Col18 Row15" align="left"></td>
+		<td headers="Col19 Row15" align="left"></td>
+		<td headers="Col20 Row15" align="left"></td>
+		<td headers="Col21 Row15" align="left"></td>
+		<td headers="Col22 Row15" align="left">LL</td>
+		<td headers="Col23 Row15" align="left"></td>
+		<td headers="Col24 Row15" align="left"></td>
+		<td headers="Col25 Row15" align="left"></td>
+		<td headers="Col26 Row15" align="left"></td>
+		<td headers="Col27 Row15" align="left">721110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row16" id="Row16" align="right"> 16
+		</td>
+		<td headers="Col02 Row16" align="left">New Technology Investments Incorporated<br>ScanOnline</td>
+		<td headers="Col03 Row16" align="left">Lee D Pickler</td>
+		<td headers="Col04 Row16" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1904%20Hilco%20Street%2C%20Albemarle%2C%20NC%2C%2028001%2D6307">1904 Hilco Street<br>Albemarle, NC 28001-6307</a></td>
+		<td headers="Col05 Row16" align="left">Bar code systems provider. Provide bar code products, Asset Management software, Inventory software, and custom software.</td>
+		<td headers="Col06 Row16" align="left">Yes</td>
+		<td headers="Col07 Row16" align="left">1NCR3</td>
+		<td headers="Col08 Row16" align="left">08</td>
+		<td headers="Col09 Row16" align="left">167</td>
+		<td headers="Col10 Row16" align="left">096045898</td>
+		<td headers="Col11 Row16" align="left">1201</td>
+		<td headers="Col12 Row16" align="left">Y</td>
+		<td headers="Col13 Row16" align="left">USA</td>
+		<td headers="Col14 Row16" align="left">Main</td>
+		<td headers="Col15 Row16" align="left"></td>
+		<td headers="Col16 Row16" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2EScanOnline%2Ecom">http://www.ScanOnline.com</a></td>
+		<td headers="Col17 Row16" align="left">1997</td>
+		<td headers="Col18 Row16" align="left"></td>
+		<td headers="Col19 Row16" align="left"></td>
+		<td headers="Col20 Row16" align="left">03/03/2006</td>
+		<td headers="Col21 Row16" align="left">01/13/2010</td>
+		<td headers="Col22 Row16" align="left">SC</td>
+		<td headers="Col23 Row16" align="left"></td>
+		<td headers="Col24 Row16" align="left"></td>
+		<td headers="Col25 Row16" align="left">bar code software, barcode, asset management, inventory, tracking, RFID, Lab Tracking, bar code labels, scanners, bar code printers</td>
+		<td headers="Col26 Row16" align="left">Bar code scanner, bar code terminals, bar code printers</td>
+		<td headers="Col27 Row16" align="left">423430</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row17" id="Row17" align="right"> 17
+		</td>
+		<td headers="Col02 Row17" align="left">Morningstar CNC Applications Engineering, Inc.<br>Morningstar CAM Solutions</td>
+		<td headers="Col03 Row17" align="left">Myra C Ledbetter</td>
+		<td headers="Col04 Row17" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=407%20B%20Commerce%20St%2C%20Albemarle%2C%20NC%2C%2028001%2D5767">407 B Commerce St<br>Albemarle, NC 28001-5767</a></td>
+		<td headers="Col05 Row17" align="left"></td>
+		<td headers="Col06 Row17" align="left">Yes</td>
+		<td headers="Col07 Row17" align="left">1QTC3</td>
+		<td headers="Col08 Row17" align="left">08</td>
+		<td headers="Col09 Row17" align="left">167</td>
+		<td headers="Col10 Row17" align="left">182900597</td>
+		<td headers="Col11 Row17" align="left">1201</td>
+		<td headers="Col12 Row17" align="left">Y</td>
+		<td headers="Col13 Row17" align="left">USA</td>
+		<td headers="Col14 Row17" align="left">Main</td>
+		<td headers="Col15 Row17" align="left"></td>
+		<td headers="Col16 Row17" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Emorningstarcam%2Ecom">http://www.morningstarcam.com</a></td>
+		<td headers="Col17 Row17" align="left">1986</td>
+		<td headers="Col18 Row17" align="left"></td>
+		<td headers="Col19 Row17" align="left"></td>
+		<td headers="Col20 Row17" align="left">01/23/2008</td>
+		<td headers="Col21 Row17" align="left">07/29/2011</td>
+		<td headers="Col22 Row17" align="left">SC</td>
+		<td headers="Col23 Row17" align="left"></td>
+		<td headers="Col24 Row17" align="left"></td>
+		<td headers="Col25 Row17" align="left">CAM Systems</td>
+		<td headers="Col26 Row17" align="left"></td>
+		<td headers="Col27 Row17" align="left">541512, 541519, 541519</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row18" id="Row18" align="right"> 18
+		</td>
+		<td headers="Col02 Row18" align="left">TUCKER ENGINEERING ASSOCS INC</td>
+		<td headers="Col03 Row18" align="left">Richard D Tucker</td>
+		<td headers="Col04 Row18" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=110%20MAIN%20ST%20W%2C%20LOCUST%2C%20NC%2C%2028097%2D0000">110 MAIN ST W<br>LOCUST, NC 28097-0000</a></td>
+		<td headers="Col05 Row18" align="left"></td>
+		<td headers="Col06 Row18" align="left">No</td>
+		<td headers="Col07 Row18" align="left">4TB72</td>
+		<td headers="Col08 Row18" align="left">08</td>
+		<td headers="Col09 Row18" align="left">167</td>
+		<td headers="Col10 Row18" align="left">849742473</td>
+		<td headers="Col11 Row18" align="left">0601</td>
+		<td headers="Col12 Row18" align="left">Y</td>
+		<td headers="Col13 Row18" align="left">USA</td>
+		<td headers="Col14 Row18" align="left">Main</td>
+		<td headers="Col15 Row18" align="left"></td>
+		<td headers="Col16 Row18" align="left"></td>
+		<td headers="Col17 Row18" align="left">1978</td>
+		<td headers="Col18 Row18" align="left"></td>
+		<td headers="Col19 Row18" align="left"></td>
+		<td headers="Col20 Row18" align="left"></td>
+		<td headers="Col21 Row18" align="left"></td>
+		<td headers="Col22 Row18" align="left"></td>
+		<td headers="Col23 Row18" align="left"></td>
+		<td headers="Col24 Row18" align="left"></td>
+		<td headers="Col25 Row18" align="left">gas, coal, solid waste</td>
+		<td headers="Col26 Row18" align="left"></td>
+		<td headers="Col27 Row18" align="left">221210</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row19" id="Row19" align="right"> 19
+		</td>
+		<td headers="Col02 Row19" align="left">JUDITH WILLIAMS<br>JUDITH WILLIAMS APPRAISALS</td>
+		<td headers="Col03 Row19" align="left">JUDITH  G williams</td>
+		<td headers="Col04 Row19" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=217%20W%20MAIN%20ST%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D4816">217 W MAIN ST<br>ALBEMARLE, NC 28001-4816</a></td>
+		<td headers="Col05 Row19" align="left"></td>
+		<td headers="Col06 Row19" align="left">No</td>
+		<td headers="Col07 Row19" align="left">3WWZ0</td>
+		<td headers="Col08 Row19" align="left">08</td>
+		<td headers="Col09 Row19" align="left">167</td>
+		<td headers="Col10 Row19" align="left">166625319</td>
+		<td headers="Col11 Row19" align="left">1201</td>
+		<td headers="Col12 Row19" align="left">Y</td>
+		<td headers="Col13 Row19" align="left">USA</td>
+		<td headers="Col14 Row19" align="left">Main</td>
+		<td headers="Col15 Row19" align="left"></td>
+		<td headers="Col16 Row19" align="left"></td>
+		<td headers="Col17 Row19" align="left">1983</td>
+		<td headers="Col18 Row19" align="left"></td>
+		<td headers="Col19 Row19" align="left"></td>
+		<td headers="Col20 Row19" align="left"></td>
+		<td headers="Col21 Row19" align="left"></td>
+		<td headers="Col22 Row19" align="left"></td>
+		<td headers="Col23 Row19" align="left"></td>
+		<td headers="Col24 Row19" align="left"></td>
+		<td headers="Col25 Row19" align="left"></td>
+		<td headers="Col26 Row19" align="left"></td>
+		<td headers="Col27 Row19" align="left">531320</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row20" id="Row20" align="right"> 20
+		</td>
+		<td headers="Col02 Row20" align="left">Eatman, Barrett</td>
+		<td headers="Col03 Row20" align="left">Barrett Eatman D Eatman</td>
+		<td headers="Col04 Row20" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=25152%20Cabin%20Ridge%20Rd%2C%20Albemarle%2C%20NC%2C%2028001%2D7794">25152 Cabin Ridge Rd<br>Albemarle, NC 28001-7794</a></td>
+		<td headers="Col05 Row20" align="left"></td>
+		<td headers="Col06 Row20" align="left">No</td>
+		<td headers="Col07 Row20" align="left">7BYR2</td>
+		<td headers="Col08 Row20" align="left">08</td>
+		<td headers="Col09 Row20" align="left">167</td>
+		<td headers="Col10 Row20" align="left">079678045</td>
+		<td headers="Col11 Row20" align="left">1201</td>
+		<td headers="Col12 Row20" align="left">Y</td>
+		<td headers="Col13 Row20" align="left">USA</td>
+		<td headers="Col14 Row20" align="left">Main</td>
+		<td headers="Col15 Row20" align="left"></td>
+		<td headers="Col16 Row20" align="left"></td>
+		<td headers="Col17 Row20" align="left">1998</td>
+		<td headers="Col18 Row20" align="left"></td>
+		<td headers="Col19 Row20" align="left"></td>
+		<td headers="Col20 Row20" align="left"></td>
+		<td headers="Col21 Row20" align="left"></td>
+		<td headers="Col22 Row20" align="left"></td>
+		<td headers="Col23 Row20" align="left"></td>
+		<td headers="Col24 Row20" align="left"></td>
+		<td headers="Col25 Row20" align="left"></td>
+		<td headers="Col26 Row20" align="left"></td>
+		<td headers="Col27 Row20" align="left">541370</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row21" id="Row21" align="right"> 21
+		</td>
+		<td headers="Col02 Row21" align="left">Superior Piping, Fabricators & Erectors, Inc</td>
+		<td headers="Col03 Row21" align="left">RALPH  L Buckles</td>
+		<td headers="Col04 Row21" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=605%20Love%20Chapel%20Rd%2C%20Stanfield%2C%20NC%2C%2028163%2D5564">605 Love Chapel Rd<br>Stanfield, NC 28163-5564</a></td>
+		<td headers="Col05 Row21" align="left">electrical, boiler,erection,demolition,sheetmetal, roofing, general construction, process piping, painting, pipelines, sanitary piping, medical gas, chillers, piping, HVAC, fabrication, utility piping,cooling towers  pre-engineered structures,</td>
+		<td headers="Col06 Row21" align="left">Yes</td>
+		<td headers="Col07 Row21" align="left">1LNE3</td>
+		<td headers="Col08 Row21" align="left">08</td>
+		<td headers="Col09 Row21" align="left">167</td>
+		<td headers="Col10 Row21" align="left">069251358</td>
+		<td headers="Col11 Row21" align="left">1201</td>
+		<td headers="Col12 Row21" align="left">Y</td>
+		<td headers="Col13 Row21" align="left">USA</td>
+		<td headers="Col14 Row21" align="left">Main</td>
+		<td headers="Col15 Row21" align="left"></td>
+		<td headers="Col16 Row21" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2FWWW%2ESUPERIORPIPING%2ENET">http://WWW.SUPERIORPIPING.NET</a></td>
+		<td headers="Col17 Row21" align="left">1999</td>
+		<td headers="Col18 Row21" align="left">08/10/1999</td>
+		<td headers="Col19 Row21" align="left">08/10/2008</td>
+		<td headers="Col20 Row21" align="left">05/07/2008</td>
+		<td headers="Col21 Row21" align="left">07/19/2010</td>
+		<td headers="Col22 Row21" align="left"></td>
+		<td headers="Col23 Row21" align="left">08/10/1999</td>
+		<td headers="Col24 Row21" align="left">09/07/2010</td>
+		<td headers="Col25 Row21" align="left">HVAC, demolition, electrical, piping, erection, chillers, boilers, cooling towers, medical gas, roofing, sheetmetal, utilities, GC, general construction, special trades</td>
+		<td headers="Col26 Row21" align="left">12 Ton Boom Truck, forklifts, welders,air compressors, lifts, scaffolding, 12X50 Job-Site Trailer, Internet, Ready, dump truck, 2 Ton Flat Bed Truck,</td>
+		<td headers="Col27 Row21" align="left">236210, 236220, 237110, 237120, 237130, 238120, 238150, 238160, 238210, 238220, 238290, 238310, 238320, 238330, 238990</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row22" id="Row22" align="right"> 22
+		</td>
+		<td headers="Col02 Row22" align="left">MACGRAFIX, LLC</td>
+		<td headers="Col03 Row22" align="left">Kim Bowers</td>
+		<td headers="Col04 Row22" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=18942%20MOLLY%20SPRINGS%20RD%2C%20OAKBORO%2C%20NC%2C%2028129%2D9503">18942 MOLLY SPRINGS RD<br>OAKBORO, NC 28129-9503</a></td>
+		<td headers="Col05 Row22" align="left"></td>
+		<td headers="Col06 Row22" align="left">No</td>
+		<td headers="Col07 Row22" align="left">7F1J2</td>
+		<td headers="Col08 Row22" align="left">08</td>
+		<td headers="Col09 Row22" align="left">167</td>
+		<td headers="Col10 Row22" align="left">070555944</td>
+		<td headers="Col11 Row22" align="left">1201</td>
+		<td headers="Col12 Row22" align="left">Y</td>
+		<td headers="Col13 Row22" align="left">USA</td>
+		<td headers="Col14 Row22" align="left">Main</td>
+		<td headers="Col15 Row22" align="left"></td>
+		<td headers="Col16 Row22" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Emacgrafixprinting%2Ecom%2Fnews%2Daviator%2F">http://www.macgrafixprinting.com/news-aviator/</a></td>
+		<td headers="Col17 Row22" align="left">2014</td>
+		<td headers="Col18 Row22" align="left"></td>
+		<td headers="Col19 Row22" align="left"></td>
+		<td headers="Col20 Row22" align="left"></td>
+		<td headers="Col21 Row22" align="left"></td>
+		<td headers="Col22 Row22" align="left">LL</td>
+		<td headers="Col23 Row22" align="left"></td>
+		<td headers="Col24 Row22" align="left"></td>
+		<td headers="Col25 Row22" align="left"></td>
+		<td headers="Col26 Row22" align="left"></td>
+		<td headers="Col27 Row22" align="left">315280</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row23" id="Row23" align="right"> 23
+		</td>
+		<td headers="Col02 Row23" align="left">Eudy Properties & Services, Inc<br>Tlc At Home</td>
+		<td headers="Col03 Row23" align="left">Wendy P EUDY</td>
+		<td headers="Col04 Row23" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=2211%20W%20Main%20Street%2C%20Albemarle%2C%20NC%2C%2028001%2D5425">2211 W Main Street<br>Albemarle, NC 28001-5425</a></td>
+		<td headers="Col05 Row23" align="left"></td>
+		<td headers="Col06 Row23" align="left">No</td>
+		<td headers="Col07 Row23" align="left">48D60</td>
+		<td headers="Col08 Row23" align="left">08</td>
+		<td headers="Col09 Row23" align="left">167</td>
+		<td headers="Col10 Row23" align="left">362912540</td>
+		<td headers="Col11 Row23" align="left">1201</td>
+		<td headers="Col12 Row23" align="left">Y</td>
+		<td headers="Col13 Row23" align="left">USA</td>
+		<td headers="Col14 Row23" align="left">Main</td>
+		<td headers="Col15 Row23" align="left"></td>
+		<td headers="Col16 Row23" align="left"></td>
+		<td headers="Col17 Row23" align="left">2005</td>
+		<td headers="Col18 Row23" align="left"></td>
+		<td headers="Col19 Row23" align="left"></td>
+		<td headers="Col20 Row23" align="left"></td>
+		<td headers="Col21 Row23" align="left"></td>
+		<td headers="Col22 Row23" align="left"></td>
+		<td headers="Col23 Row23" align="left"></td>
+		<td headers="Col24 Row23" align="left"></td>
+		<td headers="Col25 Row23" align="left"></td>
+		<td headers="Col26 Row23" align="left"></td>
+		<td headers="Col27 Row23" align="left">621610</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row24" id="Row24" align="right"> 24
+		</td>
+		<td headers="Col02 Row24" align="left">Beverly, Walter</td>
+		<td headers="Col03 Row24" align="left">Walter Beverly</td>
+		<td headers="Col04 Row24" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=24006%20Indian%20Mound%20Rd%20Ext%2C%20Albemarle%2C%20NC%2C%2028001%2D6815">24006 Indian Mound Rd Ext<br>Albemarle, NC 28001-6815</a></td>
+		<td headers="Col05 Row24" align="left"></td>
+		<td headers="Col06 Row24" align="left">No</td>
+		<td headers="Col07 Row24" align="left">7F7M5</td>
+		<td headers="Col08 Row24" align="left">08</td>
+		<td headers="Col09 Row24" align="left">167</td>
+		<td headers="Col10 Row24" align="left">079919347</td>
+		<td headers="Col11 Row24" align="left">1201</td>
+		<td headers="Col12 Row24" align="left">Y</td>
+		<td headers="Col13 Row24" align="left">USA</td>
+		<td headers="Col14 Row24" align="left">Main</td>
+		<td headers="Col15 Row24" align="left"></td>
+		<td headers="Col16 Row24" align="left"></td>
+		<td headers="Col17 Row24" align="left">2015</td>
+		<td headers="Col18 Row24" align="left"></td>
+		<td headers="Col19 Row24" align="left"></td>
+		<td headers="Col20 Row24" align="left"></td>
+		<td headers="Col21 Row24" align="left"></td>
+		<td headers="Col22 Row24" align="left"></td>
+		<td headers="Col23 Row24" align="left"></td>
+		<td headers="Col24 Row24" align="left"></td>
+		<td headers="Col25 Row24" align="left"></td>
+		<td headers="Col26 Row24" align="left"></td>
+		<td headers="Col27 Row24" align="left">115310, 115310, 115310</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row25" id="Row25" align="right"> 25
+		</td>
+		<td headers="Col02 Row25" align="left">STEEL CONSTRUCT SYSTEMS LLC</td>
+		<td headers="Col03 Row25" align="left">BILL G WILEY</td>
+		<td headers="Col04 Row25" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=118%20PINE%20FOREST%20RD%2C%20LOCUST%2C%20NC%2C%2028097%2D9404">118 PINE FOREST RD<br>LOCUST, NC 28097-9404</a></td>
+		<td headers="Col05 Row25" align="left">Cold formed steel trusses, wall panels, metal deck and building components.</td>
+		<td headers="Col06 Row25" align="left">No</td>
+		<td headers="Col07 Row25" align="left">6N1M1</td>
+		<td headers="Col08 Row25" align="left">08</td>
+		<td headers="Col09 Row25" align="left">167</td>
+		<td headers="Col10 Row25" align="left">068803825</td>
+		<td headers="Col11 Row25" align="left">1201</td>
+		<td headers="Col12 Row25" align="left">Y</td>
+		<td headers="Col13 Row25" align="left">USA</td>
+		<td headers="Col14 Row25" align="left">Main</td>
+		<td headers="Col15 Row25" align="left"></td>
+		<td headers="Col16 Row25" align="left"></td>
+		<td headers="Col17 Row25" align="left">2011</td>
+		<td headers="Col18 Row25" align="left"></td>
+		<td headers="Col19 Row25" align="left"></td>
+		<td headers="Col20 Row25" align="left"></td>
+		<td headers="Col21 Row25" align="left"></td>
+		<td headers="Col22 Row25" align="left">LL</td>
+		<td headers="Col23 Row25" align="left"></td>
+		<td headers="Col24 Row25" align="left"></td>
+		<td headers="Col25 Row25" align="left">Cold formed, steel trusses, steel wall panels, metal deck, steel components.</td>
+		<td headers="Col26 Row25" align="left">Cold formed steel</td>
+		<td headers="Col27 Row25" align="left">332311</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row26" id="Row26" align="right"> 26
+		</td>
+		<td headers="Col02 Row26" align="left">VTOL, LLC</td>
+		<td headers="Col03 Row26" align="left">Ernest Hough</td>
+		<td headers="Col04 Row26" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=170%20Browns%20Hill%20Rd%20Ste%201%2C%20Locust%2C%20NC%2C%2028097%2D6609">170 Browns Hill Rd Ste 1<br>Locust, NC 28097-6609</a></td>
+		<td headers="Col05 Row26" align="left"></td>
+		<td headers="Col06 Row26" align="left">Yes</td>
+		<td headers="Col07 Row26" align="left">6ENX0</td>
+		<td headers="Col08 Row26" align="left">08</td>
+		<td headers="Col09 Row26" align="left">167</td>
+		<td headers="Col10 Row26" align="left">968347828</td>
+		<td headers="Col11 Row26" align="left">1201</td>
+		<td headers="Col12 Row26" align="left">Y</td>
+		<td headers="Col13 Row26" align="left">USA</td>
+		<td headers="Col14 Row26" align="left">Main</td>
+		<td headers="Col15 Row26" align="left"></td>
+		<td headers="Col16 Row26" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Evtolfilms%2Ecom">http://www.vtolfilms.com</a></td>
+		<td headers="Col17 Row26" align="left">2011</td>
+		<td headers="Col18 Row26" align="left"></td>
+		<td headers="Col19 Row26" align="left"></td>
+		<td headers="Col20 Row26" align="left"></td>
+		<td headers="Col21 Row26" align="left"></td>
+		<td headers="Col22 Row26" align="left">LL</td>
+		<td headers="Col23 Row26" align="left"></td>
+		<td headers="Col24 Row26" align="left"></td>
+		<td headers="Col25 Row26" align="left"></td>
+		<td headers="Col26 Row26" align="left"></td>
+		<td headers="Col27 Row26" align="left">326113, 336413</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row27" id="Row27" align="right"> 27
+		</td>
+		<td headers="Col02 Row27" align="left">DHARA HOSPITALITY GROUP, LLC<br>QUALITY INN</td>
+		<td headers="Col03 Row27" align="left">VIMAL  PATEL</td>
+		<td headers="Col04 Row27" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=735%20NC%202427%20BYP%20E%2C%20ALBEMARLE%2C%20NC%2C%2028001%2D5349">735 NC 2427 BYP E<br>ALBEMARLE, NC 28001-5349</a></td>
+		<td headers="Col05 Row27" align="left"></td>
+		<td headers="Col06 Row27" align="left">Yes</td>
+		<td headers="Col07 Row27" align="left">5UGX1</td>
+		<td headers="Col08 Row27" align="left">08</td>
+		<td headers="Col09 Row27" align="left">167</td>
+		<td headers="Col10 Row27" align="left">832840859</td>
+		<td headers="Col11 Row27" align="left">1201</td>
+		<td headers="Col12 Row27" align="left">Y</td>
+		<td headers="Col13 Row27" align="left">USA</td>
+		<td headers="Col14 Row27" align="left">Main</td>
+		<td headers="Col15 Row27" align="left"></td>
+		<td headers="Col16 Row27" align="left"></td>
+		<td headers="Col17 Row27" align="left">2007</td>
+		<td headers="Col18 Row27" align="left"></td>
+		<td headers="Col19 Row27" align="left"></td>
+		<td headers="Col20 Row27" align="left"></td>
+		<td headers="Col21 Row27" align="left"></td>
+		<td headers="Col22 Row27" align="left">LL</td>
+		<td headers="Col23 Row27" align="left"></td>
+		<td headers="Col24 Row27" align="left"></td>
+		<td headers="Col25 Row27" align="left"></td>
+		<td headers="Col26 Row27" align="left"></td>
+		<td headers="Col27 Row27" align="left">721110</td>
+	</tr>
+</tbody>
+</table>
