@@ -1,0 +1,3222 @@
+Description,state_full_name,state_abbrievation,state_code,county_name,county_code
+"Autauga County, Alabama",Alabama,AL,1,Autauga,001
+"Baldwin County, Alabama",Alabama,AL,1,Baldwin,003
+"Barbour County, Alabama",Alabama,AL,1,Barbour,005
+"Bibb County, Alabama",Alabama,AL,1,Bibb,007
+"Blount County, Alabama",Alabama,AL,1,Blount,009
+"Bullock County, Alabama",Alabama,AL,1,Bullock,011
+"Butler County, Alabama",Alabama,AL,1,Butler,013
+"Calhoun County, Alabama",Alabama,AL,1,Calhoun,015
+"Chambers County, Alabama",Alabama,AL,1,Chambers,017
+"Cherokee County, Alabama",Alabama,AL,1,Cherokee,019
+"Chilton County, Alabama",Alabama,AL,1,Chilton,021
+"Choctaw County, Alabama",Alabama,AL,1,Choctaw,023
+"Clarke County, Alabama",Alabama,AL,1,Clarke,025
+"Clay County, Alabama",Alabama,AL,1,Clay,027
+"Cleburne County, Alabama",Alabama,AL,1,Cleburne,029
+"Coffee County, Alabama",Alabama,AL,1,Coffee,031
+"Colbert County, Alabama",Alabama,AL,1,Colbert,033
+"Conecuh County, Alabama",Alabama,AL,1,Conecuh,035
+"Coosa County, Alabama",Alabama,AL,1,Coosa,037
+"Covington County, Alabama",Alabama,AL,1,Covington,039
+"Crenshaw County, Alabama",Alabama,AL,1,Crenshaw,041
+"Cullman County, Alabama",Alabama,AL,1,Cullman,043
+"Dale County, Alabama",Alabama,AL,1,Dale,045
+"Dallas County, Alabama",Alabama,AL,1,Dallas,047
+"DeKalb County, Alabama",Alabama,AL,1,DeKalb,049
+"Elmore County, Alabama",Alabama,AL,1,Elmore,051
+"Escambia County, Alabama",Alabama,AL,1,Escambia,053
+"Etowah County, Alabama",Alabama,AL,1,Etowah,055
+"Fayette County, Alabama",Alabama,AL,1,Fayette,057
+"Franklin County, Alabama",Alabama,AL,1,Franklin,059
+"Geneva County, Alabama",Alabama,AL,1,Geneva,061
+"Greene County, Alabama",Alabama,AL,1,Greene,063
+"Hale County, Alabama",Alabama,AL,1,Hale,065
+"Henry County, Alabama",Alabama,AL,1,Henry,067
+"Houston County, Alabama",Alabama,AL,1,Houston,069
+"Jackson County, Alabama",Alabama,AL,1,Jackson,071
+"Jefferson County, Alabama",Alabama,AL,1,Jefferson,073
+"Lamar County, Alabama",Alabama,AL,1,Lamar,075
+"Lauderdale County, Alabama",Alabama,AL,1,Lauderdale,077
+"Lawrence County, Alabama",Alabama,AL,1,Lawrence,079
+"Lee County, Alabama",Alabama,AL,1,Lee,081
+"Limestone County, Alabama",Alabama,AL,1,Limestone,083
+"Lowndes County, Alabama",Alabama,AL,1,Lowndes,085
+"Macon County, Alabama",Alabama,AL,1,Macon,087
+"Madison County, Alabama",Alabama,AL,1,Madison,089
+"Marengo County, Alabama",Alabama,AL,1,Marengo,091
+"Marion County, Alabama",Alabama,AL,1,Marion,093
+"Marshall County, Alabama",Alabama,AL,1,Marshall,095
+"Mobile County, Alabama",Alabama,AL,1,Mobile,097
+"Monroe County, Alabama",Alabama,AL,1,Monroe,099
+"Montgomery County, Alabama",Alabama,AL,1,Montgomery,101
+"Morgan County, Alabama",Alabama,AL,1,Morgan,103
+"Perry County, Alabama",Alabama,AL,1,Perry,105
+"Pickens County, Alabama",Alabama,AL,1,Pickens,107
+"Pike County, Alabama",Alabama,AL,1,Pike,109
+"Randolph County, Alabama",Alabama,AL,1,Randolph,111
+"Russell County, Alabama",Alabama,AL,1,Russell,113
+"St. Clair County, Alabama",Alabama,AL,1,St. Clair,115
+"Shelby County, Alabama",Alabama,AL,1,Shelby,117
+"Sumter County, Alabama",Alabama,AL,1,Sumter,119
+"Talladega County, Alabama",Alabama,AL,1,Talladega,121
+"Tallapoosa County, Alabama",Alabama,AL,1,Tallapoosa,123
+"Tuscaloosa County, Alabama",Alabama,AL,1,Tuscaloosa,125
+"Walker County, Alabama",Alabama,AL,1,Walker,127
+"Washington County, Alabama",Alabama,AL,1,Washington,129
+"Wilcox County, Alabama",Alabama,AL,1,Wilcox,131
+"Winston County, Alabama",Alabama,AL,1,Winston,133
+"Aleutians East Borough, Alaska",Alaska,AK,2,Aleutians East ,013
+"Aleutians West Census Area, Alaska",Alaska,AK,2,Aleutians West Cens,016
+"Anchorage Municipality, Alaska",Alaska,AK,2,Anchorage Munic,020
+"Bethel Census Area, Alaska",Alaska,AK,2,Bethel Cens,050
+"Bristol Bay Borough, Alaska",Alaska,AK,2,Bristol Bay ,060
+"Denali Borough, Alaska",Alaska,AK,2,Denali ,068
+"Dillingham Census Area, Alaska",Alaska,AK,2,Dillingham Cens,070
+"Fairbanks North Star Borough, Alaska",Alaska,AK,2,Fairbanks North Star ,090
+"Haines Borough, Alaska",Alaska,AK,2,Haines ,100
+"Hoonah-Angoon Census Area, Alaska",Alaska,AK,2,Hoonah-Angoon Cens,105
+"Juneau City and Borough, Alaska",Alaska,AK,2,Juneau City and ,110
+"Kenai Peninsula Borough, Alaska",Alaska,AK,2,Kenai Peninsula ,122
+"Ketchikan Gateway Borough, Alaska",Alaska,AK,2,Ketchikan Gateway ,130
+"Kodiak Island Borough, Alaska",Alaska,AK,2,Kodiak Island ,150
+"Lake and Peninsula Borough, Alaska",Alaska,AK,2,Lake and Peninsula ,164
+"Matanuska-Susitna Borough, Alaska",Alaska,AK,2,Matanuska-Susitna ,170
+"Nome Census Area, Alaska",Alaska,AK,2,Nome Cens,180
+"North Slope Borough, Alaska",Alaska,AK,2,North Slope ,185
+"Northwest Arctic Borough, Alaska",Alaska,AK,2,Northwest Arctic ,188
+"Petersburg Census Area, Alaska",Alaska,AK,2,Petersburg Cens,195
+"Prince of Wales-Hyder Census Area, Alaska",Alaska,AK,2,Prince of Wales-Hyder Cens,198
+"Sitka City and Borough, Alaska",Alaska,AK,2,Sitka City and ,220
+"Skagway Municipality, Alaska",Alaska,AK,2,Skagway Munic,230
+"Southeast Fairbanks Census Area, Alaska",Alaska,AK,2,Southeast Fairbanks Cens,240
+"Valdez-Cordova Census Area, Alaska",Alaska,AK,2,Valdez-Cordova Cens,261
+"Wade Hampton Census Area, Alaska",Alaska,AK,2,Wade Hampton Cens,270
+"Wrangell City and Borough, Alaska",Alaska,AK,2,Wrangell City and ,275
+"Yakutat City and Borough, Alaska",Alaska,AK,2,Yakutat City and ,282
+"Yukon-Koyukuk Census Area, Alaska",Alaska,AK,2,Yukon-Koyukuk Cens,290
+"Apache County, Arizona",Arizona,AZ,4,Apache,001
+"Cochise County, Arizona",Arizona,AZ,4,Cochise,003
+"Coconino County, Arizona",Arizona,AZ,4,Coconino,005
+"Gila County, Arizona",Arizona,AZ,4,Gila,007
+"Graham County, Arizona",Arizona,AZ,4,Graham,009
+"Greenlee County, Arizona",Arizona,AZ,4,Greenlee,011
+"La Paz County, Arizona",Arizona,AZ,4,La Paz,012
+"Maricopa County, Arizona",Arizona,AZ,4,Maricopa,013
+"Mohave County, Arizona",Arizona,AZ,4,Mohave,015
+"Navajo County, Arizona",Arizona,AZ,4,Navajo,017
+"Pima County, Arizona",Arizona,AZ,4,Pima,019
+"Pinal County, Arizona",Arizona,AZ,4,Pinal,021
+"Santa Cruz County, Arizona",Arizona,AZ,4,Santa Cruz,023
+"Yavapai County, Arizona",Arizona,AZ,4,Yavapai,025
+"Yuma County, Arizona",Arizona,AZ,4,Yuma,027
+"Arkansas County, Arkansas",Arkansas,AR,5,Arkansas,001
+"Ashley County, Arkansas",Arkansas,AR,5,Ashley,003
+"Baxter County, Arkansas",Arkansas,AR,5,Baxter,005
+"Benton County, Arkansas",Arkansas,AR,5,Benton,007
+"Boone County, Arkansas",Arkansas,AR,5,Boone,009
+"Bradley County, Arkansas",Arkansas,AR,5,Bradley,011
+"Calhoun County, Arkansas",Arkansas,AR,5,Calhoun,013
+"Carroll County, Arkansas",Arkansas,AR,5,Carroll,015
+"Chicot County, Arkansas",Arkansas,AR,5,Chicot,017
+"Clark County, Arkansas",Arkansas,AR,5,Clark,019
+"Clay County, Arkansas",Arkansas,AR,5,Clay,021
+"Cleburne County, Arkansas",Arkansas,AR,5,Cleburne,023
+"Cleveland County, Arkansas",Arkansas,AR,5,Cleveland,025
+"Columbia County, Arkansas",Arkansas,AR,5,Columbia,027
+"Conway County, Arkansas",Arkansas,AR,5,Conway,029
+"Craighead County, Arkansas",Arkansas,AR,5,Craighead,031
+"Crawford County, Arkansas",Arkansas,AR,5,Crawford,033
+"Crittenden County, Arkansas",Arkansas,AR,5,Crittenden,035
+"Cross County, Arkansas",Arkansas,AR,5,Cross,037
+"Dallas County, Arkansas",Arkansas,AR,5,Dallas,039
+"Desha County, Arkansas",Arkansas,AR,5,Desha,041
+"Drew County, Arkansas",Arkansas,AR,5,Drew,043
+"Faulkner County, Arkansas",Arkansas,AR,5,Faulkner,045
+"Franklin County, Arkansas",Arkansas,AR,5,Franklin,047
+"Fulton County, Arkansas",Arkansas,AR,5,Fulton,049
+"Garland County, Arkansas",Arkansas,AR,5,Garland,051
+"Grant County, Arkansas",Arkansas,AR,5,Grant,053
+"Greene County, Arkansas",Arkansas,AR,5,Greene,055
+"Hempstead County, Arkansas",Arkansas,AR,5,Hempstead,057
+"Hot Spring County, Arkansas",Arkansas,AR,5,Hot Spring,059
+"Howard County, Arkansas",Arkansas,AR,5,Howard,061
+"Independence County, Arkansas",Arkansas,AR,5,Independence,063
+"Izard County, Arkansas",Arkansas,AR,5,Izard,065
+"Jackson County, Arkansas",Arkansas,AR,5,Jackson,067
+"Jefferson County, Arkansas",Arkansas,AR,5,Jefferson,069
+"Johnson County, Arkansas",Arkansas,AR,5,Johnson,071
+"Lafayette County, Arkansas",Arkansas,AR,5,Lafayette,073
+"Lawrence County, Arkansas",Arkansas,AR,5,Lawrence,075
+"Lee County, Arkansas",Arkansas,AR,5,Lee,077
+"Lincoln County, Arkansas",Arkansas,AR,5,Lincoln,079
+"Little River County, Arkansas",Arkansas,AR,5,Little River,081
+"Logan County, Arkansas",Arkansas,AR,5,Logan,083
+"Lonoke County, Arkansas",Arkansas,AR,5,Lonoke,085
+"Madison County, Arkansas",Arkansas,AR,5,Madison,087
+"Marion County, Arkansas",Arkansas,AR,5,Marion,089
+"Miller County, Arkansas",Arkansas,AR,5,Miller,091
+"Mississippi County, Arkansas",Arkansas,AR,5,Mississippi,093
+"Monroe County, Arkansas",Arkansas,AR,5,Monroe,095
+"Montgomery County, Arkansas",Arkansas,AR,5,Montgomery,097
+"Nevada County, Arkansas",Arkansas,AR,5,Nevada,099
+"Newton County, Arkansas",Arkansas,AR,5,Newton,101
+"Ouachita County, Arkansas",Arkansas,AR,5,Ouachita,103
+"Perry County, Arkansas",Arkansas,AR,5,Perry,105
+"Phillips County, Arkansas",Arkansas,AR,5,Phillips,107
+"Pike County, Arkansas",Arkansas,AR,5,Pike,109
+"Poinsett County, Arkansas",Arkansas,AR,5,Poinsett,111
+"Polk County, Arkansas",Arkansas,AR,5,Polk,113
+"Pope County, Arkansas",Arkansas,AR,5,Pope,115
+"Prairie County, Arkansas",Arkansas,AR,5,Prairie,117
+"Pulaski County, Arkansas",Arkansas,AR,5,Pulaski,119
+"Randolph County, Arkansas",Arkansas,AR,5,Randolph,121
+"St. Francis County, Arkansas",Arkansas,AR,5,St. Francis,123
+"Saline County, Arkansas",Arkansas,AR,5,Saline,125
+"Scott County, Arkansas",Arkansas,AR,5,Scott,127
+"Searcy County, Arkansas",Arkansas,AR,5,Searcy,129
+"Sebastian County, Arkansas",Arkansas,AR,5,Sebastian,131
+"Sevier County, Arkansas",Arkansas,AR,5,Sevier,133
+"Sharp County, Arkansas",Arkansas,AR,5,Sharp,135
+"Stone County, Arkansas",Arkansas,AR,5,Stone,137
+"Union County, Arkansas",Arkansas,AR,5,Union,139
+"Van Buren County, Arkansas",Arkansas,AR,5,Van Buren,141
+"Washington County, Arkansas",Arkansas,AR,5,Washington,143
+"White County, Arkansas",Arkansas,AR,5,White,145
+"Woodruff County, Arkansas",Arkansas,AR,5,Woodruff,147
+"Yell County, Arkansas",Arkansas,AR,5,Yell,149
+"Alameda County, California",California,CA,6,Alameda,001
+"Alpine County, California",California,CA,6,Alpine,003
+"Amador County, California",California,CA,6,Amador,005
+"Butte County, California",California,CA,6,Butte,007
+"Calaveras County, California",California,CA,6,Calaveras,009
+"Colusa County, California",California,CA,6,Colusa,011
+"Contra Costa County, California",California,CA,6,Contra Costa,013
+"Del Norte County, California",California,CA,6,Del Norte,015
+"El Dorado County, California",California,CA,6,El Dorado,017
+"Fresno County, California",California,CA,6,Fresno,019
+"Glenn County, California",California,CA,6,Glenn,021
+"Humboldt County, California",California,CA,6,Humboldt,023
+"Imperial County, California",California,CA,6,Imperial,025
+"Inyo County, California",California,CA,6,Inyo,027
+"Kern County, California",California,CA,6,Kern,029
+"Kings County, California",California,CA,6,Kings,031
+"Lake County, California",California,CA,6,Lake,033
+"Lassen County, California",California,CA,6,Lassen,035
+"Los Angeles County, California",California,CA,6,Los Angeles,037
+"Madera County, California",California,CA,6,Madera,039
+"Marin County, California",California,CA,6,Marin,041
+"Mariposa County, California",California,CA,6,Mariposa,043
+"Mendocino County, California",California,CA,6,Mendocino,045
+"Merced County, California",California,CA,6,Merced,047
+"Modoc County, California",California,CA,6,Modoc,049
+"Mono County, California",California,CA,6,Mono,051
+"Monterey County, California",California,CA,6,Monterey,053
+"Napa County, California",California,CA,6,Napa,055
+"Nevada County, California",California,CA,6,Nevada,057
+"Orange County, California",California,CA,6,Orange,059
+"Placer County, California",California,CA,6,Placer,061
+"Plumas County, California",California,CA,6,Plumas,063
+"Riverside County, California",California,CA,6,Riverside,065
+"Sacramento County, California",California,CA,6,Sacramento,067
+"San Benito County, California",California,CA,6,San Benito,069
+"San Bernardino County, California",California,CA,6,San Bernardino,071
+"San Diego County, California",California,CA,6,San Diego,073
+"San Francisco County, California",California,CA,6,San Francisco,075
+"San Joaquin County, California",California,CA,6,San Joaquin,077
+"San Luis Obispo County, California",California,CA,6,San Luis Obispo,079
+"San Mateo County, California",California,CA,6,San Mateo,081
+"Santa Barbara County, California",California,CA,6,Santa Barbara,083
+"Santa Clara County, California",California,CA,6,Santa Clara,085
+"Santa Cruz County, California",California,CA,6,Santa Cruz,087
+"Shasta County, California",California,CA,6,Shasta,089
+"Sierra County, California",California,CA,6,Sierra,091
+"Siskiyou County, California",California,CA,6,Siskiyou,093
+"Solano County, California",California,CA,6,Solano,095
+"Sonoma County, California",California,CA,6,Sonoma,097
+"Stanislaus County, California",California,CA,6,Stanislaus,099
+"Sutter County, California",California,CA,6,Sutter,101
+"Tehama County, California",California,CA,6,Tehama,103
+"Trinity County, California",California,CA,6,Trinity,105
+"Tulare County, California",California,CA,6,Tulare,107
+"Tuolumne County, California",California,CA,6,Tuolumne,109
+"Ventura County, California",California,CA,6,Ventura,111
+"Yolo County, California",California,CA,6,Yolo,113
+"Yuba County, California",California,CA,6,Yuba,115
+"Adams County, Colorado",Colorado,CO,8,Adams,001
+"Alamosa County, Colorado",Colorado,CO,8,Alamosa,003
+"Arapahoe County, Colorado",Colorado,CO,8,Arapahoe,005
+"Archuleta County, Colorado",Colorado,CO,8,Archuleta,007
+"Baca County, Colorado",Colorado,CO,8,Baca,009
+"Bent County, Colorado",Colorado,CO,8,Bent,011
+"Boulder County, Colorado",Colorado,CO,8,Boulder,013
+"Broomfield County, Colorado",Colorado,CO,8,Broomfield,014
+"Chaffee County, Colorado",Colorado,CO,8,Chaffee,015
+"Cheyenne County, Colorado",Colorado,CO,8,Cheyenne,017
+"Clear Creek County, Colorado",Colorado,CO,8,Clear Creek,019
+"Conejos County, Colorado",Colorado,CO,8,Conejos,021
+"Costilla County, Colorado",Colorado,CO,8,Costilla,023
+"Crowley County, Colorado",Colorado,CO,8,Crowley,025
+"Custer County, Colorado",Colorado,CO,8,Custer,027
+"Delta County, Colorado",Colorado,CO,8,Delta,029
+"Denver County, Colorado",Colorado,CO,8,Denver,031
+"Dolores County, Colorado",Colorado,CO,8,Dolores,033
+"Douglas County, Colorado",Colorado,CO,8,Douglas,035
+"Eagle County, Colorado",Colorado,CO,8,Eagle,037
+"Elbert County, Colorado",Colorado,CO,8,Elbert,039
+"El Paso County, Colorado",Colorado,CO,8,El Paso,041
+"Fremont County, Colorado",Colorado,CO,8,Fremont,043
+"Garfield County, Colorado",Colorado,CO,8,Garfield,045
+"Gilpin County, Colorado",Colorado,CO,8,Gilpin,047
+"Grand County, Colorado",Colorado,CO,8,Grand,049
+"Gunnison County, Colorado",Colorado,CO,8,Gunnison,051
+"Hinsdale County, Colorado",Colorado,CO,8,Hinsdale,053
+"Huerfano County, Colorado",Colorado,CO,8,Huerfano,055
+"Jackson County, Colorado",Colorado,CO,8,Jackson,057
+"Jefferson County, Colorado",Colorado,CO,8,Jefferson,059
+"Kiowa County, Colorado",Colorado,CO,8,Kiowa,061
+"Kit Carson County, Colorado",Colorado,CO,8,Kit Carson,063
+"Lake County, Colorado",Colorado,CO,8,Lake,065
+"La Plata County, Colorado",Colorado,CO,8,La Plata,067
+"Larimer County, Colorado",Colorado,CO,8,Larimer,069
+"Las Animas County, Colorado",Colorado,CO,8,Las Animas,071
+"Lincoln County, Colorado",Colorado,CO,8,Lincoln,073
+"Logan County, Colorado",Colorado,CO,8,Logan,075
+"Mesa County, Colorado",Colorado,CO,8,Mesa,077
+"Mineral County, Colorado",Colorado,CO,8,Mineral,079
+"Moffat County, Colorado",Colorado,CO,8,Moffat,081
+"Montezuma County, Colorado",Colorado,CO,8,Montezuma,083
+"Montrose County, Colorado",Colorado,CO,8,Montrose,085
+"Morgan County, Colorado",Colorado,CO,8,Morgan,087
+"Otero County, Colorado",Colorado,CO,8,Otero,089
+"Ouray County, Colorado",Colorado,CO,8,Ouray,091
+"Park County, Colorado",Colorado,CO,8,Park,093
+"Phillips County, Colorado",Colorado,CO,8,Phillips,095
+"Pitkin County, Colorado",Colorado,CO,8,Pitkin,097
+"Prowers County, Colorado",Colorado,CO,8,Prowers,099
+"Pueblo County, Colorado",Colorado,CO,8,Pueblo,101
+"Rio Blanco County, Colorado",Colorado,CO,8,Rio Blanco,103
+"Rio Grande County, Colorado",Colorado,CO,8,Rio Grande,105
+"Routt County, Colorado",Colorado,CO,8,Routt,107
+"Saguache County, Colorado",Colorado,CO,8,Saguache,109
+"San Juan County, Colorado",Colorado,CO,8,San Juan,111
+"San Miguel County, Colorado",Colorado,CO,8,San Miguel,113
+"Sedgwick County, Colorado",Colorado,CO,8,Sedgwick,115
+"Summit County, Colorado",Colorado,CO,8,Summit,117
+"Teller County, Colorado",Colorado,CO,8,Teller,119
+"Washington County, Colorado",Colorado,CO,8,Washington,121
+"Weld County, Colorado",Colorado,CO,8,Weld,123
+"Yuma County, Colorado",Colorado,CO,8,Yuma,125
+"Fairfield County, Connecticut",Connecticut,CT,9,Fairfield,001
+"Hartford County, Connecticut",Connecticut,CT,9,Hartford,003
+"Litchfield County, Connecticut",Connecticut,CT,9,Litchfield,005
+"Middlesex County, Connecticut",Connecticut,CT,9,Middlesex,007
+"New Haven County, Connecticut",Connecticut,CT,9,New Haven,009
+"New London County, Connecticut",Connecticut,CT,9,New London,011
+"Tolland County, Connecticut",Connecticut,CT,9,Tolland,013
+"Windham County, Connecticut",Connecticut,CT,9,Windham,015
+"Kent County, Delaware",Delaware,DE,10,Kent,001
+"New Castle County, Delaware",Delaware,DE,10,New Castle,003
+"Sussex County, Delaware",Delaware,DE,10,Sussex,005
+"District of Columbia, District of Columbia",District of Columbia,DC,11,District of C,001
+"Alachua County, Florida",Florida,FL,12,Alachua,001
+"Baker County, Florida",Florida,FL,12,Baker,003
+"Bay County, Florida",Florida,FL,12,Bay,005
+"Bradford County, Florida",Florida,FL,12,Bradford,007
+"Brevard County, Florida",Florida,FL,12,Brevard,009
+"Broward County, Florida",Florida,FL,12,Broward,011
+"Calhoun County, Florida",Florida,FL,12,Calhoun,013
+"Charlotte County, Florida",Florida,FL,12,Charlotte,015
+"Citrus County, Florida",Florida,FL,12,Citrus,017
+"Clay County, Florida",Florida,FL,12,Clay,019
+"Collier County, Florida",Florida,FL,12,Collier,021
+"Columbia County, Florida",Florida,FL,12,Columbia,023
+"DeSoto County, Florida",Florida,FL,12,DeSoto,027
+"Dixie County, Florida",Florida,FL,12,Dixie,029
+"Duval County, Florida",Florida,FL,12,Duval,031
+"Escambia County, Florida",Florida,FL,12,Escambia,033
+"Flagler County, Florida",Florida,FL,12,Flagler,035
+"Franklin County, Florida",Florida,FL,12,Franklin,037
+"Gadsden County, Florida",Florida,FL,12,Gadsden,039
+"Gilchrist County, Florida",Florida,FL,12,Gilchrist,041
+"Glades County, Florida",Florida,FL,12,Glades,043
+"Gulf County, Florida",Florida,FL,12,Gulf,045
+"Hamilton County, Florida",Florida,FL,12,Hamilton,047
+"Hardee County, Florida",Florida,FL,12,Hardee,049
+"Hendry County, Florida",Florida,FL,12,Hendry,051
+"Hernando County, Florida",Florida,FL,12,Hernando,053
+"Highlands County, Florida",Florida,FL,12,Highlands,055
+"Hillsborough County, Florida",Florida,FL,12,Hillsborough,057
+"Holmes County, Florida",Florida,FL,12,Holmes,059
+"Indian River County, Florida",Florida,FL,12,Indian River,061
+"Jackson County, Florida",Florida,FL,12,Jackson,063
+"Jefferson County, Florida",Florida,FL,12,Jefferson,065
+"Lafayette County, Florida",Florida,FL,12,Lafayette,067
+"Lake County, Florida",Florida,FL,12,Lake,069
+"Lee County, Florida",Florida,FL,12,Lee,071
+"Leon County, Florida",Florida,FL,12,Leon,073
+"Levy County, Florida",Florida,FL,12,Levy,075
+"Liberty County, Florida",Florida,FL,12,Liberty,077
+"Madison County, Florida",Florida,FL,12,Madison,079
+"Manatee County, Florida",Florida,FL,12,Manatee,081
+"Marion County, Florida",Florida,FL,12,Marion,083
+"Martin County, Florida",Florida,FL,12,Martin,085
+"Miami-Dade County, Florida",Florida,FL,12,Miami-Dade,086
+"Monroe County, Florida",Florida,FL,12,Monroe,087
+"Nassau County, Florida",Florida,FL,12,Nassau,089
+"Okaloosa County, Florida",Florida,FL,12,Okaloosa,091
+"Okeechobee County, Florida",Florida,FL,12,Okeechobee,093
+"Orange County, Florida",Florida,FL,12,Orange,095
+"Osceola County, Florida",Florida,FL,12,Osceola,097
+"Palm Beach County, Florida",Florida,FL,12,Palm Beach,099
+"Pasco County, Florida",Florida,FL,12,Pasco,101
+"Pinellas County, Florida",Florida,FL,12,Pinellas,103
+"Polk County, Florida",Florida,FL,12,Polk,105
+"Putnam County, Florida",Florida,FL,12,Putnam,107
+"St. Johns County, Florida",Florida,FL,12,St. Johns,109
+"St. Lucie County, Florida",Florida,FL,12,St. Lucie,111
+"Santa Rosa County, Florida",Florida,FL,12,Santa Rosa,113
+"Sarasota County, Florida",Florida,FL,12,Sarasota,115
+"Seminole County, Florida",Florida,FL,12,Seminole,117
+"Sumter County, Florida",Florida,FL,12,Sumter,119
+"Suwannee County, Florida",Florida,FL,12,Suwannee,121
+"Taylor County, Florida",Florida,FL,12,Taylor,123
+"Union County, Florida",Florida,FL,12,Union,125
+"Volusia County, Florida",Florida,FL,12,Volusia,127
+"Wakulla County, Florida",Florida,FL,12,Wakulla,129
+"Walton County, Florida",Florida,FL,12,Walton,131
+"Washington County, Florida",Florida,FL,12,Washington,133
+"Appling County, Georgia",Georgia,GA,13,Appling,001
+"Atkinson County, Georgia",Georgia,GA,13,Atkinson,003
+"Bacon County, Georgia",Georgia,GA,13,Bacon,005
+"Baker County, Georgia",Georgia,GA,13,Baker,007
+"Baldwin County, Georgia",Georgia,GA,13,Baldwin,009
+"Banks County, Georgia",Georgia,GA,13,Banks,011
+"Barrow County, Georgia",Georgia,GA,13,Barrow,013
+"Bartow County, Georgia",Georgia,GA,13,Bartow,015
+"Ben Hill County, Georgia",Georgia,GA,13,Ben Hill,017
+"Berrien County, Georgia",Georgia,GA,13,Berrien,019
+"Bibb County, Georgia",Georgia,GA,13,Bibb,021
+"Bleckley County, Georgia",Georgia,GA,13,Bleckley,023
+"Brantley County, Georgia",Georgia,GA,13,Brantley,025
+"Brooks County, Georgia",Georgia,GA,13,Brooks,027
+"Bryan County, Georgia",Georgia,GA,13,Bryan,029
+"Bulloch County, Georgia",Georgia,GA,13,Bulloch,031
+"Burke County, Georgia",Georgia,GA,13,Burke,033
+"Butts County, Georgia",Georgia,GA,13,Butts,035
+"Calhoun County, Georgia",Georgia,GA,13,Calhoun,037
+"Camden County, Georgia",Georgia,GA,13,Camden,039
+"Candler County, Georgia",Georgia,GA,13,Candler,043
+"Carroll County, Georgia",Georgia,GA,13,Carroll,045
+"Catoosa County, Georgia",Georgia,GA,13,Catoosa,047
+"Charlton County, Georgia",Georgia,GA,13,Charlton,049
+"Chatham County, Georgia",Georgia,GA,13,Chatham,051
+"Chattahoochee County, Georgia",Georgia,GA,13,Chattahoochee,053
+"Chattooga County, Georgia",Georgia,GA,13,Chattooga,055
+"Cherokee County, Georgia",Georgia,GA,13,Cherokee,057
+"Clarke County, Georgia",Georgia,GA,13,Clarke,059
+"Clay County, Georgia",Georgia,GA,13,Clay,061
+"Clayton County, Georgia",Georgia,GA,13,Clayton,063
+"Clinch County, Georgia",Georgia,GA,13,Clinch,065
+"Cobb County, Georgia",Georgia,GA,13,Cobb,067
+"Coffee County, Georgia",Georgia,GA,13,Coffee,069
+"Colquitt County, Georgia",Georgia,GA,13,Colquitt,071
+"Columbia County, Georgia",Georgia,GA,13,Columbia,073
+"Cook County, Georgia",Georgia,GA,13,Cook,075
+"Coweta County, Georgia",Georgia,GA,13,Coweta,077
+"Crawford County, Georgia",Georgia,GA,13,Crawford,079
+"Crisp County, Georgia",Georgia,GA,13,Crisp,081
+"Dade County, Georgia",Georgia,GA,13,Dade,083
+"Dawson County, Georgia",Georgia,GA,13,Dawson,085
+"Decatur County, Georgia",Georgia,GA,13,Decatur,087
+"DeKalb County, Georgia",Georgia,GA,13,DeKalb,089
+"Dodge County, Georgia",Georgia,GA,13,Dodge,091
+"Dooly County, Georgia",Georgia,GA,13,Dooly,093
+"Dougherty County, Georgia",Georgia,GA,13,Dougherty,095
+"Douglas County, Georgia",Georgia,GA,13,Douglas,097
+"Early County, Georgia",Georgia,GA,13,Early,099
+"Echols County, Georgia",Georgia,GA,13,Echols,101
+"Effingham County, Georgia",Georgia,GA,13,Effingham,103
+"Elbert County, Georgia",Georgia,GA,13,Elbert,105
+"Emanuel County, Georgia",Georgia,GA,13,Emanuel,107
+"Evans County, Georgia",Georgia,GA,13,Evans,109
+"Fannin County, Georgia",Georgia,GA,13,Fannin,111
+"Fayette County, Georgia",Georgia,GA,13,Fayette,113
+"Floyd County, Georgia",Georgia,GA,13,Floyd,115
+"Forsyth County, Georgia",Georgia,GA,13,Forsyth,117
+"Franklin County, Georgia",Georgia,GA,13,Franklin,119
+"Fulton County, Georgia",Georgia,GA,13,Fulton,121
+"Gilmer County, Georgia",Georgia,GA,13,Gilmer,123
+"Glascock County, Georgia",Georgia,GA,13,Glascock,125
+"Glynn County, Georgia",Georgia,GA,13,Glynn,127
+"Gordon County, Georgia",Georgia,GA,13,Gordon,129
+"Grady County, Georgia",Georgia,GA,13,Grady,131
+"Greene County, Georgia",Georgia,GA,13,Greene,133
+"Gwinnett County, Georgia",Georgia,GA,13,Gwinnett,135
+"Habersham County, Georgia",Georgia,GA,13,Habersham,137
+"Hall County, Georgia",Georgia,GA,13,Hall,139
+"Hancock County, Georgia",Georgia,GA,13,Hancock,141
+"Haralson County, Georgia",Georgia,GA,13,Haralson,143
+"Harris County, Georgia",Georgia,GA,13,Harris,145
+"Hart County, Georgia",Georgia,GA,13,Hart,147
+"Heard County, Georgia",Georgia,GA,13,Heard,149
+"Henry County, Georgia",Georgia,GA,13,Henry,151
+"Houston County, Georgia",Georgia,GA,13,Houston,153
+"Irwin County, Georgia",Georgia,GA,13,Irwin,155
+"Jackson County, Georgia",Georgia,GA,13,Jackson,157
+"Jasper County, Georgia",Georgia,GA,13,Jasper,159
+"Jeff Davis County, Georgia",Georgia,GA,13,Jeff Davis,161
+"Jefferson County, Georgia",Georgia,GA,13,Jefferson,163
+"Jenkins County, Georgia",Georgia,GA,13,Jenkins,165
+"Johnson County, Georgia",Georgia,GA,13,Johnson,167
+"Jones County, Georgia",Georgia,GA,13,Jones,169
+"Lamar County, Georgia",Georgia,GA,13,Lamar,171
+"Lanier County, Georgia",Georgia,GA,13,Lanier,173
+"Laurens County, Georgia",Georgia,GA,13,Laurens,175
+"Lee County, Georgia",Georgia,GA,13,Lee,177
+"Liberty County, Georgia",Georgia,GA,13,Liberty,179
+"Lincoln County, Georgia",Georgia,GA,13,Lincoln,181
+"Long County, Georgia",Georgia,GA,13,Long,183
+"Lowndes County, Georgia",Georgia,GA,13,Lowndes,185
+"Lumpkin County, Georgia",Georgia,GA,13,Lumpkin,187
+"McDuffie County, Georgia",Georgia,GA,13,McDuffie,189
+"McIntosh County, Georgia",Georgia,GA,13,McIntosh,191
+"Macon County, Georgia",Georgia,GA,13,Macon,193
+"Madison County, Georgia",Georgia,GA,13,Madison,195
+"Marion County, Georgia",Georgia,GA,13,Marion,197
+"Meriwether County, Georgia",Georgia,GA,13,Meriwether,199
+"Miller County, Georgia",Georgia,GA,13,Miller,201
+"Mitchell County, Georgia",Georgia,GA,13,Mitchell,205
+"Monroe County, Georgia",Georgia,GA,13,Monroe,207
+"Montgomery County, Georgia",Georgia,GA,13,Montgomery,209
+"Morgan County, Georgia",Georgia,GA,13,Morgan,211
+"Murray County, Georgia",Georgia,GA,13,Murray,213
+"Muscogee County, Georgia",Georgia,GA,13,Muscogee,215
+"Newton County, Georgia",Georgia,GA,13,Newton,217
+"Oconee County, Georgia",Georgia,GA,13,Oconee,219
+"Oglethorpe County, Georgia",Georgia,GA,13,Oglethorpe,221
+"Paulding County, Georgia",Georgia,GA,13,Paulding,223
+"Peach County, Georgia",Georgia,GA,13,Peach,225
+"Pickens County, Georgia",Georgia,GA,13,Pickens,227
+"Pierce County, Georgia",Georgia,GA,13,Pierce,229
+"Pike County, Georgia",Georgia,GA,13,Pike,231
+"Polk County, Georgia",Georgia,GA,13,Polk,233
+"Pulaski County, Georgia",Georgia,GA,13,Pulaski,235
+"Putnam County, Georgia",Georgia,GA,13,Putnam,237
+"Quitman County, Georgia",Georgia,GA,13,Quitman,239
+"Rabun County, Georgia",Georgia,GA,13,Rabun,241
+"Randolph County, Georgia",Georgia,GA,13,Randolph,243
+"Richmond County, Georgia",Georgia,GA,13,Richmond,245
+"Rockdale County, Georgia",Georgia,GA,13,Rockdale,247
+"Schley County, Georgia",Georgia,GA,13,Schley,249
+"Screven County, Georgia",Georgia,GA,13,Screven,251
+"Seminole County, Georgia",Georgia,GA,13,Seminole,253
+"Spalding County, Georgia",Georgia,GA,13,Spalding,255
+"Stephens County, Georgia",Georgia,GA,13,Stephens,257
+"Stewart County, Georgia",Georgia,GA,13,Stewart,259
+"Sumter County, Georgia",Georgia,GA,13,Sumter,261
+"Talbot County, Georgia",Georgia,GA,13,Talbot,263
+"Taliaferro County, Georgia",Georgia,GA,13,Taliaferro,265
+"Tattnall County, Georgia",Georgia,GA,13,Tattnall,267
+"Taylor County, Georgia",Georgia,GA,13,Taylor,269
+"Telfair County, Georgia",Georgia,GA,13,Telfair,271
+"Terrell County, Georgia",Georgia,GA,13,Terrell,273
+"Thomas County, Georgia",Georgia,GA,13,Thomas,275
+"Tift County, Georgia",Georgia,GA,13,Tift,277
+"Toombs County, Georgia",Georgia,GA,13,Toombs,279
+"Towns County, Georgia",Georgia,GA,13,Towns,281
+"Treutlen County, Georgia",Georgia,GA,13,Treutlen,283
+"Troup County, Georgia",Georgia,GA,13,Troup,285
+"Turner County, Georgia",Georgia,GA,13,Turner,287
+"Twiggs County, Georgia",Georgia,GA,13,Twiggs,289
+"Union County, Georgia",Georgia,GA,13,Union,291
+"Upson County, Georgia",Georgia,GA,13,Upson,293
+"Walker County, Georgia",Georgia,GA,13,Walker,295
+"Walton County, Georgia",Georgia,GA,13,Walton,297
+"Ware County, Georgia",Georgia,GA,13,Ware,299
+"Warren County, Georgia",Georgia,GA,13,Warren,301
+"Washington County, Georgia",Georgia,GA,13,Washington,303
+"Wayne County, Georgia",Georgia,GA,13,Wayne,305
+"Webster County, Georgia",Georgia,GA,13,Webster,307
+"Wheeler County, Georgia",Georgia,GA,13,Wheeler,309
+"White County, Georgia",Georgia,GA,13,White,311
+"Whitfield County, Georgia",Georgia,GA,13,Whitfield,313
+"Wilcox County, Georgia",Georgia,GA,13,Wilcox,315
+"Wilkes County, Georgia",Georgia,GA,13,Wilkes,317
+"Wilkinson County, Georgia",Georgia,GA,13,Wilkinson,319
+"Worth County, Georgia",Georgia,GA,13,Worth,321
+"Hawaii County, Hawaii",Hawaii,HI,15,Hawaii,001
+"Honolulu County, Hawaii",Hawaii,HI,15,Honolulu,003
+"Kalawao County, Hawaii",Hawaii,HI,15,Kalawao,005
+"Kauai County, Hawaii",Hawaii,HI,15,Kauai,007
+"Maui County, Hawaii",Hawaii,HI,15,Maui,009
+"Ada County, Idaho",Idaho,ID,16,Ada,001
+"Adams County, Idaho",Idaho,ID,16,Adams,003
+"Bannock County, Idaho",Idaho,ID,16,Bannock,005
+"Bear Lake County, Idaho",Idaho,ID,16,Bear Lake,007
+"Benewah County, Idaho",Idaho,ID,16,Benewah,009
+"Bingham County, Idaho",Idaho,ID,16,Bingham,011
+"Blaine County, Idaho",Idaho,ID,16,Blaine,013
+"Boise County, Idaho",Idaho,ID,16,Boise,015
+"Bonner County, Idaho",Idaho,ID,16,Bonner,017
+"Bonneville County, Idaho",Idaho,ID,16,Bonneville,019
+"Boundary County, Idaho",Idaho,ID,16,Boundary,021
+"Butte County, Idaho",Idaho,ID,16,Butte,023
+"Camas County, Idaho",Idaho,ID,16,Camas,025
+"Canyon County, Idaho",Idaho,ID,16,Canyon,027
+"Caribou County, Idaho",Idaho,ID,16,Caribou,029
+"Cassia County, Idaho",Idaho,ID,16,Cassia,031
+"Clark County, Idaho",Idaho,ID,16,Clark,033
+"Clearwater County, Idaho",Idaho,ID,16,Clearwater,035
+"Custer County, Idaho",Idaho,ID,16,Custer,037
+"Elmore County, Idaho",Idaho,ID,16,Elmore,039
+"Franklin County, Idaho",Idaho,ID,16,Franklin,041
+"Fremont County, Idaho",Idaho,ID,16,Fremont,043
+"Gem County, Idaho",Idaho,ID,16,Gem,045
+"Gooding County, Idaho",Idaho,ID,16,Gooding,047
+"Idaho County, Idaho",Idaho,ID,16,Idaho,049
+"Jefferson County, Idaho",Idaho,ID,16,Jefferson,051
+"Jerome County, Idaho",Idaho,ID,16,Jerome,053
+"Kootenai County, Idaho",Idaho,ID,16,Kootenai,055
+"Latah County, Idaho",Idaho,ID,16,Latah,057
+"Lemhi County, Idaho",Idaho,ID,16,Lemhi,059
+"Lewis County, Idaho",Idaho,ID,16,Lewis,061
+"Lincoln County, Idaho",Idaho,ID,16,Lincoln,063
+"Madison County, Idaho",Idaho,ID,16,Madison,065
+"Minidoka County, Idaho",Idaho,ID,16,Minidoka,067
+"Nez Perce County, Idaho",Idaho,ID,16,Nez Perce,069
+"Oneida County, Idaho",Idaho,ID,16,Oneida,071
+"Owyhee County, Idaho",Idaho,ID,16,Owyhee,073
+"Payette County, Idaho",Idaho,ID,16,Payette,075
+"Power County, Idaho",Idaho,ID,16,Power,077
+"Shoshone County, Idaho",Idaho,ID,16,Shoshone,079
+"Teton County, Idaho",Idaho,ID,16,Teton,081
+"Twin Falls County, Idaho",Idaho,ID,16,Twin Falls,083
+"Valley County, Idaho",Idaho,ID,16,Valley,085
+"Washington County, Idaho",Idaho,ID,16,Washington,087
+"Adams County, Illinois",Illinois,IL,17,Adams,001
+"Alexander County, Illinois",Illinois,IL,17,Alexander,003
+"Bond County, Illinois",Illinois,IL,17,Bond,005
+"Boone County, Illinois",Illinois,IL,17,Boone,007
+"Brown County, Illinois",Illinois,IL,17,Brown,009
+"Bureau County, Illinois",Illinois,IL,17,Bureau,011
+"Calhoun County, Illinois",Illinois,IL,17,Calhoun,013
+"Carroll County, Illinois",Illinois,IL,17,Carroll,015
+"Cass County, Illinois",Illinois,IL,17,Cass,017
+"Champaign County, Illinois",Illinois,IL,17,Champaign,019
+"Christian County, Illinois",Illinois,IL,17,Christian,021
+"Clark County, Illinois",Illinois,IL,17,Clark,023
+"Clay County, Illinois",Illinois,IL,17,Clay,025
+"Clinton County, Illinois",Illinois,IL,17,Clinton,027
+"Coles County, Illinois",Illinois,IL,17,Coles,029
+"Cook County, Illinois",Illinois,IL,17,Cook,031
+"Crawford County, Illinois",Illinois,IL,17,Crawford,033
+"Cumberland County, Illinois",Illinois,IL,17,Cumberland,035
+"DeKalb County, Illinois",Illinois,IL,17,DeKalb,037
+"De Witt County, Illinois",Illinois,IL,17,De Witt,039
+"Douglas County, Illinois",Illinois,IL,17,Douglas,041
+"DuPage County, Illinois",Illinois,IL,17,DuPage,043
+"Edgar County, Illinois",Illinois,IL,17,Edgar,045
+"Edwards County, Illinois",Illinois,IL,17,Edwards,047
+"Effingham County, Illinois",Illinois,IL,17,Effingham,049
+"Fayette County, Illinois",Illinois,IL,17,Fayette,051
+"Ford County, Illinois",Illinois,IL,17,Ford,053
+"Franklin County, Illinois",Illinois,IL,17,Franklin,055
+"Fulton County, Illinois",Illinois,IL,17,Fulton,057
+"Gallatin County, Illinois",Illinois,IL,17,Gallatin,059
+"Greene County, Illinois",Illinois,IL,17,Greene,061
+"Grundy County, Illinois",Illinois,IL,17,Grundy,063
+"Hamilton County, Illinois",Illinois,IL,17,Hamilton,065
+"Hancock County, Illinois",Illinois,IL,17,Hancock,067
+"Hardin County, Illinois",Illinois,IL,17,Hardin,069
+"Henderson County, Illinois",Illinois,IL,17,Henderson,071
+"Henry County, Illinois",Illinois,IL,17,Henry,073
+"Iroquois County, Illinois",Illinois,IL,17,Iroquois,075
+"Jackson County, Illinois",Illinois,IL,17,Jackson,077
+"Jasper County, Illinois",Illinois,IL,17,Jasper,079
+"Jefferson County, Illinois",Illinois,IL,17,Jefferson,081
+"Jersey County, Illinois",Illinois,IL,17,Jersey,083
+"Jo Daviess County, Illinois",Illinois,IL,17,Jo Daviess,085
+"Johnson County, Illinois",Illinois,IL,17,Johnson,087
+"Kane County, Illinois",Illinois,IL,17,Kane,089
+"Kankakee County, Illinois",Illinois,IL,17,Kankakee,091
+"Kendall County, Illinois",Illinois,IL,17,Kendall,093
+"Knox County, Illinois",Illinois,IL,17,Knox,095
+"Lake County, Illinois",Illinois,IL,17,Lake,097
+"LaSalle County, Illinois",Illinois,IL,17,LaSalle,099
+"Lawrence County, Illinois",Illinois,IL,17,Lawrence,101
+"Lee County, Illinois",Illinois,IL,17,Lee,103
+"Livingston County, Illinois",Illinois,IL,17,Livingston,105
+"Logan County, Illinois",Illinois,IL,17,Logan,107
+"McDonough County, Illinois",Illinois,IL,17,McDonough,109
+"McHenry County, Illinois",Illinois,IL,17,McHenry,111
+"McLean County, Illinois",Illinois,IL,17,McLean,113
+"Macon County, Illinois",Illinois,IL,17,Macon,115
+"Macoupin County, Illinois",Illinois,IL,17,Macoupin,117
+"Madison County, Illinois",Illinois,IL,17,Madison,119
+"Marion County, Illinois",Illinois,IL,17,Marion,121
+"Marshall County, Illinois",Illinois,IL,17,Marshall,123
+"Mason County, Illinois",Illinois,IL,17,Mason,125
+"Massac County, Illinois",Illinois,IL,17,Massac,127
+"Menard County, Illinois",Illinois,IL,17,Menard,129
+"Mercer County, Illinois",Illinois,IL,17,Mercer,131
+"Monroe County, Illinois",Illinois,IL,17,Monroe,133
+"Montgomery County, Illinois",Illinois,IL,17,Montgomery,135
+"Morgan County, Illinois",Illinois,IL,17,Morgan,137
+"Moultrie County, Illinois",Illinois,IL,17,Moultrie,139
+"Ogle County, Illinois",Illinois,IL,17,Ogle,141
+"Peoria County, Illinois",Illinois,IL,17,Peoria,143
+"Perry County, Illinois",Illinois,IL,17,Perry,145
+"Piatt County, Illinois",Illinois,IL,17,Piatt,147
+"Pike County, Illinois",Illinois,IL,17,Pike,149
+"Pope County, Illinois",Illinois,IL,17,Pope,151
+"Pulaski County, Illinois",Illinois,IL,17,Pulaski,153
+"Putnam County, Illinois",Illinois,IL,17,Putnam,155
+"Randolph County, Illinois",Illinois,IL,17,Randolph,157
+"Richland County, Illinois",Illinois,IL,17,Richland,159
+"Rock Island County, Illinois",Illinois,IL,17,Rock Island,161
+"St. Clair County, Illinois",Illinois,IL,17,St. Clair,163
+"Saline County, Illinois",Illinois,IL,17,Saline,165
+"Sangamon County, Illinois",Illinois,IL,17,Sangamon,167
+"Schuyler County, Illinois",Illinois,IL,17,Schuyler,169
+"Scott County, Illinois",Illinois,IL,17,Scott,171
+"Shelby County, Illinois",Illinois,IL,17,Shelby,173
+"Stark County, Illinois",Illinois,IL,17,Stark,175
+"Stephenson County, Illinois",Illinois,IL,17,Stephenson,177
+"Tazewell County, Illinois",Illinois,IL,17,Tazewell,179
+"Union County, Illinois",Illinois,IL,17,Union,181
+"Vermilion County, Illinois",Illinois,IL,17,Vermilion,183
+"Wabash County, Illinois",Illinois,IL,17,Wabash,185
+"Warren County, Illinois",Illinois,IL,17,Warren,187
+"Washington County, Illinois",Illinois,IL,17,Washington,189
+"Wayne County, Illinois",Illinois,IL,17,Wayne,191
+"White County, Illinois",Illinois,IL,17,White,193
+"Whiteside County, Illinois",Illinois,IL,17,Whiteside,195
+"Will County, Illinois",Illinois,IL,17,Will,197
+"Williamson County, Illinois",Illinois,IL,17,Williamson,199
+"Winnebago County, Illinois",Illinois,IL,17,Winnebago,201
+"Woodford County, Illinois",Illinois,IL,17,Woodford,203
+"Adams County, Indiana",Indiana,IN,18,Adams,001
+"Allen County, Indiana",Indiana,IN,18,Allen,003
+"Bartholomew County, Indiana",Indiana,IN,18,Bartholomew,005
+"Benton County, Indiana",Indiana,IN,18,Benton,007
+"Blackford County, Indiana",Indiana,IN,18,Blackford,009
+"Boone County, Indiana",Indiana,IN,18,Boone,011
+"Brown County, Indiana",Indiana,IN,18,Brown,013
+"Carroll County, Indiana",Indiana,IN,18,Carroll,015
+"Cass County, Indiana",Indiana,IN,18,Cass,017
+"Clark County, Indiana",Indiana,IN,18,Clark,019
+"Clay County, Indiana",Indiana,IN,18,Clay,021
+"Clinton County, Indiana",Indiana,IN,18,Clinton,023
+"Crawford County, Indiana",Indiana,IN,18,Crawford,025
+"Daviess County, Indiana",Indiana,IN,18,Daviess,027
+"Dearborn County, Indiana",Indiana,IN,18,Dearborn,029
+"Decatur County, Indiana",Indiana,IN,18,Decatur,031
+"DeKalb County, Indiana",Indiana,IN,18,DeKalb,033
+"Delaware County, Indiana",Indiana,IN,18,Delaware,035
+"Dubois County, Indiana",Indiana,IN,18,Dubois,037
+"Elkhart County, Indiana",Indiana,IN,18,Elkhart,039
+"Fayette County, Indiana",Indiana,IN,18,Fayette,041
+"Floyd County, Indiana",Indiana,IN,18,Floyd,043
+"Fountain County, Indiana",Indiana,IN,18,Fountain,045
+"Franklin County, Indiana",Indiana,IN,18,Franklin,047
+"Fulton County, Indiana",Indiana,IN,18,Fulton,049
+"Gibson County, Indiana",Indiana,IN,18,Gibson,051
+"Grant County, Indiana",Indiana,IN,18,Grant,053
+"Greene County, Indiana",Indiana,IN,18,Greene,055
+"Hamilton County, Indiana",Indiana,IN,18,Hamilton,057
+"Hancock County, Indiana",Indiana,IN,18,Hancock,059
+"Harrison County, Indiana",Indiana,IN,18,Harrison,061
+"Hendricks County, Indiana",Indiana,IN,18,Hendricks,063
+"Henry County, Indiana",Indiana,IN,18,Henry,065
+"Howard County, Indiana",Indiana,IN,18,Howard,067
+"Huntington County, Indiana",Indiana,IN,18,Huntington,069
+"Jackson County, Indiana",Indiana,IN,18,Jackson,071
+"Jasper County, Indiana",Indiana,IN,18,Jasper,073
+"Jay County, Indiana",Indiana,IN,18,Jay,075
+"Jefferson County, Indiana",Indiana,IN,18,Jefferson,077
+"Jennings County, Indiana",Indiana,IN,18,Jennings,079
+"Johnson County, Indiana",Indiana,IN,18,Johnson,081
+"Knox County, Indiana",Indiana,IN,18,Knox,083
+"Kosciusko County, Indiana",Indiana,IN,18,Kosciusko,085
+"LaGrange County, Indiana",Indiana,IN,18,LaGrange,087
+"Lake County, Indiana",Indiana,IN,18,Lake,089
+"LaPorte County, Indiana",Indiana,IN,18,LaPorte,091
+"Lawrence County, Indiana",Indiana,IN,18,Lawrence,093
+"Madison County, Indiana",Indiana,IN,18,Madison,095
+"Marion County, Indiana",Indiana,IN,18,Marion,097
+"Marshall County, Indiana",Indiana,IN,18,Marshall,099
+"Martin County, Indiana",Indiana,IN,18,Martin,101
+"Miami County, Indiana",Indiana,IN,18,Miami,103
+"Monroe County, Indiana",Indiana,IN,18,Monroe,105
+"Montgomery County, Indiana",Indiana,IN,18,Montgomery,107
+"Morgan County, Indiana",Indiana,IN,18,Morgan,109
+"Newton County, Indiana",Indiana,IN,18,Newton,111
+"Noble County, Indiana",Indiana,IN,18,Noble,113
+"Ohio County, Indiana",Indiana,IN,18,Ohio,115
+"Orange County, Indiana",Indiana,IN,18,Orange,117
+"Owen County, Indiana",Indiana,IN,18,Owen,119
+"Parke County, Indiana",Indiana,IN,18,Parke,121
+"Perry County, Indiana",Indiana,IN,18,Perry,123
+"Pike County, Indiana",Indiana,IN,18,Pike,125
+"Porter County, Indiana",Indiana,IN,18,Porter,127
+"Posey County, Indiana",Indiana,IN,18,Posey,129
+"Pulaski County, Indiana",Indiana,IN,18,Pulaski,131
+"Putnam County, Indiana",Indiana,IN,18,Putnam,133
+"Randolph County, Indiana",Indiana,IN,18,Randolph,135
+"Ripley County, Indiana",Indiana,IN,18,Ripley,137
+"Rush County, Indiana",Indiana,IN,18,Rush,139
+"St. Joseph County, Indiana",Indiana,IN,18,St. Joseph,141
+"Scott County, Indiana",Indiana,IN,18,Scott,143
+"Shelby County, Indiana",Indiana,IN,18,Shelby,145
+"Spencer County, Indiana",Indiana,IN,18,Spencer,147
+"Starke County, Indiana",Indiana,IN,18,Starke,149
+"Steuben County, Indiana",Indiana,IN,18,Steuben,151
+"Sullivan County, Indiana",Indiana,IN,18,Sullivan,153
+"Switzerland County, Indiana",Indiana,IN,18,Switzerland,155
+"Tippecanoe County, Indiana",Indiana,IN,18,Tippecanoe,157
+"Tipton County, Indiana",Indiana,IN,18,Tipton,159
+"Union County, Indiana",Indiana,IN,18,Union,161
+"Vanderburgh County, Indiana",Indiana,IN,18,Vanderburgh,163
+"Vermillion County, Indiana",Indiana,IN,18,Vermillion,165
+"Vigo County, Indiana",Indiana,IN,18,Vigo,167
+"Wabash County, Indiana",Indiana,IN,18,Wabash,169
+"Warren County, Indiana",Indiana,IN,18,Warren,171
+"Warrick County, Indiana",Indiana,IN,18,Warrick,173
+"Washington County, Indiana",Indiana,IN,18,Washington,175
+"Wayne County, Indiana",Indiana,IN,18,Wayne,177
+"Wells County, Indiana",Indiana,IN,18,Wells,179
+"White County, Indiana",Indiana,IN,18,White,181
+"Whitley County, Indiana",Indiana,IN,18,Whitley,183
+"Adair County, Iowa",Iowa,IA,19,Adair,001
+"Adams County, Iowa",Iowa,IA,19,Adams,003
+"Allamakee County, Iowa",Iowa,IA,19,Allamakee,005
+"Appanoose County, Iowa",Iowa,IA,19,Appanoose,007
+"Audubon County, Iowa",Iowa,IA,19,Audubon,009
+"Benton County, Iowa",Iowa,IA,19,Benton,011
+"Black Hawk County, Iowa",Iowa,IA,19,Black Hawk,013
+"Boone County, Iowa",Iowa,IA,19,Boone,015
+"Bremer County, Iowa",Iowa,IA,19,Bremer,017
+"Buchanan County, Iowa",Iowa,IA,19,Buchanan,019
+"Buena Vista County, Iowa",Iowa,IA,19,Buena Vista,021
+"Butler County, Iowa",Iowa,IA,19,Butler,023
+"Calhoun County, Iowa",Iowa,IA,19,Calhoun,025
+"Carroll County, Iowa",Iowa,IA,19,Carroll,027
+"Cass County, Iowa",Iowa,IA,19,Cass,029
+"Cedar County, Iowa",Iowa,IA,19,Cedar,031
+"Cerro Gordo County, Iowa",Iowa,IA,19,Cerro Gordo,033
+"Cherokee County, Iowa",Iowa,IA,19,Cherokee,035
+"Chickasaw County, Iowa",Iowa,IA,19,Chickasaw,037
+"Clarke County, Iowa",Iowa,IA,19,Clarke,039
+"Clay County, Iowa",Iowa,IA,19,Clay,041
+"Clayton County, Iowa",Iowa,IA,19,Clayton,043
+"Clinton County, Iowa",Iowa,IA,19,Clinton,045
+"Crawford County, Iowa",Iowa,IA,19,Crawford,047
+"Dallas County, Iowa",Iowa,IA,19,Dallas,049
+"Davis County, Iowa",Iowa,IA,19,Davis,051
+"Decatur County, Iowa",Iowa,IA,19,Decatur,053
+"Delaware County, Iowa",Iowa,IA,19,Delaware,055
+"Des Moines County, Iowa",Iowa,IA,19,Des Moines,057
+"Dickinson County, Iowa",Iowa,IA,19,Dickinson,059
+"Dubuque County, Iowa",Iowa,IA,19,Dubuque,061
+"Emmet County, Iowa",Iowa,IA,19,Emmet,063
+"Fayette County, Iowa",Iowa,IA,19,Fayette,065
+"Floyd County, Iowa",Iowa,IA,19,Floyd,067
+"Franklin County, Iowa",Iowa,IA,19,Franklin,069
+"Fremont County, Iowa",Iowa,IA,19,Fremont,071
+"Greene County, Iowa",Iowa,IA,19,Greene,073
+"Grundy County, Iowa",Iowa,IA,19,Grundy,075
+"Guthrie County, Iowa",Iowa,IA,19,Guthrie,077
+"Hamilton County, Iowa",Iowa,IA,19,Hamilton,079
+"Hancock County, Iowa",Iowa,IA,19,Hancock,081
+"Hardin County, Iowa",Iowa,IA,19,Hardin,083
+"Harrison County, Iowa",Iowa,IA,19,Harrison,085
+"Henry County, Iowa",Iowa,IA,19,Henry,087
+"Howard County, Iowa",Iowa,IA,19,Howard,089
+"Humboldt County, Iowa",Iowa,IA,19,Humboldt,091
+"Ida County, Iowa",Iowa,IA,19,Ida,093
+"Iowa County, Iowa",Iowa,IA,19,Iowa,095
+"Jackson County, Iowa",Iowa,IA,19,Jackson,097
+"Jasper County, Iowa",Iowa,IA,19,Jasper,099
+"Jefferson County, Iowa",Iowa,IA,19,Jefferson,101
+"Johnson County, Iowa",Iowa,IA,19,Johnson,103
+"Jones County, Iowa",Iowa,IA,19,Jones,105
+"Keokuk County, Iowa",Iowa,IA,19,Keokuk,107
+"Kossuth County, Iowa",Iowa,IA,19,Kossuth,109
+"Lee County, Iowa",Iowa,IA,19,Lee,111
+"Linn County, Iowa",Iowa,IA,19,Linn,113
+"Louisa County, Iowa",Iowa,IA,19,Louisa,115
+"Lucas County, Iowa",Iowa,IA,19,Lucas,117
+"Lyon County, Iowa",Iowa,IA,19,Lyon,119
+"Madison County, Iowa",Iowa,IA,19,Madison,121
+"Mahaska County, Iowa",Iowa,IA,19,Mahaska,123
+"Marion County, Iowa",Iowa,IA,19,Marion,125
+"Marshall County, Iowa",Iowa,IA,19,Marshall,127
+"Mills County, Iowa",Iowa,IA,19,Mills,129
+"Mitchell County, Iowa",Iowa,IA,19,Mitchell,131
+"Monona County, Iowa",Iowa,IA,19,Monona,133
+"Monroe County, Iowa",Iowa,IA,19,Monroe,135
+"Montgomery County, Iowa",Iowa,IA,19,Montgomery,137
+"Muscatine County, Iowa",Iowa,IA,19,Muscatine,139
+"O'Brien County, Iowa",Iowa,IA,19,O'Brien,141
+"Osceola County, Iowa",Iowa,IA,19,Osceola,143
+"Page County, Iowa",Iowa,IA,19,Page,145
+"Palo Alto County, Iowa",Iowa,IA,19,Palo Alto,147
+"Plymouth County, Iowa",Iowa,IA,19,Plymouth,149
+"Pocahontas County, Iowa",Iowa,IA,19,Pocahontas,151
+"Polk County, Iowa",Iowa,IA,19,Polk,153
+"Pottawattamie County, Iowa",Iowa,IA,19,Pottawattamie,155
+"Poweshiek County, Iowa",Iowa,IA,19,Poweshiek,157
+"Ringgold County, Iowa",Iowa,IA,19,Ringgold,159
+"Sac County, Iowa",Iowa,IA,19,Sac,161
+"Scott County, Iowa",Iowa,IA,19,Scott,163
+"Shelby County, Iowa",Iowa,IA,19,Shelby,165
+"Sioux County, Iowa",Iowa,IA,19,Sioux,167
+"Story County, Iowa",Iowa,IA,19,Story,169
+"Tama County, Iowa",Iowa,IA,19,Tama,171
+"Taylor County, Iowa",Iowa,IA,19,Taylor,173
+"Union County, Iowa",Iowa,IA,19,Union,175
+"Van Buren County, Iowa",Iowa,IA,19,Van Buren,177
+"Wapello County, Iowa",Iowa,IA,19,Wapello,179
+"Warren County, Iowa",Iowa,IA,19,Warren,181
+"Washington County, Iowa",Iowa,IA,19,Washington,183
+"Wayne County, Iowa",Iowa,IA,19,Wayne,185
+"Webster County, Iowa",Iowa,IA,19,Webster,187
+"Winnebago County, Iowa",Iowa,IA,19,Winnebago,189
+"Winneshiek County, Iowa",Iowa,IA,19,Winneshiek,191
+"Woodbury County, Iowa",Iowa,IA,19,Woodbury,193
+"Worth County, Iowa",Iowa,IA,19,Worth,195
+"Wright County, Iowa",Iowa,IA,19,Wright,197
+"Allen County, Kansas",Kansas,KS,20,Allen,001
+"Anderson County, Kansas",Kansas,KS,20,Anderson,003
+"Atchison County, Kansas",Kansas,KS,20,Atchison,005
+"Barber County, Kansas",Kansas,KS,20,Barber,007
+"Barton County, Kansas",Kansas,KS,20,Barton,009
+"Bourbon County, Kansas",Kansas,KS,20,Bourbon,011
+"Brown County, Kansas",Kansas,KS,20,Brown,013
+"Butler County, Kansas",Kansas,KS,20,Butler,015
+"Chase County, Kansas",Kansas,KS,20,Chase,017
+"Chautauqua County, Kansas",Kansas,KS,20,Chautauqua,019
+"Cherokee County, Kansas",Kansas,KS,20,Cherokee,021
+"Cheyenne County, Kansas",Kansas,KS,20,Cheyenne,023
+"Clark County, Kansas",Kansas,KS,20,Clark,025
+"Clay County, Kansas",Kansas,KS,20,Clay,027
+"Cloud County, Kansas",Kansas,KS,20,Cloud,029
+"Coffey County, Kansas",Kansas,KS,20,Coffey,031
+"Comanche County, Kansas",Kansas,KS,20,Comanche,033
+"Cowley County, Kansas",Kansas,KS,20,Cowley,035
+"Crawford County, Kansas",Kansas,KS,20,Crawford,037
+"Decatur County, Kansas",Kansas,KS,20,Decatur,039
+"Dickinson County, Kansas",Kansas,KS,20,Dickinson,041
+"Doniphan County, Kansas",Kansas,KS,20,Doniphan,043
+"Douglas County, Kansas",Kansas,KS,20,Douglas,045
+"Edwards County, Kansas",Kansas,KS,20,Edwards,047
+"Elk County, Kansas",Kansas,KS,20,Elk,049
+"Ellis County, Kansas",Kansas,KS,20,Ellis,051
+"Ellsworth County, Kansas",Kansas,KS,20,Ellsworth,053
+"Finney County, Kansas",Kansas,KS,20,Finney,055
+"Ford County, Kansas",Kansas,KS,20,Ford,057
+"Franklin County, Kansas",Kansas,KS,20,Franklin,059
+"Geary County, Kansas",Kansas,KS,20,Geary,061
+"Gove County, Kansas",Kansas,KS,20,Gove,063
+"Graham County, Kansas",Kansas,KS,20,Graham,065
+"Grant County, Kansas",Kansas,KS,20,Grant,067
+"Gray County, Kansas",Kansas,KS,20,Gray,069
+"Greeley County, Kansas",Kansas,KS,20,Greeley,071
+"Greenwood County, Kansas",Kansas,KS,20,Greenwood,073
+"Hamilton County, Kansas",Kansas,KS,20,Hamilton,075
+"Harper County, Kansas",Kansas,KS,20,Harper,077
+"Harvey County, Kansas",Kansas,KS,20,Harvey,079
+"Haskell County, Kansas",Kansas,KS,20,Haskell,081
+"Hodgeman County, Kansas",Kansas,KS,20,Hodgeman,083
+"Jackson County, Kansas",Kansas,KS,20,Jackson,085
+"Jefferson County, Kansas",Kansas,KS,20,Jefferson,087
+"Jewell County, Kansas",Kansas,KS,20,Jewell,089
+"Johnson County, Kansas",Kansas,KS,20,Johnson,091
+"Kearny County, Kansas",Kansas,KS,20,Kearny,093
+"Kingman County, Kansas",Kansas,KS,20,Kingman,095
+"Kiowa County, Kansas",Kansas,KS,20,Kiowa,097
+"Labette County, Kansas",Kansas,KS,20,Labette,099
+"Lane County, Kansas",Kansas,KS,20,Lane,101
+"Leavenworth County, Kansas",Kansas,KS,20,Leavenworth,103
+"Lincoln County, Kansas",Kansas,KS,20,Lincoln,105
+"Linn County, Kansas",Kansas,KS,20,Linn,107
+"Logan County, Kansas",Kansas,KS,20,Logan,109
+"Lyon County, Kansas",Kansas,KS,20,Lyon,111
+"McPherson County, Kansas",Kansas,KS,20,McPherson,113
+"Marion County, Kansas",Kansas,KS,20,Marion,115
+"Marshall County, Kansas",Kansas,KS,20,Marshall,117
+"Meade County, Kansas",Kansas,KS,20,Meade,119
+"Miami County, Kansas",Kansas,KS,20,Miami,121
+"Mitchell County, Kansas",Kansas,KS,20,Mitchell,123
+"Montgomery County, Kansas",Kansas,KS,20,Montgomery,125
+"Morris County, Kansas",Kansas,KS,20,Morris,127
+"Morton County, Kansas",Kansas,KS,20,Morton,129
+"Nemaha County, Kansas",Kansas,KS,20,Nemaha,131
+"Neosho County, Kansas",Kansas,KS,20,Neosho,133
+"Ness County, Kansas",Kansas,KS,20,Ness,135
+"Norton County, Kansas",Kansas,KS,20,Norton,137
+"Osage County, Kansas",Kansas,KS,20,Osage,139
+"Osborne County, Kansas",Kansas,KS,20,Osborne,141
+"Ottawa County, Kansas",Kansas,KS,20,Ottawa,143
+"Pawnee County, Kansas",Kansas,KS,20,Pawnee,145
+"Phillips County, Kansas",Kansas,KS,20,Phillips,147
+"Pottawatomie County, Kansas",Kansas,KS,20,Pottawatomie,149
+"Pratt County, Kansas",Kansas,KS,20,Pratt,151
+"Rawlins County, Kansas",Kansas,KS,20,Rawlins,153
+"Reno County, Kansas",Kansas,KS,20,Reno,155
+"Republic County, Kansas",Kansas,KS,20,Republic,157
+"Rice County, Kansas",Kansas,KS,20,Rice,159
+"Riley County, Kansas",Kansas,KS,20,Riley,161
+"Rooks County, Kansas",Kansas,KS,20,Rooks,163
+"Rush County, Kansas",Kansas,KS,20,Rush,165
+"Russell County, Kansas",Kansas,KS,20,Russell,167
+"Saline County, Kansas",Kansas,KS,20,Saline,169
+"Scott County, Kansas",Kansas,KS,20,Scott,171
+"Sedgwick County, Kansas",Kansas,KS,20,Sedgwick,173
+"Seward County, Kansas",Kansas,KS,20,Seward,175
+"Shawnee County, Kansas",Kansas,KS,20,Shawnee,177
+"Sheridan County, Kansas",Kansas,KS,20,Sheridan,179
+"Sherman County, Kansas",Kansas,KS,20,Sherman,181
+"Smith County, Kansas",Kansas,KS,20,Smith,183
+"Stafford County, Kansas",Kansas,KS,20,Stafford,185
+"Stanton County, Kansas",Kansas,KS,20,Stanton,187
+"Stevens County, Kansas",Kansas,KS,20,Stevens,189
+"Sumner County, Kansas",Kansas,KS,20,Sumner,191
+"Thomas County, Kansas",Kansas,KS,20,Thomas,193
+"Trego County, Kansas",Kansas,KS,20,Trego,195
+"Wabaunsee County, Kansas",Kansas,KS,20,Wabaunsee,197
+"Wallace County, Kansas",Kansas,KS,20,Wallace,199
+"Washington County, Kansas",Kansas,KS,20,Washington,201
+"Wichita County, Kansas",Kansas,KS,20,Wichita,203
+"Wilson County, Kansas",Kansas,KS,20,Wilson,205
+"Woodson County, Kansas",Kansas,KS,20,Woodson,207
+"Wyandotte County, Kansas",Kansas,KS,20,Wyandotte,209
+"Adair County, Kentucky",Kentucky,KY,21,Adair,001
+"Allen County, Kentucky",Kentucky,KY,21,Allen,003
+"Anderson County, Kentucky",Kentucky,KY,21,Anderson,005
+"Ballard County, Kentucky",Kentucky,KY,21,Ballard,007
+"Barren County, Kentucky",Kentucky,KY,21,Barren,009
+"Bath County, Kentucky",Kentucky,KY,21,Bath,011
+"Bell County, Kentucky",Kentucky,KY,21,Bell,013
+"Boone County, Kentucky",Kentucky,KY,21,Boone,015
+"Bourbon County, Kentucky",Kentucky,KY,21,Bourbon,017
+"Boyd County, Kentucky",Kentucky,KY,21,Boyd,019
+"Boyle County, Kentucky",Kentucky,KY,21,Boyle,021
+"Bracken County, Kentucky",Kentucky,KY,21,Bracken,023
+"Breathitt County, Kentucky",Kentucky,KY,21,Breathitt,025
+"Breckinridge County, Kentucky",Kentucky,KY,21,Breckinridge,027
+"Bullitt County, Kentucky",Kentucky,KY,21,Bullitt,029
+"Butler County, Kentucky",Kentucky,KY,21,Butler,031
+"Caldwell County, Kentucky",Kentucky,KY,21,Caldwell,033
+"Calloway County, Kentucky",Kentucky,KY,21,Calloway,035
+"Campbell County, Kentucky",Kentucky,KY,21,Campbell,037
+"Carlisle County, Kentucky",Kentucky,KY,21,Carlisle,039
+"Carroll County, Kentucky",Kentucky,KY,21,Carroll,041
+"Carter County, Kentucky",Kentucky,KY,21,Carter,043
+"Casey County, Kentucky",Kentucky,KY,21,Casey,045
+"Christian County, Kentucky",Kentucky,KY,21,Christian,047
+"Clark County, Kentucky",Kentucky,KY,21,Clark,049
+"Clay County, Kentucky",Kentucky,KY,21,Clay,051
+"Clinton County, Kentucky",Kentucky,KY,21,Clinton,053
+"Crittenden County, Kentucky",Kentucky,KY,21,Crittenden,055
+"Cumberland County, Kentucky",Kentucky,KY,21,Cumberland,057
+"Daviess County, Kentucky",Kentucky,KY,21,Daviess,059
+"Edmonson County, Kentucky",Kentucky,KY,21,Edmonson,061
+"Elliott County, Kentucky",Kentucky,KY,21,Elliott,063
+"Estill County, Kentucky",Kentucky,KY,21,Estill,065
+"Fayette County, Kentucky",Kentucky,KY,21,Fayette,067
+"Fleming County, Kentucky",Kentucky,KY,21,Fleming,069
+"Floyd County, Kentucky",Kentucky,KY,21,Floyd,071
+"Franklin County, Kentucky",Kentucky,KY,21,Franklin,073
+"Fulton County, Kentucky",Kentucky,KY,21,Fulton,075
+"Gallatin County, Kentucky",Kentucky,KY,21,Gallatin,077
+"Garrard County, Kentucky",Kentucky,KY,21,Garrard,079
+"Grant County, Kentucky",Kentucky,KY,21,Grant,081
+"Graves County, Kentucky",Kentucky,KY,21,Graves,083
+"Grayson County, Kentucky",Kentucky,KY,21,Grayson,085
+"Green County, Kentucky",Kentucky,KY,21,Green,087
+"Greenup County, Kentucky",Kentucky,KY,21,Greenup,089
+"Hancock County, Kentucky",Kentucky,KY,21,Hancock,091
+"Hardin County, Kentucky",Kentucky,KY,21,Hardin,093
+"Harlan County, Kentucky",Kentucky,KY,21,Harlan,095
+"Harrison County, Kentucky",Kentucky,KY,21,Harrison,097
+"Hart County, Kentucky",Kentucky,KY,21,Hart,099
+"Henderson County, Kentucky",Kentucky,KY,21,Henderson,101
+"Henry County, Kentucky",Kentucky,KY,21,Henry,103
+"Hickman County, Kentucky",Kentucky,KY,21,Hickman,105
+"Hopkins County, Kentucky",Kentucky,KY,21,Hopkins,107
+"Jackson County, Kentucky",Kentucky,KY,21,Jackson,109
+"Jefferson County, Kentucky",Kentucky,KY,21,Jefferson,111
+"Jessamine County, Kentucky",Kentucky,KY,21,Jessamine,113
+"Johnson County, Kentucky",Kentucky,KY,21,Johnson,115
+"Kenton County, Kentucky",Kentucky,KY,21,Kenton,117
+"Knott County, Kentucky",Kentucky,KY,21,Knott,119
+"Knox County, Kentucky",Kentucky,KY,21,Knox,121
+"Larue County, Kentucky",Kentucky,KY,21,Larue,123
+"Laurel County, Kentucky",Kentucky,KY,21,Laurel,125
+"Lawrence County, Kentucky",Kentucky,KY,21,Lawrence,127
+"Lee County, Kentucky",Kentucky,KY,21,Lee,129
+"Leslie County, Kentucky",Kentucky,KY,21,Leslie,131
+"Letcher County, Kentucky",Kentucky,KY,21,Letcher,133
+"Lewis County, Kentucky",Kentucky,KY,21,Lewis,135
+"Lincoln County, Kentucky",Kentucky,KY,21,Lincoln,137
+"Livingston County, Kentucky",Kentucky,KY,21,Livingston,139
+"Logan County, Kentucky",Kentucky,KY,21,Logan,141
+"Lyon County, Kentucky",Kentucky,KY,21,Lyon,143
+"McCracken County, Kentucky",Kentucky,KY,21,McCracken,145
+"McCreary County, Kentucky",Kentucky,KY,21,McCreary,147
+"McLean County, Kentucky",Kentucky,KY,21,McLean,149
+"Madison County, Kentucky",Kentucky,KY,21,Madison,151
+"Magoffin County, Kentucky",Kentucky,KY,21,Magoffin,153
+"Marion County, Kentucky",Kentucky,KY,21,Marion,155
+"Marshall County, Kentucky",Kentucky,KY,21,Marshall,157
+"Martin County, Kentucky",Kentucky,KY,21,Martin,159
+"Mason County, Kentucky",Kentucky,KY,21,Mason,161
+"Meade County, Kentucky",Kentucky,KY,21,Meade,163
+"Menifee County, Kentucky",Kentucky,KY,21,Menifee,165
+"Mercer County, Kentucky",Kentucky,KY,21,Mercer,167
+"Metcalfe County, Kentucky",Kentucky,KY,21,Metcalfe,169
+"Monroe County, Kentucky",Kentucky,KY,21,Monroe,171
+"Montgomery County, Kentucky",Kentucky,KY,21,Montgomery,173
+"Morgan County, Kentucky",Kentucky,KY,21,Morgan,175
+"Muhlenberg County, Kentucky",Kentucky,KY,21,Muhlenberg,177
+"Nelson County, Kentucky",Kentucky,KY,21,Nelson,179
+"Nicholas County, Kentucky",Kentucky,KY,21,Nicholas,181
+"Ohio County, Kentucky",Kentucky,KY,21,Ohio,183
+"Oldham County, Kentucky",Kentucky,KY,21,Oldham,185
+"Owen County, Kentucky",Kentucky,KY,21,Owen,187
+"Owsley County, Kentucky",Kentucky,KY,21,Owsley,189
+"Pendleton County, Kentucky",Kentucky,KY,21,Pendleton,191
+"Perry County, Kentucky",Kentucky,KY,21,Perry,193
+"Pike County, Kentucky",Kentucky,KY,21,Pike,195
+"Powell County, Kentucky",Kentucky,KY,21,Powell,197
+"Pulaski County, Kentucky",Kentucky,KY,21,Pulaski,199
+"Robertson County, Kentucky",Kentucky,KY,21,Robertson,201
+"Rockcastle County, Kentucky",Kentucky,KY,21,Rockcastle,203
+"Rowan County, Kentucky",Kentucky,KY,21,Rowan,205
+"Russell County, Kentucky",Kentucky,KY,21,Russell,207
+"Scott County, Kentucky",Kentucky,KY,21,Scott,209
+"Shelby County, Kentucky",Kentucky,KY,21,Shelby,211
+"Simpson County, Kentucky",Kentucky,KY,21,Simpson,213
+"Spencer County, Kentucky",Kentucky,KY,21,Spencer,215
+"Taylor County, Kentucky",Kentucky,KY,21,Taylor,217
+"Todd County, Kentucky",Kentucky,KY,21,Todd,219
+"Trigg County, Kentucky",Kentucky,KY,21,Trigg,221
+"Trimble County, Kentucky",Kentucky,KY,21,Trimble,223
+"Union County, Kentucky",Kentucky,KY,21,Union,225
+"Warren County, Kentucky",Kentucky,KY,21,Warren,227
+"Washington County, Kentucky",Kentucky,KY,21,Washington,229
+"Wayne County, Kentucky",Kentucky,KY,21,Wayne,231
+"Webster County, Kentucky",Kentucky,KY,21,Webster,233
+"Whitley County, Kentucky",Kentucky,KY,21,Whitley,235
+"Wolfe County, Kentucky",Kentucky,KY,21,Wolfe,237
+"Woodford County, Kentucky",Kentucky,KY,21,Woodford,239
+"Acadia Parish, Louisiana",Louisiana,LA,22,Acadia,001
+"Allen Parish, Louisiana",Louisiana,LA,22,Allen,003
+"Ascension Parish, Louisiana",Louisiana,LA,22,Ascension,005
+"Assumption Parish, Louisiana",Louisiana,LA,22,Assumption,007
+"Avoyelles Parish, Louisiana",Louisiana,LA,22,Avoyelles,009
+"Beauregard Parish, Louisiana",Louisiana,LA,22,Beauregard,011
+"Bienville Parish, Louisiana",Louisiana,LA,22,Bienville,013
+"Bossier Parish, Louisiana",Louisiana,LA,22,Bossier,015
+"Caddo Parish, Louisiana",Louisiana,LA,22,Caddo,017
+"Calcasieu Parish, Louisiana",Louisiana,LA,22,Calcasieu,019
+"Caldwell Parish, Louisiana",Louisiana,LA,22,Caldwell,021
+"Cameron Parish, Louisiana",Louisiana,LA,22,Cameron,023
+"Catahoula Parish, Louisiana",Louisiana,LA,22,Catahoula,025
+"Claiborne Parish, Louisiana",Louisiana,LA,22,Claiborne,027
+"Concordia Parish, Louisiana",Louisiana,LA,22,Concordia,029
+"De Soto Parish, Louisiana",Louisiana,LA,22,De Soto,031
+"East Baton Rouge Parish, Louisiana",Louisiana,LA,22,East Baton Rouge,033
+"East Carroll Parish, Louisiana",Louisiana,LA,22,East Carroll,035
+"East Feliciana Parish, Louisiana",Louisiana,LA,22,East Feliciana,037
+"Evangeline Parish, Louisiana",Louisiana,LA,22,Evangeline,039
+"Franklin Parish, Louisiana",Louisiana,LA,22,Franklin,041
+"Grant Parish, Louisiana",Louisiana,LA,22,Grant,043
+"Iberia Parish, Louisiana",Louisiana,LA,22,Iberia,045
+"Iberville Parish, Louisiana",Louisiana,LA,22,Iberville,047
+"Jackson Parish, Louisiana",Louisiana,LA,22,Jackson,049
+"Jefferson Parish, Louisiana",Louisiana,LA,22,Jefferson,051
+"Jefferson Davis Parish, Louisiana",Louisiana,LA,22,Jefferson Davis,053
+"Lafayette Parish, Louisiana",Louisiana,LA,22,Lafayette,055
+"Lafourche Parish, Louisiana",Louisiana,LA,22,Lafourche,057
+"La Salle Parish, Louisiana",Louisiana,LA,22,La Salle,059
+"Lincoln Parish, Louisiana",Louisiana,LA,22,Lincoln,061
+"Livingston Parish, Louisiana",Louisiana,LA,22,Livingston,063
+"Madison Parish, Louisiana",Louisiana,LA,22,Madison,065
+"Morehouse Parish, Louisiana",Louisiana,LA,22,Morehouse,067
+"Natchitoches Parish, Louisiana",Louisiana,LA,22,Natchitoches,069
+"Orleans Parish, Louisiana",Louisiana,LA,22,Orleans,071
+"Ouachita Parish, Louisiana",Louisiana,LA,22,Ouachita,073
+"Plaquemines Parish, Louisiana",Louisiana,LA,22,Plaquemines,075
+"Pointe Coupee Parish, Louisiana",Louisiana,LA,22,Pointe Coupee,077
+"Rapides Parish, Louisiana",Louisiana,LA,22,Rapides,079
+"Red River Parish, Louisiana",Louisiana,LA,22,Red River,081
+"Richland Parish, Louisiana",Louisiana,LA,22,Richland,083
+"Sabine Parish, Louisiana",Louisiana,LA,22,Sabine,085
+"St. Bernard Parish, Louisiana",Louisiana,LA,22,St. Bernard,087
+"St. Charles Parish, Louisiana",Louisiana,LA,22,St. Charles,089
+"St. Helena Parish, Louisiana",Louisiana,LA,22,St. Helena,091
+"St. James Parish, Louisiana",Louisiana,LA,22,St. James,093
+"St. John the Baptist Parish, Louisiana",Louisiana,LA,22,St. John the Baptist,095
+"St. Landry Parish, Louisiana",Louisiana,LA,22,St. Landry,097
+"St. Martin Parish, Louisiana",Louisiana,LA,22,St. Martin,099
+"St. Mary Parish, Louisiana",Louisiana,LA,22,St. Mary,101
+"St. Tammany Parish, Louisiana",Louisiana,LA,22,St. Tammany,103
+"Tangipahoa Parish, Louisiana",Louisiana,LA,22,Tangipahoa,105
+"Tensas Parish, Louisiana",Louisiana,LA,22,Tensas,107
+"Terrebonne Parish, Louisiana",Louisiana,LA,22,Terrebonne,109
+"Union Parish, Louisiana",Louisiana,LA,22,Union,111
+"Vermilion Parish, Louisiana",Louisiana,LA,22,Vermilion,113
+"Vernon Parish, Louisiana",Louisiana,LA,22,Vernon,115
+"Washington Parish, Louisiana",Louisiana,LA,22,Washington,117
+"Webster Parish, Louisiana",Louisiana,LA,22,Webster,119
+"West Baton Rouge Parish, Louisiana",Louisiana,LA,22,West Baton Rouge,121
+"West Carroll Parish, Louisiana",Louisiana,LA,22,West Carroll,123
+"West Feliciana Parish, Louisiana",Louisiana,LA,22,West Feliciana,125
+"Winn Parish, Louisiana",Louisiana,LA,22,Winn,127
+"Androscoggin County, Maine",Maine,ME,23,Androscoggin,001
+"Aroostook County, Maine",Maine,ME,23,Aroostook,003
+"Cumberland County, Maine",Maine,ME,23,Cumberland,005
+"Franklin County, Maine",Maine,ME,23,Franklin,007
+"Hancock County, Maine",Maine,ME,23,Hancock,009
+"Kennebec County, Maine",Maine,ME,23,Kennebec,011
+"Knox County, Maine",Maine,ME,23,Knox,013
+"Lincoln County, Maine",Maine,ME,23,Lincoln,015
+"Oxford County, Maine",Maine,ME,23,Oxford,017
+"Penobscot County, Maine",Maine,ME,23,Penobscot,019
+"Piscataquis County, Maine",Maine,ME,23,Piscataquis,021
+"Sagadahoc County, Maine",Maine,ME,23,Sagadahoc,023
+"Somerset County, Maine",Maine,ME,23,Somerset,025
+"Waldo County, Maine",Maine,ME,23,Waldo,027
+"Washington County, Maine",Maine,ME,23,Washington,029
+"York County, Maine",Maine,ME,23,York,031
+"Allegany County, Maryland",Maryland,MD,24,Allegany,001
+"Anne Arundel County, Maryland",Maryland,MD,24,Anne Arundel,003
+"Baltimore County, Maryland",Maryland,MD,24,Baltimore,005
+"Calvert County, Maryland",Maryland,MD,24,Calvert,009
+"Caroline County, Maryland",Maryland,MD,24,Caroline,011
+"Carroll County, Maryland",Maryland,MD,24,Carroll,013
+"Cecil County, Maryland",Maryland,MD,24,Cecil,015
+"Charles County, Maryland",Maryland,MD,24,Charles,017
+"Dorchester County, Maryland",Maryland,MD,24,Dorchester,019
+"Frederick County, Maryland",Maryland,MD,24,Frederick,021
+"Garrett County, Maryland",Maryland,MD,24,Garrett,023
+"Harford County, Maryland",Maryland,MD,24,Harford,025
+"Howard County, Maryland",Maryland,MD,24,Howard,027
+"Kent County, Maryland",Maryland,MD,24,Kent,029
+"Montgomery County, Maryland",Maryland,MD,24,Montgomery,031
+"Prince George's County, Maryland",Maryland,MD,24,Prince George's,033
+"Queen Anne's County, Maryland",Maryland,MD,24,Queen Anne's,035
+"St. Mary's County, Maryland",Maryland,MD,24,St. Mary's,037
+"Somerset County, Maryland",Maryland,MD,24,Somerset,039
+"Talbot County, Maryland",Maryland,MD,24,Talbot,041
+"Washington County, Maryland",Maryland,MD,24,Washington,043
+"Wicomico County, Maryland",Maryland,MD,24,Wicomico,045
+"Worcester County, Maryland",Maryland,MD,24,Worcester,047
+"Baltimore city, Maryland",Maryland,MD,24,Baltimo,510
+"Barnstable County, Massachusetts",Massachusetts,MA,25,Barnstable,001
+"Berkshire County, Massachusetts",Massachusetts,MA,25,Berkshire,003
+"Bristol County, Massachusetts",Massachusetts,MA,25,Bristol,005
+"Dukes County, Massachusetts",Massachusetts,MA,25,Dukes,007
+"Essex County, Massachusetts",Massachusetts,MA,25,Essex,009
+"Franklin County, Massachusetts",Massachusetts,MA,25,Franklin,011
+"Hampden County, Massachusetts",Massachusetts,MA,25,Hampden,013
+"Hampshire County, Massachusetts",Massachusetts,MA,25,Hampshire,015
+"Middlesex County, Massachusetts",Massachusetts,MA,25,Middlesex,017
+"Nantucket County, Massachusetts",Massachusetts,MA,25,Nantucket,019
+"Norfolk County, Massachusetts",Massachusetts,MA,25,Norfolk,021
+"Plymouth County, Massachusetts",Massachusetts,MA,25,Plymouth,023
+"Suffolk County, Massachusetts",Massachusetts,MA,25,Suffolk,025
+"Worcester County, Massachusetts",Massachusetts,MA,25,Worcester,027
+"Alcona County, Michigan",Michigan,MI,26,Alcona,001
+"Alger County, Michigan",Michigan,MI,26,Alger,003
+"Allegan County, Michigan",Michigan,MI,26,Allegan,005
+"Alpena County, Michigan",Michigan,MI,26,Alpena,007
+"Antrim County, Michigan",Michigan,MI,26,Antrim,009
+"Arenac County, Michigan",Michigan,MI,26,Arenac,011
+"Baraga County, Michigan",Michigan,MI,26,Baraga,013
+"Barry County, Michigan",Michigan,MI,26,Barry,015
+"Bay County, Michigan",Michigan,MI,26,Bay,017
+"Benzie County, Michigan",Michigan,MI,26,Benzie,019
+"Berrien County, Michigan",Michigan,MI,26,Berrien,021
+"Branch County, Michigan",Michigan,MI,26,Branch,023
+"Calhoun County, Michigan",Michigan,MI,26,Calhoun,025
+"Cass County, Michigan",Michigan,MI,26,Cass,027
+"Charlevoix County, Michigan",Michigan,MI,26,Charlevoix,029
+"Cheboygan County, Michigan",Michigan,MI,26,Cheboygan,031
+"Chippewa County, Michigan",Michigan,MI,26,Chippewa,033
+"Clare County, Michigan",Michigan,MI,26,Clare,035
+"Clinton County, Michigan",Michigan,MI,26,Clinton,037
+"Crawford County, Michigan",Michigan,MI,26,Crawford,039
+"Delta County, Michigan",Michigan,MI,26,Delta,041
+"Dickinson County, Michigan",Michigan,MI,26,Dickinson,043
+"Eaton County, Michigan",Michigan,MI,26,Eaton,045
+"Emmet County, Michigan",Michigan,MI,26,Emmet,047
+"Genesee County, Michigan",Michigan,MI,26,Genesee,049
+"Gladwin County, Michigan",Michigan,MI,26,Gladwin,051
+"Gogebic County, Michigan",Michigan,MI,26,Gogebic,053
+"Grand Traverse County, Michigan",Michigan,MI,26,Grand Traverse,055
+"Gratiot County, Michigan",Michigan,MI,26,Gratiot,057
+"Hillsdale County, Michigan",Michigan,MI,26,Hillsdale,059
+"Houghton County, Michigan",Michigan,MI,26,Houghton,061
+"Huron County, Michigan",Michigan,MI,26,Huron,063
+"Ingham County, Michigan",Michigan,MI,26,Ingham,065
+"Ionia County, Michigan",Michigan,MI,26,Ionia,067
+"Iosco County, Michigan",Michigan,MI,26,Iosco,069
+"Iron County, Michigan",Michigan,MI,26,Iron,071
+"Isabella County, Michigan",Michigan,MI,26,Isabella,073
+"Jackson County, Michigan",Michigan,MI,26,Jackson,075
+"Kalamazoo County, Michigan",Michigan,MI,26,Kalamazoo,077
+"Kalkaska County, Michigan",Michigan,MI,26,Kalkaska,079
+"Kent County, Michigan",Michigan,MI,26,Kent,081
+"Keweenaw County, Michigan",Michigan,MI,26,Keweenaw,083
+"Lake County, Michigan",Michigan,MI,26,Lake,085
+"Lapeer County, Michigan",Michigan,MI,26,Lapeer,087
+"Leelanau County, Michigan",Michigan,MI,26,Leelanau,089
+"Lenawee County, Michigan",Michigan,MI,26,Lenawee,091
+"Livingston County, Michigan",Michigan,MI,26,Livingston,093
+"Luce County, Michigan",Michigan,MI,26,Luce,095
+"Mackinac County, Michigan",Michigan,MI,26,Mackinac,097
+"Macomb County, Michigan",Michigan,MI,26,Macomb,099
+"Manistee County, Michigan",Michigan,MI,26,Manistee,101
+"Marquette County, Michigan",Michigan,MI,26,Marquette,103
+"Mason County, Michigan",Michigan,MI,26,Mason,105
+"Mecosta County, Michigan",Michigan,MI,26,Mecosta,107
+"Menominee County, Michigan",Michigan,MI,26,Menominee,109
+"Midland County, Michigan",Michigan,MI,26,Midland,111
+"Missaukee County, Michigan",Michigan,MI,26,Missaukee,113
+"Monroe County, Michigan",Michigan,MI,26,Monroe,115
+"Montcalm County, Michigan",Michigan,MI,26,Montcalm,117
+"Montmorency County, Michigan",Michigan,MI,26,Montmorency,119
+"Muskegon County, Michigan",Michigan,MI,26,Muskegon,121
+"Newaygo County, Michigan",Michigan,MI,26,Newaygo,123
+"Oakland County, Michigan",Michigan,MI,26,Oakland,125
+"Oceana County, Michigan",Michigan,MI,26,Oceana,127
+"Ogemaw County, Michigan",Michigan,MI,26,Ogemaw,129
+"Ontonagon County, Michigan",Michigan,MI,26,Ontonagon,131
+"Osceola County, Michigan",Michigan,MI,26,Osceola,133
+"Oscoda County, Michigan",Michigan,MI,26,Oscoda,135
+"Otsego County, Michigan",Michigan,MI,26,Otsego,137
+"Ottawa County, Michigan",Michigan,MI,26,Ottawa,139
+"Presque Isle County, Michigan",Michigan,MI,26,Presque Isle,141
+"Roscommon County, Michigan",Michigan,MI,26,Roscommon,143
+"Saginaw County, Michigan",Michigan,MI,26,Saginaw,145
+"St. Clair County, Michigan",Michigan,MI,26,St. Clair,147
+"St. Joseph County, Michigan",Michigan,MI,26,St. Joseph,149
+"Sanilac County, Michigan",Michigan,MI,26,Sanilac,151
+"Schoolcraft County, Michigan",Michigan,MI,26,Schoolcraft,153
+"Shiawassee County, Michigan",Michigan,MI,26,Shiawassee,155
+"Tuscola County, Michigan",Michigan,MI,26,Tuscola,157
+"Van Buren County, Michigan",Michigan,MI,26,Van Buren,159
+"Washtenaw County, Michigan",Michigan,MI,26,Washtenaw,161
+"Wayne County, Michigan",Michigan,MI,26,Wayne,163
+"Wexford County, Michigan",Michigan,MI,26,Wexford,165
+"Aitkin County, Minnesota",Minnesota,MN,27,Aitkin,001
+"Anoka County, Minnesota",Minnesota,MN,27,Anoka,003
+"Becker County, Minnesota",Minnesota,MN,27,Becker,005
+"Beltrami County, Minnesota",Minnesota,MN,27,Beltrami,007
+"Benton County, Minnesota",Minnesota,MN,27,Benton,009
+"Big Stone County, Minnesota",Minnesota,MN,27,Big Stone,011
+"Blue Earth County, Minnesota",Minnesota,MN,27,Blue Earth,013
+"Brown County, Minnesota",Minnesota,MN,27,Brown,015
+"Carlton County, Minnesota",Minnesota,MN,27,Carlton,017
+"Carver County, Minnesota",Minnesota,MN,27,Carver,019
+"Cass County, Minnesota",Minnesota,MN,27,Cass,021
+"Chippewa County, Minnesota",Minnesota,MN,27,Chippewa,023
+"Chisago County, Minnesota",Minnesota,MN,27,Chisago,025
+"Clay County, Minnesota",Minnesota,MN,27,Clay,027
+"Clearwater County, Minnesota",Minnesota,MN,27,Clearwater,029
+"Cook County, Minnesota",Minnesota,MN,27,Cook,031
+"Cottonwood County, Minnesota",Minnesota,MN,27,Cottonwood,033
+"Crow Wing County, Minnesota",Minnesota,MN,27,Crow Wing,035
+"Dakota County, Minnesota",Minnesota,MN,27,Dakota,037
+"Dodge County, Minnesota",Minnesota,MN,27,Dodge,039
+"Douglas County, Minnesota",Minnesota,MN,27,Douglas,041
+"Faribault County, Minnesota",Minnesota,MN,27,Faribault,043
+"Fillmore County, Minnesota",Minnesota,MN,27,Fillmore,045
+"Freeborn County, Minnesota",Minnesota,MN,27,Freeborn,047
+"Goodhue County, Minnesota",Minnesota,MN,27,Goodhue,049
+"Grant County, Minnesota",Minnesota,MN,27,Grant,051
+"Hennepin County, Minnesota",Minnesota,MN,27,Hennepin,053
+"Houston County, Minnesota",Minnesota,MN,27,Houston,055
+"Hubbard County, Minnesota",Minnesota,MN,27,Hubbard,057
+"Isanti County, Minnesota",Minnesota,MN,27,Isanti,059
+"Itasca County, Minnesota",Minnesota,MN,27,Itasca,061
+"Jackson County, Minnesota",Minnesota,MN,27,Jackson,063
+"Kanabec County, Minnesota",Minnesota,MN,27,Kanabec,065
+"Kandiyohi County, Minnesota",Minnesota,MN,27,Kandiyohi,067
+"Kittson County, Minnesota",Minnesota,MN,27,Kittson,069
+"Koochiching County, Minnesota",Minnesota,MN,27,Koochiching,071
+"Lac qui Parle County, Minnesota",Minnesota,MN,27,Lac qui Parle,073
+"Lake County, Minnesota",Minnesota,MN,27,Lake,075
+"Lake of the Woods County, Minnesota",Minnesota,MN,27,Lake of the Woods,077
+"Le Sueur County, Minnesota",Minnesota,MN,27,Le Sueur,079
+"Lincoln County, Minnesota",Minnesota,MN,27,Lincoln,081
+"Lyon County, Minnesota",Minnesota,MN,27,Lyon,083
+"McLeod County, Minnesota",Minnesota,MN,27,McLeod,085
+"Mahnomen County, Minnesota",Minnesota,MN,27,Mahnomen,087
+"Marshall County, Minnesota",Minnesota,MN,27,Marshall,089
+"Martin County, Minnesota",Minnesota,MN,27,Martin,091
+"Meeker County, Minnesota",Minnesota,MN,27,Meeker,093
+"Mille Lacs County, Minnesota",Minnesota,MN,27,Mille Lacs,095
+"Morrison County, Minnesota",Minnesota,MN,27,Morrison,097
+"Mower County, Minnesota",Minnesota,MN,27,Mower,099
+"Murray County, Minnesota",Minnesota,MN,27,Murray,101
+"Nicollet County, Minnesota",Minnesota,MN,27,Nicollet,103
+"Nobles County, Minnesota",Minnesota,MN,27,Nobles,105
+"Norman County, Minnesota",Minnesota,MN,27,Norman,107
+"Olmsted County, Minnesota",Minnesota,MN,27,Olmsted,109
+"Otter Tail County, Minnesota",Minnesota,MN,27,Otter Tail,111
+"Pennington County, Minnesota",Minnesota,MN,27,Pennington,113
+"Pine County, Minnesota",Minnesota,MN,27,Pine,115
+"Pipestone County, Minnesota",Minnesota,MN,27,Pipestone,117
+"Polk County, Minnesota",Minnesota,MN,27,Polk,119
+"Pope County, Minnesota",Minnesota,MN,27,Pope,121
+"Ramsey County, Minnesota",Minnesota,MN,27,Ramsey,123
+"Red Lake County, Minnesota",Minnesota,MN,27,Red Lake,125
+"Redwood County, Minnesota",Minnesota,MN,27,Redwood,127
+"Renville County, Minnesota",Minnesota,MN,27,Renville,129
+"Rice County, Minnesota",Minnesota,MN,27,Rice,131
+"Rock County, Minnesota",Minnesota,MN,27,Rock,133
+"Roseau County, Minnesota",Minnesota,MN,27,Roseau,135
+"St. Louis County, Minnesota",Minnesota,MN,27,St. Louis,137
+"Scott County, Minnesota",Minnesota,MN,27,Scott,139
+"Sherburne County, Minnesota",Minnesota,MN,27,Sherburne,141
+"Sibley County, Minnesota",Minnesota,MN,27,Sibley,143
+"Stearns County, Minnesota",Minnesota,MN,27,Stearns,145
+"Steele County, Minnesota",Minnesota,MN,27,Steele,147
+"Stevens County, Minnesota",Minnesota,MN,27,Stevens,149
+"Swift County, Minnesota",Minnesota,MN,27,Swift,151
+"Todd County, Minnesota",Minnesota,MN,27,Todd,153
+"Traverse County, Minnesota",Minnesota,MN,27,Traverse,155
+"Wabasha County, Minnesota",Minnesota,MN,27,Wabasha,157
+"Wadena County, Minnesota",Minnesota,MN,27,Wadena,159
+"Waseca County, Minnesota",Minnesota,MN,27,Waseca,161
+"Washington County, Minnesota",Minnesota,MN,27,Washington,163
+"Watonwan County, Minnesota",Minnesota,MN,27,Watonwan,165
+"Wilkin County, Minnesota",Minnesota,MN,27,Wilkin,167
+"Winona County, Minnesota",Minnesota,MN,27,Winona,169
+"Wright County, Minnesota",Minnesota,MN,27,Wright,171
+"Yellow Medicine County, Minnesota",Minnesota,MN,27,Yellow Medicine,173
+"Adams County, Mississippi",Mississippi,MS,28,Adams,001
+"Alcorn County, Mississippi",Mississippi,MS,28,Alcorn,003
+"Amite County, Mississippi",Mississippi,MS,28,Amite,005
+"Attala County, Mississippi",Mississippi,MS,28,Attala,007
+"Benton County, Mississippi",Mississippi,MS,28,Benton,009
+"Bolivar County, Mississippi",Mississippi,MS,28,Bolivar,011
+"Calhoun County, Mississippi",Mississippi,MS,28,Calhoun,013
+"Carroll County, Mississippi",Mississippi,MS,28,Carroll,015
+"Chickasaw County, Mississippi",Mississippi,MS,28,Chickasaw,017
+"Choctaw County, Mississippi",Mississippi,MS,28,Choctaw,019
+"Claiborne County, Mississippi",Mississippi,MS,28,Claiborne,021
+"Clarke County, Mississippi",Mississippi,MS,28,Clarke,023
+"Clay County, Mississippi",Mississippi,MS,28,Clay,025
+"Coahoma County, Mississippi",Mississippi,MS,28,Coahoma,027
+"Copiah County, Mississippi",Mississippi,MS,28,Copiah,029
+"Covington County, Mississippi",Mississippi,MS,28,Covington,031
+"DeSoto County, Mississippi",Mississippi,MS,28,DeSoto,033
+"Forrest County, Mississippi",Mississippi,MS,28,Forrest,035
+"Franklin County, Mississippi",Mississippi,MS,28,Franklin,037
+"George County, Mississippi",Mississippi,MS,28,George,039
+"Greene County, Mississippi",Mississippi,MS,28,Greene,041
+"Grenada County, Mississippi",Mississippi,MS,28,Grenada,043
+"Hancock County, Mississippi",Mississippi,MS,28,Hancock,045
+"Harrison County, Mississippi",Mississippi,MS,28,Harrison,047
+"Hinds County, Mississippi",Mississippi,MS,28,Hinds,049
+"Holmes County, Mississippi",Mississippi,MS,28,Holmes,051
+"Humphreys County, Mississippi",Mississippi,MS,28,Humphreys,053
+"Issaquena County, Mississippi",Mississippi,MS,28,Issaquena,055
+"Itawamba County, Mississippi",Mississippi,MS,28,Itawamba,057
+"Jackson County, Mississippi",Mississippi,MS,28,Jackson,059
+"Jasper County, Mississippi",Mississippi,MS,28,Jasper,061
+"Jefferson County, Mississippi",Mississippi,MS,28,Jefferson,063
+"Jefferson Davis County, Mississippi",Mississippi,MS,28,Jefferson Davis,065
+"Jones County, Mississippi",Mississippi,MS,28,Jones,067
+"Kemper County, Mississippi",Mississippi,MS,28,Kemper,069
+"Lafayette County, Mississippi",Mississippi,MS,28,Lafayette,071
+"Lamar County, Mississippi",Mississippi,MS,28,Lamar,073
+"Lauderdale County, Mississippi",Mississippi,MS,28,Lauderdale,075
+"Lawrence County, Mississippi",Mississippi,MS,28,Lawrence,077
+"Leake County, Mississippi",Mississippi,MS,28,Leake,079
+"Lee County, Mississippi",Mississippi,MS,28,Lee,081
+"Leflore County, Mississippi",Mississippi,MS,28,Leflore,083
+"Lincoln County, Mississippi",Mississippi,MS,28,Lincoln,085
+"Lowndes County, Mississippi",Mississippi,MS,28,Lowndes,087
+"Madison County, Mississippi",Mississippi,MS,28,Madison,089
+"Marion County, Mississippi",Mississippi,MS,28,Marion,091
+"Marshall County, Mississippi",Mississippi,MS,28,Marshall,093
+"Monroe County, Mississippi",Mississippi,MS,28,Monroe,095
+"Montgomery County, Mississippi",Mississippi,MS,28,Montgomery,097
+"Neshoba County, Mississippi",Mississippi,MS,28,Neshoba,099
+"Newton County, Mississippi",Mississippi,MS,28,Newton,101
+"Noxubee County, Mississippi",Mississippi,MS,28,Noxubee,103
+"Oktibbeha County, Mississippi",Mississippi,MS,28,Oktibbeha,105
+"Panola County, Mississippi",Mississippi,MS,28,Panola,107
+"Pearl River County, Mississippi",Mississippi,MS,28,Pearl River,109
+"Perry County, Mississippi",Mississippi,MS,28,Perry,111
+"Pike County, Mississippi",Mississippi,MS,28,Pike,113
+"Pontotoc County, Mississippi",Mississippi,MS,28,Pontotoc,115
+"Prentiss County, Mississippi",Mississippi,MS,28,Prentiss,117
+"Quitman County, Mississippi",Mississippi,MS,28,Quitman,119
+"Rankin County, Mississippi",Mississippi,MS,28,Rankin,121
+"Scott County, Mississippi",Mississippi,MS,28,Scott,123
+"Sharkey County, Mississippi",Mississippi,MS,28,Sharkey,125
+"Simpson County, Mississippi",Mississippi,MS,28,Simpson,127
+"Smith County, Mississippi",Mississippi,MS,28,Smith,129
+"Stone County, Mississippi",Mississippi,MS,28,Stone,131
+"Sunflower County, Mississippi",Mississippi,MS,28,Sunflower,133
+"Tallahatchie County, Mississippi",Mississippi,MS,28,Tallahatchie,135
+"Tate County, Mississippi",Mississippi,MS,28,Tate,137
+"Tippah County, Mississippi",Mississippi,MS,28,Tippah,139
+"Tishomingo County, Mississippi",Mississippi,MS,28,Tishomingo,141
+"Tunica County, Mississippi",Mississippi,MS,28,Tunica,143
+"Union County, Mississippi",Mississippi,MS,28,Union,145
+"Walthall County, Mississippi",Mississippi,MS,28,Walthall,147
+"Warren County, Mississippi",Mississippi,MS,28,Warren,149
+"Washington County, Mississippi",Mississippi,MS,28,Washington,151
+"Wayne County, Mississippi",Mississippi,MS,28,Wayne,153
+"Webster County, Mississippi",Mississippi,MS,28,Webster,155
+"Wilkinson County, Mississippi",Mississippi,MS,28,Wilkinson,157
+"Winston County, Mississippi",Mississippi,MS,28,Winston,159
+"Yalobusha County, Mississippi",Mississippi,MS,28,Yalobusha,161
+"Yazoo County, Mississippi",Mississippi,MS,28,Yazoo,163
+"Adair County, Missouri",Missouri,MO,29,Adair,001
+"Andrew County, Missouri",Missouri,MO,29,Andrew,003
+"Atchison County, Missouri",Missouri,MO,29,Atchison,005
+"Audrain County, Missouri",Missouri,MO,29,Audrain,007
+"Barry County, Missouri",Missouri,MO,29,Barry,009
+"Barton County, Missouri",Missouri,MO,29,Barton,011
+"Bates County, Missouri",Missouri,MO,29,Bates,013
+"Benton County, Missouri",Missouri,MO,29,Benton,015
+"Bollinger County, Missouri",Missouri,MO,29,Bollinger,017
+"Boone County, Missouri",Missouri,MO,29,Boone,019
+"Buchanan County, Missouri",Missouri,MO,29,Buchanan,021
+"Butler County, Missouri",Missouri,MO,29,Butler,023
+"Caldwell County, Missouri",Missouri,MO,29,Caldwell,025
+"Callaway County, Missouri",Missouri,MO,29,Callaway,027
+"Camden County, Missouri",Missouri,MO,29,Camden,029
+"Cape Girardeau County, Missouri",Missouri,MO,29,Cape Girardeau,031
+"Carroll County, Missouri",Missouri,MO,29,Carroll,033
+"Carter County, Missouri",Missouri,MO,29,Carter,035
+"Cass County, Missouri",Missouri,MO,29,Cass,037
+"Cedar County, Missouri",Missouri,MO,29,Cedar,039
+"Chariton County, Missouri",Missouri,MO,29,Chariton,041
+"Christian County, Missouri",Missouri,MO,29,Christian,043
+"Clark County, Missouri",Missouri,MO,29,Clark,045
+"Clay County, Missouri",Missouri,MO,29,Clay,047
+"Clinton County, Missouri",Missouri,MO,29,Clinton,049
+"Cole County, Missouri",Missouri,MO,29,Cole,051
+"Cooper County, Missouri",Missouri,MO,29,Cooper,053
+"Crawford County, Missouri",Missouri,MO,29,Crawford,055
+"Dade County, Missouri",Missouri,MO,29,Dade,057
+"Dallas County, Missouri",Missouri,MO,29,Dallas,059
+"Daviess County, Missouri",Missouri,MO,29,Daviess,061
+"DeKalb County, Missouri",Missouri,MO,29,DeKalb,063
+"Dent County, Missouri",Missouri,MO,29,Dent,065
+"Douglas County, Missouri",Missouri,MO,29,Douglas,067
+"Dunklin County, Missouri",Missouri,MO,29,Dunklin,069
+"Franklin County, Missouri",Missouri,MO,29,Franklin,071
+"Gasconade County, Missouri",Missouri,MO,29,Gasconade,073
+"Gentry County, Missouri",Missouri,MO,29,Gentry,075
+"Greene County, Missouri",Missouri,MO,29,Greene,077
+"Grundy County, Missouri",Missouri,MO,29,Grundy,079
+"Harrison County, Missouri",Missouri,MO,29,Harrison,081
+"Henry County, Missouri",Missouri,MO,29,Henry,083
+"Hickory County, Missouri",Missouri,MO,29,Hickory,085
+"Holt County, Missouri",Missouri,MO,29,Holt,087
+"Howard County, Missouri",Missouri,MO,29,Howard,089
+"Howell County, Missouri",Missouri,MO,29,Howell,091
+"Iron County, Missouri",Missouri,MO,29,Iron,093
+"Jackson County, Missouri",Missouri,MO,29,Jackson,095
+"Jasper County, Missouri",Missouri,MO,29,Jasper,097
+"Jefferson County, Missouri",Missouri,MO,29,Jefferson,099
+"Johnson County, Missouri",Missouri,MO,29,Johnson,101
+"Knox County, Missouri",Missouri,MO,29,Knox,103
+"Laclede County, Missouri",Missouri,MO,29,Laclede,105
+"Lafayette County, Missouri",Missouri,MO,29,Lafayette,107
+"Lawrence County, Missouri",Missouri,MO,29,Lawrence,109
+"Lewis County, Missouri",Missouri,MO,29,Lewis,111
+"Lincoln County, Missouri",Missouri,MO,29,Lincoln,113
+"Linn County, Missouri",Missouri,MO,29,Linn,115
+"Livingston County, Missouri",Missouri,MO,29,Livingston,117
+"McDonald County, Missouri",Missouri,MO,29,McDonald,119
+"Macon County, Missouri",Missouri,MO,29,Macon,121
+"Madison County, Missouri",Missouri,MO,29,Madison,123
+"Maries County, Missouri",Missouri,MO,29,Maries,125
+"Marion County, Missouri",Missouri,MO,29,Marion,127
+"Mercer County, Missouri",Missouri,MO,29,Mercer,129
+"Miller County, Missouri",Missouri,MO,29,Miller,131
+"Mississippi County, Missouri",Missouri,MO,29,Mississippi,133
+"Moniteau County, Missouri",Missouri,MO,29,Moniteau,135
+"Monroe County, Missouri",Missouri,MO,29,Monroe,137
+"Montgomery County, Missouri",Missouri,MO,29,Montgomery,139
+"Morgan County, Missouri",Missouri,MO,29,Morgan,141
+"New Madrid County, Missouri",Missouri,MO,29,New Madrid,143
+"Newton County, Missouri",Missouri,MO,29,Newton,145
+"Nodaway County, Missouri",Missouri,MO,29,Nodaway,147
+"Oregon County, Missouri",Missouri,MO,29,Oregon,149
+"Osage County, Missouri",Missouri,MO,29,Osage,151
+"Ozark County, Missouri",Missouri,MO,29,Ozark,153
+"Pemiscot County, Missouri",Missouri,MO,29,Pemiscot,155
+"Perry County, Missouri",Missouri,MO,29,Perry,157
+"Pettis County, Missouri",Missouri,MO,29,Pettis,159
+"Phelps County, Missouri",Missouri,MO,29,Phelps,161
+"Pike County, Missouri",Missouri,MO,29,Pike,163
+"Platte County, Missouri",Missouri,MO,29,Platte,165
+"Polk County, Missouri",Missouri,MO,29,Polk,167
+"Pulaski County, Missouri",Missouri,MO,29,Pulaski,169
+"Putnam County, Missouri",Missouri,MO,29,Putnam,171
+"Ralls County, Missouri",Missouri,MO,29,Ralls,173
+"Randolph County, Missouri",Missouri,MO,29,Randolph,175
+"Ray County, Missouri",Missouri,MO,29,Ray,177
+"Reynolds County, Missouri",Missouri,MO,29,Reynolds,179
+"Ripley County, Missouri",Missouri,MO,29,Ripley,181
+"St. Charles County, Missouri",Missouri,MO,29,St. Charles,183
+"St. Clair County, Missouri",Missouri,MO,29,St. Clair,185
+"Ste. Genevieve County, Missouri",Missouri,MO,29,Ste. Genevieve,186
+"St. Francois County, Missouri",Missouri,MO,29,St. Francois,187
+"St. Louis County, Missouri",Missouri,MO,29,St. Louis,189
+"Saline County, Missouri",Missouri,MO,29,Saline,195
+"Schuyler County, Missouri",Missouri,MO,29,Schuyler,197
+"Scotland County, Missouri",Missouri,MO,29,Scotland,199
+"Scott County, Missouri",Missouri,MO,29,Scott,201
+"Shannon County, Missouri",Missouri,MO,29,Shannon,203
+"Shelby County, Missouri",Missouri,MO,29,Shelby,205
+"Stoddard County, Missouri",Missouri,MO,29,Stoddard,207
+"Stone County, Missouri",Missouri,MO,29,Stone,209
+"Sullivan County, Missouri",Missouri,MO,29,Sullivan,211
+"Taney County, Missouri",Missouri,MO,29,Taney,213
+"Texas County, Missouri",Missouri,MO,29,Texas,215
+"Vernon County, Missouri",Missouri,MO,29,Vernon,217
+"Warren County, Missouri",Missouri,MO,29,Warren,219
+"Washington County, Missouri",Missouri,MO,29,Washington,221
+"Wayne County, Missouri",Missouri,MO,29,Wayne,223
+"Webster County, Missouri",Missouri,MO,29,Webster,225
+"Worth County, Missouri",Missouri,MO,29,Worth,227
+"Wright County, Missouri",Missouri,MO,29,Wright,229
+"St. Louis city, Missouri",Missouri,MO,29,St. Lou,510
+"Beaverhead County, Montana",Montana,MT,30,Beaverhead,001
+"Big Horn County, Montana",Montana,MT,30,Big Horn,003
+"Blaine County, Montana",Montana,MT,30,Blaine,005
+"Broadwater County, Montana",Montana,MT,30,Broadwater,007
+"Carbon County, Montana",Montana,MT,30,Carbon,009
+"Carter County, Montana",Montana,MT,30,Carter,011
+"Cascade County, Montana",Montana,MT,30,Cascade,013
+"Chouteau County, Montana",Montana,MT,30,Chouteau,015
+"Custer County, Montana",Montana,MT,30,Custer,017
+"Daniels County, Montana",Montana,MT,30,Daniels,019
+"Dawson County, Montana",Montana,MT,30,Dawson,021
+"Deer Lodge County, Montana",Montana,MT,30,Deer Lodge,023
+"Fallon County, Montana",Montana,MT,30,Fallon,025
+"Fergus County, Montana",Montana,MT,30,Fergus,027
+"Flathead County, Montana",Montana,MT,30,Flathead,029
+"Gallatin County, Montana",Montana,MT,30,Gallatin,031
+"Garfield County, Montana",Montana,MT,30,Garfield,033
+"Glacier County, Montana",Montana,MT,30,Glacier,035
+"Golden Valley County, Montana",Montana,MT,30,Golden Valley,037
+"Granite County, Montana",Montana,MT,30,Granite,039
+"Hill County, Montana",Montana,MT,30,Hill,041
+"Jefferson County, Montana",Montana,MT,30,Jefferson,043
+"Judith Basin County, Montana",Montana,MT,30,Judith Basin,045
+"Lake County, Montana",Montana,MT,30,Lake,047
+"Lewis and Clark County, Montana",Montana,MT,30,Lewis and Clark,049
+"Liberty County, Montana",Montana,MT,30,Liberty,051
+"Lincoln County, Montana",Montana,MT,30,Lincoln,053
+"McCone County, Montana",Montana,MT,30,McCone,055
+"Madison County, Montana",Montana,MT,30,Madison,057
+"Meagher County, Montana",Montana,MT,30,Meagher,059
+"Mineral County, Montana",Montana,MT,30,Mineral,061
+"Missoula County, Montana",Montana,MT,30,Missoula,063
+"Musselshell County, Montana",Montana,MT,30,Musselshell,065
+"Park County, Montana",Montana,MT,30,Park,067
+"Petroleum County, Montana",Montana,MT,30,Petroleum,069
+"Phillips County, Montana",Montana,MT,30,Phillips,071
+"Pondera County, Montana",Montana,MT,30,Pondera,073
+"Powder River County, Montana",Montana,MT,30,Powder River,075
+"Powell County, Montana",Montana,MT,30,Powell,077
+"Prairie County, Montana",Montana,MT,30,Prairie,079
+"Ravalli County, Montana",Montana,MT,30,Ravalli,081
+"Richland County, Montana",Montana,MT,30,Richland,083
+"Roosevelt County, Montana",Montana,MT,30,Roosevelt,085
+"Rosebud County, Montana",Montana,MT,30,Rosebud,087
+"Sanders County, Montana",Montana,MT,30,Sanders,089
+"Sheridan County, Montana",Montana,MT,30,Sheridan,091
+"Silver Bow County, Montana",Montana,MT,30,Silver Bow,093
+"Stillwater County, Montana",Montana,MT,30,Stillwater,095
+"Sweet Grass County, Montana",Montana,MT,30,Sweet Grass,097
+"Teton County, Montana",Montana,MT,30,Teton,099
+"Toole County, Montana",Montana,MT,30,Toole,101
+"Treasure County, Montana",Montana,MT,30,Treasure,103
+"Valley County, Montana",Montana,MT,30,Valley,105
+"Wheatland County, Montana",Montana,MT,30,Wheatland,107
+"Wibaux County, Montana",Montana,MT,30,Wibaux,109
+"Yellowstone County, Montana",Montana,MT,30,Yellowstone,111
+"Adams County, Nebraska",Nebraska,NE,31,Adams,001
+"Antelope County, Nebraska",Nebraska,NE,31,Antelope,003
+"Arthur County, Nebraska",Nebraska,NE,31,Arthur,005
+"Banner County, Nebraska",Nebraska,NE,31,Banner,007
+"Blaine County, Nebraska",Nebraska,NE,31,Blaine,009
+"Boone County, Nebraska",Nebraska,NE,31,Boone,011
+"Box Butte County, Nebraska",Nebraska,NE,31,Box Butte,013
+"Boyd County, Nebraska",Nebraska,NE,31,Boyd,015
+"Brown County, Nebraska",Nebraska,NE,31,Brown,017
+"Buffalo County, Nebraska",Nebraska,NE,31,Buffalo,019
+"Burt County, Nebraska",Nebraska,NE,31,Burt,021
+"Butler County, Nebraska",Nebraska,NE,31,Butler,023
+"Cass County, Nebraska",Nebraska,NE,31,Cass,025
+"Cedar County, Nebraska",Nebraska,NE,31,Cedar,027
+"Chase County, Nebraska",Nebraska,NE,31,Chase,029
+"Cherry County, Nebraska",Nebraska,NE,31,Cherry,031
+"Cheyenne County, Nebraska",Nebraska,NE,31,Cheyenne,033
+"Clay County, Nebraska",Nebraska,NE,31,Clay,035
+"Colfax County, Nebraska",Nebraska,NE,31,Colfax,037
+"Cuming County, Nebraska",Nebraska,NE,31,Cuming,039
+"Custer County, Nebraska",Nebraska,NE,31,Custer,041
+"Dakota County, Nebraska",Nebraska,NE,31,Dakota,043
+"Dawes County, Nebraska",Nebraska,NE,31,Dawes,045
+"Dawson County, Nebraska",Nebraska,NE,31,Dawson,047
+"Deuel County, Nebraska",Nebraska,NE,31,Deuel,049
+"Dixon County, Nebraska",Nebraska,NE,31,Dixon,051
+"Dodge County, Nebraska",Nebraska,NE,31,Dodge,053
+"Douglas County, Nebraska",Nebraska,NE,31,Douglas,055
+"Dundy County, Nebraska",Nebraska,NE,31,Dundy,057
+"Fillmore County, Nebraska",Nebraska,NE,31,Fillmore,059
+"Franklin County, Nebraska",Nebraska,NE,31,Franklin,061
+"Frontier County, Nebraska",Nebraska,NE,31,Frontier,063
+"Furnas County, Nebraska",Nebraska,NE,31,Furnas,065
+"Gage County, Nebraska",Nebraska,NE,31,Gage,067
+"Garden County, Nebraska",Nebraska,NE,31,Garden,069
+"Garfield County, Nebraska",Nebraska,NE,31,Garfield,071
+"Gosper County, Nebraska",Nebraska,NE,31,Gosper,073
+"Grant County, Nebraska",Nebraska,NE,31,Grant,075
+"Greeley County, Nebraska",Nebraska,NE,31,Greeley,077
+"Hall County, Nebraska",Nebraska,NE,31,Hall,079
+"Hamilton County, Nebraska",Nebraska,NE,31,Hamilton,081
+"Harlan County, Nebraska",Nebraska,NE,31,Harlan,083
+"Hayes County, Nebraska",Nebraska,NE,31,Hayes,085
+"Hitchcock County, Nebraska",Nebraska,NE,31,Hitchcock,087
+"Holt County, Nebraska",Nebraska,NE,31,Holt,089
+"Hooker County, Nebraska",Nebraska,NE,31,Hooker,091
+"Howard County, Nebraska",Nebraska,NE,31,Howard,093
+"Jefferson County, Nebraska",Nebraska,NE,31,Jefferson,095
+"Johnson County, Nebraska",Nebraska,NE,31,Johnson,097
+"Kearney County, Nebraska",Nebraska,NE,31,Kearney,099
+"Keith County, Nebraska",Nebraska,NE,31,Keith,101
+"Keya Paha County, Nebraska",Nebraska,NE,31,Keya Paha,103
+"Kimball County, Nebraska",Nebraska,NE,31,Kimball,105
+"Knox County, Nebraska",Nebraska,NE,31,Knox,107
+"Lancaster County, Nebraska",Nebraska,NE,31,Lancaster,109
+"Lincoln County, Nebraska",Nebraska,NE,31,Lincoln,111
+"Logan County, Nebraska",Nebraska,NE,31,Logan,113
+"Loup County, Nebraska",Nebraska,NE,31,Loup,115
+"McPherson County, Nebraska",Nebraska,NE,31,McPherson,117
+"Madison County, Nebraska",Nebraska,NE,31,Madison,119
+"Merrick County, Nebraska",Nebraska,NE,31,Merrick,121
+"Morrill County, Nebraska",Nebraska,NE,31,Morrill,123
+"Nance County, Nebraska",Nebraska,NE,31,Nance,125
+"Nemaha County, Nebraska",Nebraska,NE,31,Nemaha,127
+"Nuckolls County, Nebraska",Nebraska,NE,31,Nuckolls,129
+"Otoe County, Nebraska",Nebraska,NE,31,Otoe,131
+"Pawnee County, Nebraska",Nebraska,NE,31,Pawnee,133
+"Perkins County, Nebraska",Nebraska,NE,31,Perkins,135
+"Phelps County, Nebraska",Nebraska,NE,31,Phelps,137
+"Pierce County, Nebraska",Nebraska,NE,31,Pierce,139
+"Platte County, Nebraska",Nebraska,NE,31,Platte,141
+"Polk County, Nebraska",Nebraska,NE,31,Polk,143
+"Red Willow County, Nebraska",Nebraska,NE,31,Red Willow,145
+"Richardson County, Nebraska",Nebraska,NE,31,Richardson,147
+"Rock County, Nebraska",Nebraska,NE,31,Rock,149
+"Saline County, Nebraska",Nebraska,NE,31,Saline,151
+"Sarpy County, Nebraska",Nebraska,NE,31,Sarpy,153
+"Saunders County, Nebraska",Nebraska,NE,31,Saunders,155
+"Scotts Bluff County, Nebraska",Nebraska,NE,31,Scotts Bluff,157
+"Seward County, Nebraska",Nebraska,NE,31,Seward,159
+"Sheridan County, Nebraska",Nebraska,NE,31,Sheridan,161
+"Sherman County, Nebraska",Nebraska,NE,31,Sherman,163
+"Sioux County, Nebraska",Nebraska,NE,31,Sioux,165
+"Stanton County, Nebraska",Nebraska,NE,31,Stanton,167
+"Thayer County, Nebraska",Nebraska,NE,31,Thayer,169
+"Thomas County, Nebraska",Nebraska,NE,31,Thomas,171
+"Thurston County, Nebraska",Nebraska,NE,31,Thurston,173
+"Valley County, Nebraska",Nebraska,NE,31,Valley,175
+"Washington County, Nebraska",Nebraska,NE,31,Washington,177
+"Wayne County, Nebraska",Nebraska,NE,31,Wayne,179
+"Webster County, Nebraska",Nebraska,NE,31,Webster,181
+"Wheeler County, Nebraska",Nebraska,NE,31,Wheeler,183
+"York County, Nebraska",Nebraska,NE,31,York,185
+"Churchill County, Nevada",Nevada,NV,32,Churchill,001
+"Clark County, Nevada",Nevada,NV,32,Clark,003
+"Douglas County, Nevada",Nevada,NV,32,Douglas,005
+"Elko County, Nevada",Nevada,NV,32,Elko,007
+"Esmeralda County, Nevada",Nevada,NV,32,Esmeralda,009
+"Eureka County, Nevada",Nevada,NV,32,Eureka,011
+"Humboldt County, Nevada",Nevada,NV,32,Humboldt,013
+"Lander County, Nevada",Nevada,NV,32,Lander,015
+"Lincoln County, Nevada",Nevada,NV,32,Lincoln,017
+"Lyon County, Nevada",Nevada,NV,32,Lyon,019
+"Mineral County, Nevada",Nevada,NV,32,Mineral,021
+"Nye County, Nevada",Nevada,NV,32,Nye,023
+"Pershing County, Nevada",Nevada,NV,32,Pershing,027
+"Storey County, Nevada",Nevada,NV,32,Storey,029
+"Washoe County, Nevada",Nevada,NV,32,Washoe,031
+"White Pine County, Nevada",Nevada,NV,32,White Pine,033
+"Carson City, Nevada",Nevada,NV,32,Cars,510
+"Belknap County, New Hampshire",New Hampshire,NH,33,Belknap,001
+"Carroll County, New Hampshire",New Hampshire,NH,33,Carroll,003
+"Cheshire County, New Hampshire",New Hampshire,NH,33,Cheshire,005
+"Coos County, New Hampshire",New Hampshire,NH,33,Coos,007
+"Grafton County, New Hampshire",New Hampshire,NH,33,Grafton,009
+"Hillsborough County, New Hampshire",New Hampshire,NH,33,Hillsborough,011
+"Merrimack County, New Hampshire",New Hampshire,NH,33,Merrimack,013
+"Rockingham County, New Hampshire",New Hampshire,NH,33,Rockingham,015
+"Strafford County, New Hampshire",New Hampshire,NH,33,Strafford,017
+"Sullivan County, New Hampshire",New Hampshire,NH,33,Sullivan,019
+"Atlantic County, New Jersey",New Jersey,NJ,34,Atlantic,001
+"Bergen County, New Jersey",New Jersey,NJ,34,Bergen,003
+"Burlington County, New Jersey",New Jersey,NJ,34,Burlington,005
+"Camden County, New Jersey",New Jersey,NJ,34,Camden,007
+"Cape May County, New Jersey",New Jersey,NJ,34,Cape May,009
+"Cumberland County, New Jersey",New Jersey,NJ,34,Cumberland,011
+"Essex County, New Jersey",New Jersey,NJ,34,Essex,013
+"Gloucester County, New Jersey",New Jersey,NJ,34,Gloucester,015
+"Hudson County, New Jersey",New Jersey,NJ,34,Hudson,017
+"Hunterdon County, New Jersey",New Jersey,NJ,34,Hunterdon,019
+"Mercer County, New Jersey",New Jersey,NJ,34,Mercer,021
+"Middlesex County, New Jersey",New Jersey,NJ,34,Middlesex,023
+"Monmouth County, New Jersey",New Jersey,NJ,34,Monmouth,025
+"Morris County, New Jersey",New Jersey,NJ,34,Morris,027
+"Ocean County, New Jersey",New Jersey,NJ,34,Ocean,029
+"Passaic County, New Jersey",New Jersey,NJ,34,Passaic,031
+"Salem County, New Jersey",New Jersey,NJ,34,Salem,033
+"Somerset County, New Jersey",New Jersey,NJ,34,Somerset,035
+"Sussex County, New Jersey",New Jersey,NJ,34,Sussex,037
+"Union County, New Jersey",New Jersey,NJ,34,Union,039
+"Warren County, New Jersey",New Jersey,NJ,34,Warren,041
+"Bernalillo County, New Mexico",New Mexico,NM,35,Bernalillo,001
+"Catron County, New Mexico",New Mexico,NM,35,Catron,003
+"Chaves County, New Mexico",New Mexico,NM,35,Chaves,005
+"Cibola County, New Mexico",New Mexico,NM,35,Cibola,006
+"Colfax County, New Mexico",New Mexico,NM,35,Colfax,007
+"Curry County, New Mexico",New Mexico,NM,35,Curry,009
+"De Baca County, New Mexico",New Mexico,NM,35,De Baca,011
+"Doña Ana County, New Mexico",New Mexico,NM,35,Doña Ana,013
+"Eddy County, New Mexico",New Mexico,NM,35,Eddy,015
+"Grant County, New Mexico",New Mexico,NM,35,Grant,017
+"Guadalupe County, New Mexico",New Mexico,NM,35,Guadalupe,019
+"Harding County, New Mexico",New Mexico,NM,35,Harding,021
+"Hidalgo County, New Mexico",New Mexico,NM,35,Hidalgo,023
+"Lea County, New Mexico",New Mexico,NM,35,Lea,025
+"Lincoln County, New Mexico",New Mexico,NM,35,Lincoln,027
+"Los Alamos County, New Mexico",New Mexico,NM,35,Los Alamos,028
+"Luna County, New Mexico",New Mexico,NM,35,Luna,029
+"McKinley County, New Mexico",New Mexico,NM,35,McKinley,031
+"Mora County, New Mexico",New Mexico,NM,35,Mora,033
+"Otero County, New Mexico",New Mexico,NM,35,Otero,035
+"Quay County, New Mexico",New Mexico,NM,35,Quay,037
+"Rio Arriba County, New Mexico",New Mexico,NM,35,Rio Arriba,039
+"Roosevelt County, New Mexico",New Mexico,NM,35,Roosevelt,041
+"Sandoval County, New Mexico",New Mexico,NM,35,Sandoval,043
+"San Juan County, New Mexico",New Mexico,NM,35,San Juan,045
+"San Miguel County, New Mexico",New Mexico,NM,35,San Miguel,047
+"Santa Fe County, New Mexico",New Mexico,NM,35,Santa Fe,049
+"Sierra County, New Mexico",New Mexico,NM,35,Sierra,051
+"Socorro County, New Mexico",New Mexico,NM,35,Socorro,053
+"Taos County, New Mexico",New Mexico,NM,35,Taos,055
+"Torrance County, New Mexico",New Mexico,NM,35,Torrance,057
+"Union County, New Mexico",New Mexico,NM,35,Union,059
+"Valencia County, New Mexico",New Mexico,NM,35,Valencia,061
+"Albany County, New York",New York,NY,36,Albany,001
+"Allegany County, New York",New York,NY,36,Allegany,003
+"Bronx County, New York",New York,NY,36,Bronx,005
+"Broome County, New York",New York,NY,36,Broome,007
+"Cattaraugus County, New York",New York,NY,36,Cattaraugus,009
+"Cayuga County, New York",New York,NY,36,Cayuga,011
+"Chautauqua County, New York",New York,NY,36,Chautauqua,013
+"Chemung County, New York",New York,NY,36,Chemung,015
+"Chenango County, New York",New York,NY,36,Chenango,017
+"Clinton County, New York",New York,NY,36,Clinton,019
+"Columbia County, New York",New York,NY,36,Columbia,021
+"Cortland County, New York",New York,NY,36,Cortland,023
+"Delaware County, New York",New York,NY,36,Delaware,025
+"Dutchess County, New York",New York,NY,36,Dutchess,027
+"Erie County, New York",New York,NY,36,Erie,029
+"Essex County, New York",New York,NY,36,Essex,031
+"Franklin County, New York",New York,NY,36,Franklin,033
+"Fulton County, New York",New York,NY,36,Fulton,035
+"Genesee County, New York",New York,NY,36,Genesee,037
+"Greene County, New York",New York,NY,36,Greene,039
+"Hamilton County, New York",New York,NY,36,Hamilton,041
+"Herkimer County, New York",New York,NY,36,Herkimer,043
+"Jefferson County, New York",New York,NY,36,Jefferson,045
+"Kings County, New York",New York,NY,36,Kings,047
+"Lewis County, New York",New York,NY,36,Lewis,049
+"Livingston County, New York",New York,NY,36,Livingston,051
+"Madison County, New York",New York,NY,36,Madison,053
+"Monroe County, New York",New York,NY,36,Monroe,055
+"Montgomery County, New York",New York,NY,36,Montgomery,057
+"Nassau County, New York",New York,NY,36,Nassau,059
+"New York County, New York",New York,NY,36,New York,061
+"Niagara County, New York",New York,NY,36,Niagara,063
+"Oneida County, New York",New York,NY,36,Oneida,065
+"Onondaga County, New York",New York,NY,36,Onondaga,067
+"Ontario County, New York",New York,NY,36,Ontario,069
+"Orange County, New York",New York,NY,36,Orange,071
+"Orleans County, New York",New York,NY,36,Orleans,073
+"Oswego County, New York",New York,NY,36,Oswego,075
+"Otsego County, New York",New York,NY,36,Otsego,077
+"Putnam County, New York",New York,NY,36,Putnam,079
+"Queens County, New York",New York,NY,36,Queens,081
+"Rensselaer County, New York",New York,NY,36,Rensselaer,083
+"Richmond County, New York",New York,NY,36,Richmond,085
+"Rockland County, New York",New York,NY,36,Rockland,087
+"St. Lawrence County, New York",New York,NY,36,St. Lawrence,089
+"Saratoga County, New York",New York,NY,36,Saratoga,091
+"Schenectady County, New York",New York,NY,36,Schenectady,093
+"Schoharie County, New York",New York,NY,36,Schoharie,095
+"Schuyler County, New York",New York,NY,36,Schuyler,097
+"Seneca County, New York",New York,NY,36,Seneca,099
+"Steuben County, New York",New York,NY,36,Steuben,101
+"Suffolk County, New York",New York,NY,36,Suffolk,103
+"Sullivan County, New York",New York,NY,36,Sullivan,105
+"Tioga County, New York",New York,NY,36,Tioga,107
+"Tompkins County, New York",New York,NY,36,Tompkins,109
+"Ulster County, New York",New York,NY,36,Ulster,111
+"Warren County, New York",New York,NY,36,Warren,113
+"Washington County, New York",New York,NY,36,Washington,115
+"Wayne County, New York",New York,NY,36,Wayne,117
+"Westchester County, New York",New York,NY,36,Westchester,119
+"Wyoming County, New York",New York,NY,36,Wyoming,121
+"Yates County, New York",New York,NY,36,Yates,123
+"Alamance County, North Carolina",North Carolina,NC,37,Alamance,001
+"Alexander County, North Carolina",North Carolina,NC,37,Alexander,003
+"Alleghany County, North Carolina",North Carolina,NC,37,Alleghany,005
+"Anson County, North Carolina",North Carolina,NC,37,Anson,007
+"Ashe County, North Carolina",North Carolina,NC,37,Ashe,009
+"Avery County, North Carolina",North Carolina,NC,37,Avery,011
+"Beaufort County, North Carolina",North Carolina,NC,37,Beaufort,013
+"Bertie County, North Carolina",North Carolina,NC,37,Bertie,015
+"Bladen County, North Carolina",North Carolina,NC,37,Bladen,017
+"Brunswick County, North Carolina",North Carolina,NC,37,Brunswick,019
+"Buncombe County, North Carolina",North Carolina,NC,37,Buncombe,021
+"Burke County, North Carolina",North Carolina,NC,37,Burke,023
+"Cabarrus County, North Carolina",North Carolina,NC,37,Cabarrus,025
+"Caldwell County, North Carolina",North Carolina,NC,37,Caldwell,027
+"Camden County, North Carolina",North Carolina,NC,37,Camden,029
+"Carteret County, North Carolina",North Carolina,NC,37,Carteret,031
+"Caswell County, North Carolina",North Carolina,NC,37,Caswell,033
+"Catawba County, North Carolina",North Carolina,NC,37,Catawba,035
+"Chatham County, North Carolina",North Carolina,NC,37,Chatham,037
+"Cherokee County, North Carolina",North Carolina,NC,37,Cherokee,039
+"Chowan County, North Carolina",North Carolina,NC,37,Chowan,041
+"Clay County, North Carolina",North Carolina,NC,37,Clay,043
+"Cleveland County, North Carolina",North Carolina,NC,37,Cleveland,045
+"Columbus County, North Carolina",North Carolina,NC,37,Columbus,047
+"Craven County, North Carolina",North Carolina,NC,37,Craven,049
+"Cumberland County, North Carolina",North Carolina,NC,37,Cumberland,051
+"Currituck County, North Carolina",North Carolina,NC,37,Currituck,053
+"Dare County, North Carolina",North Carolina,NC,37,Dare,055
+"Davidson County, North Carolina",North Carolina,NC,37,Davidson,057
+"Davie County, North Carolina",North Carolina,NC,37,Davie,059
+"Duplin County, North Carolina",North Carolina,NC,37,Duplin,061
+"Durham County, North Carolina",North Carolina,NC,37,Durham,063
+"Edgecombe County, North Carolina",North Carolina,NC,37,Edgecombe,065
+"Forsyth County, North Carolina",North Carolina,NC,37,Forsyth,067
+"Franklin County, North Carolina",North Carolina,NC,37,Franklin,069
+"Gaston County, North Carolina",North Carolina,NC,37,Gaston,071
+"Gates County, North Carolina",North Carolina,NC,37,Gates,073
+"Graham County, North Carolina",North Carolina,NC,37,Graham,075
+"Granville County, North Carolina",North Carolina,NC,37,Granville,077
+"Greene County, North Carolina",North Carolina,NC,37,Greene,079
+"Guilford County, North Carolina",North Carolina,NC,37,Guilford,081
+"Halifax County, North Carolina",North Carolina,NC,37,Halifax,083
+"Harnett County, North Carolina",North Carolina,NC,37,Harnett,085
+"Haywood County, North Carolina",North Carolina,NC,37,Haywood,087
+"Henderson County, North Carolina",North Carolina,NC,37,Henderson,089
+"Hertford County, North Carolina",North Carolina,NC,37,Hertford,091
+"Hoke County, North Carolina",North Carolina,NC,37,Hoke,093
+"Hyde County, North Carolina",North Carolina,NC,37,Hyde,095
+"Iredell County, North Carolina",North Carolina,NC,37,Iredell,097
+"Jackson County, North Carolina",North Carolina,NC,37,Jackson,099
+"Johnston County, North Carolina",North Carolina,NC,37,Johnston,101
+"Jones County, North Carolina",North Carolina,NC,37,Jones,103
+"Lee County, North Carolina",North Carolina,NC,37,Lee,105
+"Lenoir County, North Carolina",North Carolina,NC,37,Lenoir,107
+"Lincoln County, North Carolina",North Carolina,NC,37,Lincoln,109
+"McDowell County, North Carolina",North Carolina,NC,37,McDowell,111
+"Macon County, North Carolina",North Carolina,NC,37,Macon,113
+"Madison County, North Carolina",North Carolina,NC,37,Madison,115
+"Martin County, North Carolina",North Carolina,NC,37,Martin,117
+"Mecklenburg County, North Carolina",North Carolina,NC,37,Mecklenburg,119
+"Mitchell County, North Carolina",North Carolina,NC,37,Mitchell,121
+"Montgomery County, North Carolina",North Carolina,NC,37,Montgomery,123
+"Moore County, North Carolina",North Carolina,NC,37,Moore,125
+"Nash County, North Carolina",North Carolina,NC,37,Nash,127
+"New Hanover County, North Carolina",North Carolina,NC,37,New Hanover,129
+"Northampton County, North Carolina",North Carolina,NC,37,Northampton,131
+"Onslow County, North Carolina",North Carolina,NC,37,Onslow,133
+"Orange County, North Carolina",North Carolina,NC,37,Orange,135
+"Pamlico County, North Carolina",North Carolina,NC,37,Pamlico,137
+"Pasquotank County, North Carolina",North Carolina,NC,37,Pasquotank,139
+"Pender County, North Carolina",North Carolina,NC,37,Pender,141
+"Perquimans County, North Carolina",North Carolina,NC,37,Perquimans,143
+"Person County, North Carolina",North Carolina,NC,37,Person,145
+"Pitt County, North Carolina",North Carolina,NC,37,Pitt,147
+"Polk County, North Carolina",North Carolina,NC,37,Polk,149
+"Randolph County, North Carolina",North Carolina,NC,37,Randolph,151
+"Richmond County, North Carolina",North Carolina,NC,37,Richmond,153
+"Robeson County, North Carolina",North Carolina,NC,37,Robeson,155
+"Rockingham County, North Carolina",North Carolina,NC,37,Rockingham,157
+"Rowan County, North Carolina",North Carolina,NC,37,Rowan,159
+"Rutherford County, North Carolina",North Carolina,NC,37,Rutherford,161
+"Sampson County, North Carolina",North Carolina,NC,37,Sampson,163
+"Scotland County, North Carolina",North Carolina,NC,37,Scotland,165
+"Stanly County, North Carolina",North Carolina,NC,37,Stanly,167
+"Stokes County, North Carolina",North Carolina,NC,37,Stokes,169
+"Surry County, North Carolina",North Carolina,NC,37,Surry,171
+"Swain County, North Carolina",North Carolina,NC,37,Swain,173
+"Transylvania County, North Carolina",North Carolina,NC,37,Transylvania,175
+"Tyrrell County, North Carolina",North Carolina,NC,37,Tyrrell,177
+"Union County, North Carolina",North Carolina,NC,37,Union,179
+"Vance County, North Carolina",North Carolina,NC,37,Vance,181
+"Wake County, North Carolina",North Carolina,NC,37,Wake,183
+"Warren County, North Carolina",North Carolina,NC,37,Warren,185
+"Washington County, North Carolina",North Carolina,NC,37,Washington,187
+"Watauga County, North Carolina",North Carolina,NC,37,Watauga,189
+"Wayne County, North Carolina",North Carolina,NC,37,Wayne,191
+"Wilkes County, North Carolina",North Carolina,NC,37,Wilkes,193
+"Wilson County, North Carolina",North Carolina,NC,37,Wilson,195
+"Yadkin County, North Carolina",North Carolina,NC,37,Yadkin,197
+"Yancey County, North Carolina",North Carolina,NC,37,Yancey,199
+"Adams County, North Dakota",North Dakota,ND,38,Adams,001
+"Barnes County, North Dakota",North Dakota,ND,38,Barnes,003
+"Benson County, North Dakota",North Dakota,ND,38,Benson,005
+"Billings County, North Dakota",North Dakota,ND,38,Billings,007
+"Bottineau County, North Dakota",North Dakota,ND,38,Bottineau,009
+"Bowman County, North Dakota",North Dakota,ND,38,Bowman,011
+"Burke County, North Dakota",North Dakota,ND,38,Burke,013
+"Burleigh County, North Dakota",North Dakota,ND,38,Burleigh,015
+"Cass County, North Dakota",North Dakota,ND,38,Cass,017
+"Cavalier County, North Dakota",North Dakota,ND,38,Cavalier,019
+"Dickey County, North Dakota",North Dakota,ND,38,Dickey,021
+"Divide County, North Dakota",North Dakota,ND,38,Divide,023
+"Dunn County, North Dakota",North Dakota,ND,38,Dunn,025
+"Eddy County, North Dakota",North Dakota,ND,38,Eddy,027
+"Emmons County, North Dakota",North Dakota,ND,38,Emmons,029
+"Foster County, North Dakota",North Dakota,ND,38,Foster,031
+"Golden Valley County, North Dakota",North Dakota,ND,38,Golden Valley,033
+"Grand Forks County, North Dakota",North Dakota,ND,38,Grand Forks,035
+"Grant County, North Dakota",North Dakota,ND,38,Grant,037
+"Griggs County, North Dakota",North Dakota,ND,38,Griggs,039
+"Hettinger County, North Dakota",North Dakota,ND,38,Hettinger,041
+"Kidder County, North Dakota",North Dakota,ND,38,Kidder,043
+"LaMoure County, North Dakota",North Dakota,ND,38,LaMoure,045
+"Logan County, North Dakota",North Dakota,ND,38,Logan,047
+"McHenry County, North Dakota",North Dakota,ND,38,McHenry,049
+"McIntosh County, North Dakota",North Dakota,ND,38,McIntosh,051
+"McKenzie County, North Dakota",North Dakota,ND,38,McKenzie,053
+"McLean County, North Dakota",North Dakota,ND,38,McLean,055
+"Mercer County, North Dakota",North Dakota,ND,38,Mercer,057
+"Morton County, North Dakota",North Dakota,ND,38,Morton,059
+"Mountrail County, North Dakota",North Dakota,ND,38,Mountrail,061
+"Nelson County, North Dakota",North Dakota,ND,38,Nelson,063
+"Oliver County, North Dakota",North Dakota,ND,38,Oliver,065
+"Pembina County, North Dakota",North Dakota,ND,38,Pembina,067
+"Pierce County, North Dakota",North Dakota,ND,38,Pierce,069
+"Ramsey County, North Dakota",North Dakota,ND,38,Ramsey,071
+"Ransom County, North Dakota",North Dakota,ND,38,Ransom,073
+"Renville County, North Dakota",North Dakota,ND,38,Renville,075
+"Richland County, North Dakota",North Dakota,ND,38,Richland,077
+"Rolette County, North Dakota",North Dakota,ND,38,Rolette,079
+"Sargent County, North Dakota",North Dakota,ND,38,Sargent,081
+"Sheridan County, North Dakota",North Dakota,ND,38,Sheridan,083
+"Sioux County, North Dakota",North Dakota,ND,38,Sioux,085
+"Slope County, North Dakota",North Dakota,ND,38,Slope,087
+"Stark County, North Dakota",North Dakota,ND,38,Stark,089
+"Steele County, North Dakota",North Dakota,ND,38,Steele,091
+"Stutsman County, North Dakota",North Dakota,ND,38,Stutsman,093
+"Towner County, North Dakota",North Dakota,ND,38,Towner,095
+"Traill County, North Dakota",North Dakota,ND,38,Traill,097
+"Walsh County, North Dakota",North Dakota,ND,38,Walsh,099
+"Ward County, North Dakota",North Dakota,ND,38,Ward,101
+"Wells County, North Dakota",North Dakota,ND,38,Wells,103
+"Williams County, North Dakota",North Dakota,ND,38,Williams,105
+"Adams County, Ohio",Ohio,OH,39,Adams,001
+"Allen County, Ohio",Ohio,OH,39,Allen,003
+"Ashland County, Ohio",Ohio,OH,39,Ashland,005
+"Ashtabula County, Ohio",Ohio,OH,39,Ashtabula,007
+"Athens County, Ohio",Ohio,OH,39,Athens,009
+"Auglaize County, Ohio",Ohio,OH,39,Auglaize,011
+"Belmont County, Ohio",Ohio,OH,39,Belmont,013
+"Brown County, Ohio",Ohio,OH,39,Brown,015
+"Butler County, Ohio",Ohio,OH,39,Butler,017
+"Carroll County, Ohio",Ohio,OH,39,Carroll,019
+"Champaign County, Ohio",Ohio,OH,39,Champaign,021
+"Clark County, Ohio",Ohio,OH,39,Clark,023
+"Clermont County, Ohio",Ohio,OH,39,Clermont,025
+"Clinton County, Ohio",Ohio,OH,39,Clinton,027
+"Columbiana County, Ohio",Ohio,OH,39,Columbiana,029
+"Coshocton County, Ohio",Ohio,OH,39,Coshocton,031
+"Crawford County, Ohio",Ohio,OH,39,Crawford,033
+"Cuyahoga County, Ohio",Ohio,OH,39,Cuyahoga,035
+"Darke County, Ohio",Ohio,OH,39,Darke,037
+"Defiance County, Ohio",Ohio,OH,39,Defiance,039
+"Delaware County, Ohio",Ohio,OH,39,Delaware,041
+"Erie County, Ohio",Ohio,OH,39,Erie,043
+"Fairfield County, Ohio",Ohio,OH,39,Fairfield,045
+"Fayette County, Ohio",Ohio,OH,39,Fayette,047
+"Franklin County, Ohio",Ohio,OH,39,Franklin,049
+"Fulton County, Ohio",Ohio,OH,39,Fulton,051
+"Gallia County, Ohio",Ohio,OH,39,Gallia,053
+"Geauga County, Ohio",Ohio,OH,39,Geauga,055
+"Greene County, Ohio",Ohio,OH,39,Greene,057
+"Guernsey County, Ohio",Ohio,OH,39,Guernsey,059
+"Hamilton County, Ohio",Ohio,OH,39,Hamilton,061
+"Hancock County, Ohio",Ohio,OH,39,Hancock,063
+"Hardin County, Ohio",Ohio,OH,39,Hardin,065
+"Harrison County, Ohio",Ohio,OH,39,Harrison,067
+"Henry County, Ohio",Ohio,OH,39,Henry,069
+"Highland County, Ohio",Ohio,OH,39,Highland,071
+"Hocking County, Ohio",Ohio,OH,39,Hocking,073
+"Holmes County, Ohio",Ohio,OH,39,Holmes,075
+"Huron County, Ohio",Ohio,OH,39,Huron,077
+"Jackson County, Ohio",Ohio,OH,39,Jackson,079
+"Jefferson County, Ohio",Ohio,OH,39,Jefferson,081
+"Knox County, Ohio",Ohio,OH,39,Knox,083
+"Lake County, Ohio",Ohio,OH,39,Lake,085
+"Lawrence County, Ohio",Ohio,OH,39,Lawrence,087
+"Licking County, Ohio",Ohio,OH,39,Licking,089
+"Logan County, Ohio",Ohio,OH,39,Logan,091
+"Lorain County, Ohio",Ohio,OH,39,Lorain,093
+"Lucas County, Ohio",Ohio,OH,39,Lucas,095
+"Madison County, Ohio",Ohio,OH,39,Madison,097
+"Mahoning County, Ohio",Ohio,OH,39,Mahoning,099
+"Marion County, Ohio",Ohio,OH,39,Marion,101
+"Medina County, Ohio",Ohio,OH,39,Medina,103
+"Meigs County, Ohio",Ohio,OH,39,Meigs,105
+"Mercer County, Ohio",Ohio,OH,39,Mercer,107
+"Miami County, Ohio",Ohio,OH,39,Miami,109
+"Monroe County, Ohio",Ohio,OH,39,Monroe,111
+"Montgomery County, Ohio",Ohio,OH,39,Montgomery,113
+"Morgan County, Ohio",Ohio,OH,39,Morgan,115
+"Morrow County, Ohio",Ohio,OH,39,Morrow,117
+"Muskingum County, Ohio",Ohio,OH,39,Muskingum,119
+"Noble County, Ohio",Ohio,OH,39,Noble,121
+"Ottawa County, Ohio",Ohio,OH,39,Ottawa,123
+"Paulding County, Ohio",Ohio,OH,39,Paulding,125
+"Perry County, Ohio",Ohio,OH,39,Perry,127
+"Pickaway County, Ohio",Ohio,OH,39,Pickaway,129
+"Pike County, Ohio",Ohio,OH,39,Pike,131
+"Portage County, Ohio",Ohio,OH,39,Portage,133
+"Preble County, Ohio",Ohio,OH,39,Preble,135
+"Putnam County, Ohio",Ohio,OH,39,Putnam,137
+"Richland County, Ohio",Ohio,OH,39,Richland,139
+"Ross County, Ohio",Ohio,OH,39,Ross,141
+"Sandusky County, Ohio",Ohio,OH,39,Sandusky,143
+"Scioto County, Ohio",Ohio,OH,39,Scioto,145
+"Seneca County, Ohio",Ohio,OH,39,Seneca,147
+"Shelby County, Ohio",Ohio,OH,39,Shelby,149
+"Stark County, Ohio",Ohio,OH,39,Stark,151
+"Summit County, Ohio",Ohio,OH,39,Summit,153
+"Trumbull County, Ohio",Ohio,OH,39,Trumbull,155
+"Tuscarawas County, Ohio",Ohio,OH,39,Tuscarawas,157
+"Union County, Ohio",Ohio,OH,39,Union,159
+"Van Wert County, Ohio",Ohio,OH,39,Van Wert,161
+"Vinton County, Ohio",Ohio,OH,39,Vinton,163
+"Warren County, Ohio",Ohio,OH,39,Warren,165
+"Washington County, Ohio",Ohio,OH,39,Washington,167
+"Wayne County, Ohio",Ohio,OH,39,Wayne,169
+"Williams County, Ohio",Ohio,OH,39,Williams,171
+"Wood County, Ohio",Ohio,OH,39,Wood,173
+"Wyandot County, Ohio",Ohio,OH,39,Wyandot,175
+"Adair County, Oklahoma",Oklahoma,OK,40,Adair,001
+"Alfalfa County, Oklahoma",Oklahoma,OK,40,Alfalfa,003
+"Atoka County, Oklahoma",Oklahoma,OK,40,Atoka,005
+"Beaver County, Oklahoma",Oklahoma,OK,40,Beaver,007
+"Beckham County, Oklahoma",Oklahoma,OK,40,Beckham,009
+"Blaine County, Oklahoma",Oklahoma,OK,40,Blaine,011
+"Bryan County, Oklahoma",Oklahoma,OK,40,Bryan,013
+"Caddo County, Oklahoma",Oklahoma,OK,40,Caddo,015
+"Canadian County, Oklahoma",Oklahoma,OK,40,Canadian,017
+"Carter County, Oklahoma",Oklahoma,OK,40,Carter,019
+"Cherokee County, Oklahoma",Oklahoma,OK,40,Cherokee,021
+"Choctaw County, Oklahoma",Oklahoma,OK,40,Choctaw,023
+"Cimarron County, Oklahoma",Oklahoma,OK,40,Cimarron,025
+"Cleveland County, Oklahoma",Oklahoma,OK,40,Cleveland,027
+"Coal County, Oklahoma",Oklahoma,OK,40,Coal,029
+"Comanche County, Oklahoma",Oklahoma,OK,40,Comanche,031
+"Cotton County, Oklahoma",Oklahoma,OK,40,Cotton,033
+"Craig County, Oklahoma",Oklahoma,OK,40,Craig,035
+"Creek County, Oklahoma",Oklahoma,OK,40,Creek,037
+"Custer County, Oklahoma",Oklahoma,OK,40,Custer,039
+"Delaware County, Oklahoma",Oklahoma,OK,40,Delaware,041
+"Dewey County, Oklahoma",Oklahoma,OK,40,Dewey,043
+"Ellis County, Oklahoma",Oklahoma,OK,40,Ellis,045
+"Garfield County, Oklahoma",Oklahoma,OK,40,Garfield,047
+"Garvin County, Oklahoma",Oklahoma,OK,40,Garvin,049
+"Grady County, Oklahoma",Oklahoma,OK,40,Grady,051
+"Grant County, Oklahoma",Oklahoma,OK,40,Grant,053
+"Greer County, Oklahoma",Oklahoma,OK,40,Greer,055
+"Harmon County, Oklahoma",Oklahoma,OK,40,Harmon,057
+"Harper County, Oklahoma",Oklahoma,OK,40,Harper,059
+"Haskell County, Oklahoma",Oklahoma,OK,40,Haskell,061
+"Hughes County, Oklahoma",Oklahoma,OK,40,Hughes,063
+"Jackson County, Oklahoma",Oklahoma,OK,40,Jackson,065
+"Jefferson County, Oklahoma",Oklahoma,OK,40,Jefferson,067
+"Johnston County, Oklahoma",Oklahoma,OK,40,Johnston,069
+"Kay County, Oklahoma",Oklahoma,OK,40,Kay,071
+"Kingfisher County, Oklahoma",Oklahoma,OK,40,Kingfisher,073
+"Kiowa County, Oklahoma",Oklahoma,OK,40,Kiowa,075
+"Latimer County, Oklahoma",Oklahoma,OK,40,Latimer,077
+"Le Flore County, Oklahoma",Oklahoma,OK,40,Le Flore,079
+"Lincoln County, Oklahoma",Oklahoma,OK,40,Lincoln,081
+"Logan County, Oklahoma",Oklahoma,OK,40,Logan,083
+"Love County, Oklahoma",Oklahoma,OK,40,Love,085
+"McClain County, Oklahoma",Oklahoma,OK,40,McClain,087
+"McCurtain County, Oklahoma",Oklahoma,OK,40,McCurtain,089
+"McIntosh County, Oklahoma",Oklahoma,OK,40,McIntosh,091
+"Major County, Oklahoma",Oklahoma,OK,40,Major,093
+"Marshall County, Oklahoma",Oklahoma,OK,40,Marshall,095
+"Mayes County, Oklahoma",Oklahoma,OK,40,Mayes,097
+"Murray County, Oklahoma",Oklahoma,OK,40,Murray,099
+"Muskogee County, Oklahoma",Oklahoma,OK,40,Muskogee,101
+"Noble County, Oklahoma",Oklahoma,OK,40,Noble,103
+"Nowata County, Oklahoma",Oklahoma,OK,40,Nowata,105
+"Okfuskee County, Oklahoma",Oklahoma,OK,40,Okfuskee,107
+"Oklahoma County, Oklahoma",Oklahoma,OK,40,Oklahoma,109
+"Okmulgee County, Oklahoma",Oklahoma,OK,40,Okmulgee,111
+"Osage County, Oklahoma",Oklahoma,OK,40,Osage,113
+"Ottawa County, Oklahoma",Oklahoma,OK,40,Ottawa,115
+"Pawnee County, Oklahoma",Oklahoma,OK,40,Pawnee,117
+"Payne County, Oklahoma",Oklahoma,OK,40,Payne,119
+"Pittsburg County, Oklahoma",Oklahoma,OK,40,Pittsburg,121
+"Pontotoc County, Oklahoma",Oklahoma,OK,40,Pontotoc,123
+"Pottawatomie County, Oklahoma",Oklahoma,OK,40,Pottawatomie,125
+"Pushmataha County, Oklahoma",Oklahoma,OK,40,Pushmataha,127
+"Roger Mills County, Oklahoma",Oklahoma,OK,40,Roger Mills,129
+"Rogers County, Oklahoma",Oklahoma,OK,40,Rogers,131
+"Seminole County, Oklahoma",Oklahoma,OK,40,Seminole,133
+"Sequoyah County, Oklahoma",Oklahoma,OK,40,Sequoyah,135
+"Stephens County, Oklahoma",Oklahoma,OK,40,Stephens,137
+"Texas County, Oklahoma",Oklahoma,OK,40,Texas,139
+"Tillman County, Oklahoma",Oklahoma,OK,40,Tillman,141
+"Tulsa County, Oklahoma",Oklahoma,OK,40,Tulsa,143
+"Wagoner County, Oklahoma",Oklahoma,OK,40,Wagoner,145
+"Washington County, Oklahoma",Oklahoma,OK,40,Washington,147
+"Washita County, Oklahoma",Oklahoma,OK,40,Washita,149
+"Woods County, Oklahoma",Oklahoma,OK,40,Woods,151
+"Woodward County, Oklahoma",Oklahoma,OK,40,Woodward,153
+"Baker County, Oregon",Oregon,OR,41,Baker,001
+"Benton County, Oregon",Oregon,OR,41,Benton,003
+"Clackamas County, Oregon",Oregon,OR,41,Clackamas,005
+"Clatsop County, Oregon",Oregon,OR,41,Clatsop,007
+"Columbia County, Oregon",Oregon,OR,41,Columbia,009
+"Coos County, Oregon",Oregon,OR,41,Coos,011
+"Crook County, Oregon",Oregon,OR,41,Crook,013
+"Curry County, Oregon",Oregon,OR,41,Curry,015
+"Deschutes County, Oregon",Oregon,OR,41,Deschutes,017
+"Douglas County, Oregon",Oregon,OR,41,Douglas,019
+"Gilliam County, Oregon",Oregon,OR,41,Gilliam,021
+"Grant County, Oregon",Oregon,OR,41,Grant,023
+"Harney County, Oregon",Oregon,OR,41,Harney,025
+"Hood River County, Oregon",Oregon,OR,41,Hood River,027
+"Jackson County, Oregon",Oregon,OR,41,Jackson,029
+"Jefferson County, Oregon",Oregon,OR,41,Jefferson,031
+"Josephine County, Oregon",Oregon,OR,41,Josephine,033
+"Klamath County, Oregon",Oregon,OR,41,Klamath,035
+"Lake County, Oregon",Oregon,OR,41,Lake,037
+"Lane County, Oregon",Oregon,OR,41,Lane,039
+"Lincoln County, Oregon",Oregon,OR,41,Lincoln,041
+"Linn County, Oregon",Oregon,OR,41,Linn,043
+"Malheur County, Oregon",Oregon,OR,41,Malheur,045
+"Marion County, Oregon",Oregon,OR,41,Marion,047
+"Morrow County, Oregon",Oregon,OR,41,Morrow,049
+"Multnomah County, Oregon",Oregon,OR,41,Multnomah,051
+"Polk County, Oregon",Oregon,OR,41,Polk,053
+"Sherman County, Oregon",Oregon,OR,41,Sherman,055
+"Tillamook County, Oregon",Oregon,OR,41,Tillamook,057
+"Umatilla County, Oregon",Oregon,OR,41,Umatilla,059
+"Union County, Oregon",Oregon,OR,41,Union,061
+"Wallowa County, Oregon",Oregon,OR,41,Wallowa,063
+"Wasco County, Oregon",Oregon,OR,41,Wasco,065
+"Washington County, Oregon",Oregon,OR,41,Washington,067
+"Wheeler County, Oregon",Oregon,OR,41,Wheeler,069
+"Yamhill County, Oregon",Oregon,OR,41,Yamhill,071
+"Adams County, Pennsylvania",Pennsylvania,PA,42,Adams,001
+"Allegheny County, Pennsylvania",Pennsylvania,PA,42,Allegheny,003
+"Armstrong County, Pennsylvania",Pennsylvania,PA,42,Armstrong,005
+"Beaver County, Pennsylvania",Pennsylvania,PA,42,Beaver,007
+"Bedford County, Pennsylvania",Pennsylvania,PA,42,Bedford,009
+"Berks County, Pennsylvania",Pennsylvania,PA,42,Berks,011
+"Blair County, Pennsylvania",Pennsylvania,PA,42,Blair,013
+"Bradford County, Pennsylvania",Pennsylvania,PA,42,Bradford,015
+"Bucks County, Pennsylvania",Pennsylvania,PA,42,Bucks,017
+"Butler County, Pennsylvania",Pennsylvania,PA,42,Butler,019
+"Cambria County, Pennsylvania",Pennsylvania,PA,42,Cambria,021
+"Cameron County, Pennsylvania",Pennsylvania,PA,42,Cameron,023
+"Carbon County, Pennsylvania",Pennsylvania,PA,42,Carbon,025
+"Centre County, Pennsylvania",Pennsylvania,PA,42,Centre,027
+"Chester County, Pennsylvania",Pennsylvania,PA,42,Chester,029
+"Clarion County, Pennsylvania",Pennsylvania,PA,42,Clarion,031
+"Clearfield County, Pennsylvania",Pennsylvania,PA,42,Clearfield,033
+"Clinton County, Pennsylvania",Pennsylvania,PA,42,Clinton,035
+"Columbia County, Pennsylvania",Pennsylvania,PA,42,Columbia,037
+"Crawford County, Pennsylvania",Pennsylvania,PA,42,Crawford,039
+"Cumberland County, Pennsylvania",Pennsylvania,PA,42,Cumberland,041
+"Dauphin County, Pennsylvania",Pennsylvania,PA,42,Dauphin,043
+"Delaware County, Pennsylvania",Pennsylvania,PA,42,Delaware,045
+"Elk County, Pennsylvania",Pennsylvania,PA,42,Elk,047
+"Erie County, Pennsylvania",Pennsylvania,PA,42,Erie,049
+"Fayette County, Pennsylvania",Pennsylvania,PA,42,Fayette,051
+"Forest County, Pennsylvania",Pennsylvania,PA,42,Forest,053
+"Franklin County, Pennsylvania",Pennsylvania,PA,42,Franklin,055
+"Fulton County, Pennsylvania",Pennsylvania,PA,42,Fulton,057
+"Greene County, Pennsylvania",Pennsylvania,PA,42,Greene,059
+"Huntingdon County, Pennsylvania",Pennsylvania,PA,42,Huntingdon,061
+"Indiana County, Pennsylvania",Pennsylvania,PA,42,Indiana,063
+"Jefferson County, Pennsylvania",Pennsylvania,PA,42,Jefferson,065
+"Juniata County, Pennsylvania",Pennsylvania,PA,42,Juniata,067
+"Lackawanna County, Pennsylvania",Pennsylvania,PA,42,Lackawanna,069
+"Lancaster County, Pennsylvania",Pennsylvania,PA,42,Lancaster,071
+"Lawrence County, Pennsylvania",Pennsylvania,PA,42,Lawrence,073
+"Lebanon County, Pennsylvania",Pennsylvania,PA,42,Lebanon,075
+"Lehigh County, Pennsylvania",Pennsylvania,PA,42,Lehigh,077
+"Luzerne County, Pennsylvania",Pennsylvania,PA,42,Luzerne,079
+"Lycoming County, Pennsylvania",Pennsylvania,PA,42,Lycoming,081
+"McKean County, Pennsylvania",Pennsylvania,PA,42,McKean,083
+"Mercer County, Pennsylvania",Pennsylvania,PA,42,Mercer,085
+"Mifflin County, Pennsylvania",Pennsylvania,PA,42,Mifflin,087
+"Monroe County, Pennsylvania",Pennsylvania,PA,42,Monroe,089
+"Montgomery County, Pennsylvania",Pennsylvania,PA,42,Montgomery,091
+"Montour County, Pennsylvania",Pennsylvania,PA,42,Montour,093
+"Northampton County, Pennsylvania",Pennsylvania,PA,42,Northampton,095
+"Northumberland County, Pennsylvania",Pennsylvania,PA,42,Northumberland,097
+"Perry County, Pennsylvania",Pennsylvania,PA,42,Perry,099
+"Philadelphia County, Pennsylvania",Pennsylvania,PA,42,Philadelphia,101
+"Pike County, Pennsylvania",Pennsylvania,PA,42,Pike,103
+"Potter County, Pennsylvania",Pennsylvania,PA,42,Potter,105
+"Schuylkill County, Pennsylvania",Pennsylvania,PA,42,Schuylkill,107
+"Snyder County, Pennsylvania",Pennsylvania,PA,42,Snyder,109
+"Somerset County, Pennsylvania",Pennsylvania,PA,42,Somerset,111
+"Sullivan County, Pennsylvania",Pennsylvania,PA,42,Sullivan,113
+"Susquehanna County, Pennsylvania",Pennsylvania,PA,42,Susquehanna,115
+"Tioga County, Pennsylvania",Pennsylvania,PA,42,Tioga,117
+"Union County, Pennsylvania",Pennsylvania,PA,42,Union,119
+"Venango County, Pennsylvania",Pennsylvania,PA,42,Venango,121
+"Warren County, Pennsylvania",Pennsylvania,PA,42,Warren,123
+"Washington County, Pennsylvania",Pennsylvania,PA,42,Washington,125
+"Wayne County, Pennsylvania",Pennsylvania,PA,42,Wayne,127
+"Westmoreland County, Pennsylvania",Pennsylvania,PA,42,Westmoreland,129
+"Wyoming County, Pennsylvania",Pennsylvania,PA,42,Wyoming,131
+"York County, Pennsylvania",Pennsylvania,PA,42,York,133
+"Bristol County, Rhode Island",Rhode Island,RI,44,Bristol,001
+"Kent County, Rhode Island",Rhode Island,RI,44,Kent,003
+"Newport County, Rhode Island",Rhode Island,RI,44,Newport,005
+"Providence County, Rhode Island",Rhode Island,RI,44,Providence,007
+"Washington County, Rhode Island",Rhode Island,RI,44,Washington,009
+"Abbeville County, South Carolina",South Carolina,SC,45,Abbeville,001
+"Aiken County, South Carolina",South Carolina,SC,45,Aiken,003
+"Allendale County, South Carolina",South Carolina,SC,45,Allendale,005
+"Anderson County, South Carolina",South Carolina,SC,45,Anderson,007
+"Bamberg County, South Carolina",South Carolina,SC,45,Bamberg,009
+"Barnwell County, South Carolina",South Carolina,SC,45,Barnwell,011
+"Beaufort County, South Carolina",South Carolina,SC,45,Beaufort,013
+"Berkeley County, South Carolina",South Carolina,SC,45,Berkeley,015
+"Calhoun County, South Carolina",South Carolina,SC,45,Calhoun,017
+"Charleston County, South Carolina",South Carolina,SC,45,Charleston,019
+"Cherokee County, South Carolina",South Carolina,SC,45,Cherokee,021
+"Chester County, South Carolina",South Carolina,SC,45,Chester,023
+"Chesterfield County, South Carolina",South Carolina,SC,45,Chesterfield,025
+"Clarendon County, South Carolina",South Carolina,SC,45,Clarendon,027
+"Colleton County, South Carolina",South Carolina,SC,45,Colleton,029
+"Darlington County, South Carolina",South Carolina,SC,45,Darlington,031
+"Dillon County, South Carolina",South Carolina,SC,45,Dillon,033
+"Dorchester County, South Carolina",South Carolina,SC,45,Dorchester,035
+"Edgefield County, South Carolina",South Carolina,SC,45,Edgefield,037
+"Fairfield County, South Carolina",South Carolina,SC,45,Fairfield,039
+"Florence County, South Carolina",South Carolina,SC,45,Florence,041
+"Georgetown County, South Carolina",South Carolina,SC,45,Georgetown,043
+"Greenville County, South Carolina",South Carolina,SC,45,Greenville,045
+"Greenwood County, South Carolina",South Carolina,SC,45,Greenwood,047
+"Hampton County, South Carolina",South Carolina,SC,45,Hampton,049
+"Horry County, South Carolina",South Carolina,SC,45,Horry,051
+"Jasper County, South Carolina",South Carolina,SC,45,Jasper,053
+"Kershaw County, South Carolina",South Carolina,SC,45,Kershaw,055
+"Lancaster County, South Carolina",South Carolina,SC,45,Lancaster,057
+"Laurens County, South Carolina",South Carolina,SC,45,Laurens,059
+"Lee County, South Carolina",South Carolina,SC,45,Lee,061
+"Lexington County, South Carolina",South Carolina,SC,45,Lexington,063
+"McCormick County, South Carolina",South Carolina,SC,45,McCormick,065
+"Marion County, South Carolina",South Carolina,SC,45,Marion,067
+"Marlboro County, South Carolina",South Carolina,SC,45,Marlboro,069
+"Newberry County, South Carolina",South Carolina,SC,45,Newberry,071
+"Oconee County, South Carolina",South Carolina,SC,45,Oconee,073
+"Orangeburg County, South Carolina",South Carolina,SC,45,Orangeburg,075
+"Pickens County, South Carolina",South Carolina,SC,45,Pickens,077
+"Richland County, South Carolina",South Carolina,SC,45,Richland,079
+"Saluda County, South Carolina",South Carolina,SC,45,Saluda,081
+"Spartanburg County, South Carolina",South Carolina,SC,45,Spartanburg,083
+"Sumter County, South Carolina",South Carolina,SC,45,Sumter,085
+"Union County, South Carolina",South Carolina,SC,45,Union,087
+"Williamsburg County, South Carolina",South Carolina,SC,45,Williamsburg,089
+"York County, South Carolina",South Carolina,SC,45,York,091
+"Aurora County, South Dakota",South Dakota,SD,46,Aurora,003
+"Beadle County, South Dakota",South Dakota,SD,46,Beadle,005
+"Bennett County, South Dakota",South Dakota,SD,46,Bennett,007
+"Bon Homme County, South Dakota",South Dakota,SD,46,Bon Homme,009
+"Brookings County, South Dakota",South Dakota,SD,46,Brookings,011
+"Brown County, South Dakota",South Dakota,SD,46,Brown,013
+"Brule County, South Dakota",South Dakota,SD,46,Brule,015
+"Buffalo County, South Dakota",South Dakota,SD,46,Buffalo,017
+"Butte County, South Dakota",South Dakota,SD,46,Butte,019
+"Campbell County, South Dakota",South Dakota,SD,46,Campbell,021
+"Charles Mix County, South Dakota",South Dakota,SD,46,Charles Mix,023
+"Clark County, South Dakota",South Dakota,SD,46,Clark,025
+"Clay County, South Dakota",South Dakota,SD,46,Clay,027
+"Codington County, South Dakota",South Dakota,SD,46,Codington,029
+"Corson County, South Dakota",South Dakota,SD,46,Corson,031
+"Custer County, South Dakota",South Dakota,SD,46,Custer,033
+"Davison County, South Dakota",South Dakota,SD,46,Davison,035
+"Day County, South Dakota",South Dakota,SD,46,Day,037
+"Deuel County, South Dakota",South Dakota,SD,46,Deuel,039
+"Dewey County, South Dakota",South Dakota,SD,46,Dewey,041
+"Douglas County, South Dakota",South Dakota,SD,46,Douglas,043
+"Edmunds County, South Dakota",South Dakota,SD,46,Edmunds,045
+"Fall River County, South Dakota",South Dakota,SD,46,Fall River,047
+"Faulk County, South Dakota",South Dakota,SD,46,Faulk,049
+"Grant County, South Dakota",South Dakota,SD,46,Grant,051
+"Gregory County, South Dakota",South Dakota,SD,46,Gregory,053
+"Haakon County, South Dakota",South Dakota,SD,46,Haakon,055
+"Hamlin County, South Dakota",South Dakota,SD,46,Hamlin,057
+"Hand County, South Dakota",South Dakota,SD,46,Hand,059
+"Hanson County, South Dakota",South Dakota,SD,46,Hanson,061
+"Harding County, South Dakota",South Dakota,SD,46,Harding,063
+"Hughes County, South Dakota",South Dakota,SD,46,Hughes,065
+"Hutchinson County, South Dakota",South Dakota,SD,46,Hutchinson,067
+"Hyde County, South Dakota",South Dakota,SD,46,Hyde,069
+"Jackson County, South Dakota",South Dakota,SD,46,Jackson,071
+"Jerauld County, South Dakota",South Dakota,SD,46,Jerauld,073
+"Jones County, South Dakota",South Dakota,SD,46,Jones,075
+"Kingsbury County, South Dakota",South Dakota,SD,46,Kingsbury,077
+"Lake County, South Dakota",South Dakota,SD,46,Lake,079
+"Lawrence County, South Dakota",South Dakota,SD,46,Lawrence,081
+"Lincoln County, South Dakota",South Dakota,SD,46,Lincoln,083
+"Lyman County, South Dakota",South Dakota,SD,46,Lyman,085
+"McCook County, South Dakota",South Dakota,SD,46,McCook,087
+"McPherson County, South Dakota",South Dakota,SD,46,McPherson,089
+"Marshall County, South Dakota",South Dakota,SD,46,Marshall,091
+"Meade County, South Dakota",South Dakota,SD,46,Meade,093
+"Mellette County, South Dakota",South Dakota,SD,46,Mellette,095
+"Miner County, South Dakota",South Dakota,SD,46,Miner,097
+"Minnehaha County, South Dakota",South Dakota,SD,46,Minnehaha,099
+"Moody County, South Dakota",South Dakota,SD,46,Moody,101
+"Pennington County, South Dakota",South Dakota,SD,46,Pennington,103
+"Perkins County, South Dakota",South Dakota,SD,46,Perkins,105
+"Potter County, South Dakota",South Dakota,SD,46,Potter,107
+"Roberts County, South Dakota",South Dakota,SD,46,Roberts,109
+"Sanborn County, South Dakota",South Dakota,SD,46,Sanborn,111
+"Shannon County, South Dakota",South Dakota,SD,46,Shannon,113
+"Spink County, South Dakota",South Dakota,SD,46,Spink,115
+"Stanley County, South Dakota",South Dakota,SD,46,Stanley,117
+"Sully County, South Dakota",South Dakota,SD,46,Sully,119
+"Todd County, South Dakota",South Dakota,SD,46,Todd,121
+"Tripp County, South Dakota",South Dakota,SD,46,Tripp,123
+"Turner County, South Dakota",South Dakota,SD,46,Turner,125
+"Union County, South Dakota",South Dakota,SD,46,Union,127
+"Walworth County, South Dakota",South Dakota,SD,46,Walworth,129
+"Yankton County, South Dakota",South Dakota,SD,46,Yankton,135
+"Ziebach County, South Dakota",South Dakota,SD,46,Ziebach,137
+"Anderson County, Tennessee",Tennessee,TN,47,Anderson,001
+"Bedford County, Tennessee",Tennessee,TN,47,Bedford,003
+"Benton County, Tennessee",Tennessee,TN,47,Benton,005
+"Bledsoe County, Tennessee",Tennessee,TN,47,Bledsoe,007
+"Blount County, Tennessee",Tennessee,TN,47,Blount,009
+"Bradley County, Tennessee",Tennessee,TN,47,Bradley,011
+"Campbell County, Tennessee",Tennessee,TN,47,Campbell,013
+"Cannon County, Tennessee",Tennessee,TN,47,Cannon,015
+"Carroll County, Tennessee",Tennessee,TN,47,Carroll,017
+"Carter County, Tennessee",Tennessee,TN,47,Carter,019
+"Cheatham County, Tennessee",Tennessee,TN,47,Cheatham,021
+"Chester County, Tennessee",Tennessee,TN,47,Chester,023
+"Claiborne County, Tennessee",Tennessee,TN,47,Claiborne,025
+"Clay County, Tennessee",Tennessee,TN,47,Clay,027
+"Cocke County, Tennessee",Tennessee,TN,47,Cocke,029
+"Coffee County, Tennessee",Tennessee,TN,47,Coffee,031
+"Crockett County, Tennessee",Tennessee,TN,47,Crockett,033
+"Cumberland County, Tennessee",Tennessee,TN,47,Cumberland,035
+"Davidson County, Tennessee",Tennessee,TN,47,Davidson,037
+"Decatur County, Tennessee",Tennessee,TN,47,Decatur,039
+"DeKalb County, Tennessee",Tennessee,TN,47,DeKalb,041
+"Dickson County, Tennessee",Tennessee,TN,47,Dickson,043
+"Dyer County, Tennessee",Tennessee,TN,47,Dyer,045
+"Fayette County, Tennessee",Tennessee,TN,47,Fayette,047
+"Fentress County, Tennessee",Tennessee,TN,47,Fentress,049
+"Franklin County, Tennessee",Tennessee,TN,47,Franklin,051
+"Gibson County, Tennessee",Tennessee,TN,47,Gibson,053
+"Giles County, Tennessee",Tennessee,TN,47,Giles,055
+"Grainger County, Tennessee",Tennessee,TN,47,Grainger,057
+"Greene County, Tennessee",Tennessee,TN,47,Greene,059
+"Grundy County, Tennessee",Tennessee,TN,47,Grundy,061
+"Hamblen County, Tennessee",Tennessee,TN,47,Hamblen,063
+"Hamilton County, Tennessee",Tennessee,TN,47,Hamilton,065
+"Hancock County, Tennessee",Tennessee,TN,47,Hancock,067
+"Hardeman County, Tennessee",Tennessee,TN,47,Hardeman,069
+"Hardin County, Tennessee",Tennessee,TN,47,Hardin,071
+"Hawkins County, Tennessee",Tennessee,TN,47,Hawkins,073
+"Haywood County, Tennessee",Tennessee,TN,47,Haywood,075
+"Henderson County, Tennessee",Tennessee,TN,47,Henderson,077
+"Henry County, Tennessee",Tennessee,TN,47,Henry,079
+"Hickman County, Tennessee",Tennessee,TN,47,Hickman,081
+"Houston County, Tennessee",Tennessee,TN,47,Houston,083
+"Humphreys County, Tennessee",Tennessee,TN,47,Humphreys,085
+"Jackson County, Tennessee",Tennessee,TN,47,Jackson,087
+"Jefferson County, Tennessee",Tennessee,TN,47,Jefferson,089
+"Johnson County, Tennessee",Tennessee,TN,47,Johnson,091
+"Knox County, Tennessee",Tennessee,TN,47,Knox,093
+"Lake County, Tennessee",Tennessee,TN,47,Lake,095
+"Lauderdale County, Tennessee",Tennessee,TN,47,Lauderdale,097
+"Lawrence County, Tennessee",Tennessee,TN,47,Lawrence,099
+"Lewis County, Tennessee",Tennessee,TN,47,Lewis,101
+"Lincoln County, Tennessee",Tennessee,TN,47,Lincoln,103
+"Loudon County, Tennessee",Tennessee,TN,47,Loudon,105
+"McMinn County, Tennessee",Tennessee,TN,47,McMinn,107
+"McNairy County, Tennessee",Tennessee,TN,47,McNairy,109
+"Macon County, Tennessee",Tennessee,TN,47,Macon,111
+"Madison County, Tennessee",Tennessee,TN,47,Madison,113
+"Marion County, Tennessee",Tennessee,TN,47,Marion,115
+"Marshall County, Tennessee",Tennessee,TN,47,Marshall,117
+"Maury County, Tennessee",Tennessee,TN,47,Maury,119
+"Meigs County, Tennessee",Tennessee,TN,47,Meigs,121
+"Monroe County, Tennessee",Tennessee,TN,47,Monroe,123
+"Montgomery County, Tennessee",Tennessee,TN,47,Montgomery,125
+"Moore County, Tennessee",Tennessee,TN,47,Moore,127
+"Morgan County, Tennessee",Tennessee,TN,47,Morgan,129
+"Obion County, Tennessee",Tennessee,TN,47,Obion,131
+"Overton County, Tennessee",Tennessee,TN,47,Overton,133
+"Perry County, Tennessee",Tennessee,TN,47,Perry,135
+"Pickett County, Tennessee",Tennessee,TN,47,Pickett,137
+"Polk County, Tennessee",Tennessee,TN,47,Polk,139
+"Putnam County, Tennessee",Tennessee,TN,47,Putnam,141
+"Rhea County, Tennessee",Tennessee,TN,47,Rhea,143
+"Roane County, Tennessee",Tennessee,TN,47,Roane,145
+"Robertson County, Tennessee",Tennessee,TN,47,Robertson,147
+"Rutherford County, Tennessee",Tennessee,TN,47,Rutherford,149
+"Scott County, Tennessee",Tennessee,TN,47,Scott,151
+"Sequatchie County, Tennessee",Tennessee,TN,47,Sequatchie,153
+"Sevier County, Tennessee",Tennessee,TN,47,Sevier,155
+"Shelby County, Tennessee",Tennessee,TN,47,Shelby,157
+"Smith County, Tennessee",Tennessee,TN,47,Smith,159
+"Stewart County, Tennessee",Tennessee,TN,47,Stewart,161
+"Sullivan County, Tennessee",Tennessee,TN,47,Sullivan,163
+"Sumner County, Tennessee",Tennessee,TN,47,Sumner,165
+"Tipton County, Tennessee",Tennessee,TN,47,Tipton,167
+"Trousdale County, Tennessee",Tennessee,TN,47,Trousdale,169
+"Unicoi County, Tennessee",Tennessee,TN,47,Unicoi,171
+"Union County, Tennessee",Tennessee,TN,47,Union,173
+"Van Buren County, Tennessee",Tennessee,TN,47,Van Buren,175
+"Warren County, Tennessee",Tennessee,TN,47,Warren,177
+"Washington County, Tennessee",Tennessee,TN,47,Washington,179
+"Wayne County, Tennessee",Tennessee,TN,47,Wayne,181
+"Weakley County, Tennessee",Tennessee,TN,47,Weakley,183
+"White County, Tennessee",Tennessee,TN,47,White,185
+"Williamson County, Tennessee",Tennessee,TN,47,Williamson,187
+"Wilson County, Tennessee",Tennessee,TN,47,Wilson,189
+"Anderson County, Texas",Texas,TX,48,Anderson,001
+"Andrews County, Texas",Texas,TX,48,Andrews,003
+"Angelina County, Texas",Texas,TX,48,Angelina,005
+"Aransas County, Texas",Texas,TX,48,Aransas,007
+"Archer County, Texas",Texas,TX,48,Archer,009
+"Armstrong County, Texas",Texas,TX,48,Armstrong,011
+"Atascosa County, Texas",Texas,TX,48,Atascosa,013
+"Austin County, Texas",Texas,TX,48,Austin,015
+"Bailey County, Texas",Texas,TX,48,Bailey,017
+"Bandera County, Texas",Texas,TX,48,Bandera,019
+"Bastrop County, Texas",Texas,TX,48,Bastrop,021
+"Baylor County, Texas",Texas,TX,48,Baylor,023
+"Bee County, Texas",Texas,TX,48,Bee,025
+"Bell County, Texas",Texas,TX,48,Bell,027
+"Bexar County, Texas",Texas,TX,48,Bexar,029
+"Blanco County, Texas",Texas,TX,48,Blanco,031
+"Borden County, Texas",Texas,TX,48,Borden,033
+"Bosque County, Texas",Texas,TX,48,Bosque,035
+"Bowie County, Texas",Texas,TX,48,Bowie,037
+"Brazoria County, Texas",Texas,TX,48,Brazoria,039
+"Brazos County, Texas",Texas,TX,48,Brazos,041
+"Brewster County, Texas",Texas,TX,48,Brewster,043
+"Briscoe County, Texas",Texas,TX,48,Briscoe,045
+"Brooks County, Texas",Texas,TX,48,Brooks,047
+"Brown County, Texas",Texas,TX,48,Brown,049
+"Burleson County, Texas",Texas,TX,48,Burleson,051
+"Burnet County, Texas",Texas,TX,48,Burnet,053
+"Caldwell County, Texas",Texas,TX,48,Caldwell,055
+"Calhoun County, Texas",Texas,TX,48,Calhoun,057
+"Callahan County, Texas",Texas,TX,48,Callahan,059
+"Cameron County, Texas",Texas,TX,48,Cameron,061
+"Camp County, Texas",Texas,TX,48,Camp,063
+"Carson County, Texas",Texas,TX,48,Carson,065
+"Cass County, Texas",Texas,TX,48,Cass,067
+"Castro County, Texas",Texas,TX,48,Castro,069
+"Chambers County, Texas",Texas,TX,48,Chambers,071
+"Cherokee County, Texas",Texas,TX,48,Cherokee,073
+"Childress County, Texas",Texas,TX,48,Childress,075
+"Clay County, Texas",Texas,TX,48,Clay,077
+"Cochran County, Texas",Texas,TX,48,Cochran,079
+"Coke County, Texas",Texas,TX,48,Coke,081
+"Coleman County, Texas",Texas,TX,48,Coleman,083
+"Collin County, Texas",Texas,TX,48,Collin,085
+"Collingsworth County, Texas",Texas,TX,48,Collingsworth,087
+"Colorado County, Texas",Texas,TX,48,Colorado,089
+"Comal County, Texas",Texas,TX,48,Comal,091
+"Comanche County, Texas",Texas,TX,48,Comanche,093
+"Concho County, Texas",Texas,TX,48,Concho,095
+"Cooke County, Texas",Texas,TX,48,Cooke,097
+"Coryell County, Texas",Texas,TX,48,Coryell,099
+"Cottle County, Texas",Texas,TX,48,Cottle,101
+"Crane County, Texas",Texas,TX,48,Crane,103
+"Crockett County, Texas",Texas,TX,48,Crockett,105
+"Crosby County, Texas",Texas,TX,48,Crosby,107
+"Culberson County, Texas",Texas,TX,48,Culberson,109
+"Dallam County, Texas",Texas,TX,48,Dallam,111
+"Dallas County, Texas",Texas,TX,48,Dallas,113
+"Dawson County, Texas",Texas,TX,48,Dawson,115
+"Deaf Smith County, Texas",Texas,TX,48,Deaf Smith,117
+"Delta County, Texas",Texas,TX,48,Delta,119
+"Denton County, Texas",Texas,TX,48,Denton,121
+"DeWitt County, Texas",Texas,TX,48,DeWitt,123
+"Dickens County, Texas",Texas,TX,48,Dickens,125
+"Dimmit County, Texas",Texas,TX,48,Dimmit,127
+"Donley County, Texas",Texas,TX,48,Donley,129
+"Duval County, Texas",Texas,TX,48,Duval,131
+"Eastland County, Texas",Texas,TX,48,Eastland,133
+"Ector County, Texas",Texas,TX,48,Ector,135
+"Edwards County, Texas",Texas,TX,48,Edwards,137
+"Ellis County, Texas",Texas,TX,48,Ellis,139
+"El Paso County, Texas",Texas,TX,48,El Paso,141
+"Erath County, Texas",Texas,TX,48,Erath,143
+"Falls County, Texas",Texas,TX,48,Falls,145
+"Fannin County, Texas",Texas,TX,48,Fannin,147
+"Fayette County, Texas",Texas,TX,48,Fayette,149
+"Fisher County, Texas",Texas,TX,48,Fisher,151
+"Floyd County, Texas",Texas,TX,48,Floyd,153
+"Foard County, Texas",Texas,TX,48,Foard,155
+"Fort Bend County, Texas",Texas,TX,48,Fort Bend,157
+"Franklin County, Texas",Texas,TX,48,Franklin,159
+"Freestone County, Texas",Texas,TX,48,Freestone,161
+"Frio County, Texas",Texas,TX,48,Frio,163
+"Gaines County, Texas",Texas,TX,48,Gaines,165
+"Galveston County, Texas",Texas,TX,48,Galveston,167
+"Garza County, Texas",Texas,TX,48,Garza,169
+"Gillespie County, Texas",Texas,TX,48,Gillespie,171
+"Glasscock County, Texas",Texas,TX,48,Glasscock,173
+"Goliad County, Texas",Texas,TX,48,Goliad,175
+"Gonzales County, Texas",Texas,TX,48,Gonzales,177
+"Gray County, Texas",Texas,TX,48,Gray,179
+"Grayson County, Texas",Texas,TX,48,Grayson,181
+"Gregg County, Texas",Texas,TX,48,Gregg,183
+"Grimes County, Texas",Texas,TX,48,Grimes,185
+"Guadalupe County, Texas",Texas,TX,48,Guadalupe,187
+"Hale County, Texas",Texas,TX,48,Hale,189
+"Hall County, Texas",Texas,TX,48,Hall,191
+"Hamilton County, Texas",Texas,TX,48,Hamilton,193
+"Hansford County, Texas",Texas,TX,48,Hansford,195
+"Hardeman County, Texas",Texas,TX,48,Hardeman,197
+"Hardin County, Texas",Texas,TX,48,Hardin,199
+"Harris County, Texas",Texas,TX,48,Harris,201
+"Harrison County, Texas",Texas,TX,48,Harrison,203
+"Hartley County, Texas",Texas,TX,48,Hartley,205
+"Haskell County, Texas",Texas,TX,48,Haskell,207
+"Hays County, Texas",Texas,TX,48,Hays,209
+"Hemphill County, Texas",Texas,TX,48,Hemphill,211
+"Henderson County, Texas",Texas,TX,48,Henderson,213
+"Hidalgo County, Texas",Texas,TX,48,Hidalgo,215
+"Hill County, Texas",Texas,TX,48,Hill,217
+"Hockley County, Texas",Texas,TX,48,Hockley,219
+"Hood County, Texas",Texas,TX,48,Hood,221
+"Hopkins County, Texas",Texas,TX,48,Hopkins,223
+"Houston County, Texas",Texas,TX,48,Houston,225
+"Howard County, Texas",Texas,TX,48,Howard,227
+"Hudspeth County, Texas",Texas,TX,48,Hudspeth,229
+"Hunt County, Texas",Texas,TX,48,Hunt,231
+"Hutchinson County, Texas",Texas,TX,48,Hutchinson,233
+"Irion County, Texas",Texas,TX,48,Irion,235
+"Jack County, Texas",Texas,TX,48,Jack,237
+"Jackson County, Texas",Texas,TX,48,Jackson,239
+"Jasper County, Texas",Texas,TX,48,Jasper,241
+"Jeff Davis County, Texas",Texas,TX,48,Jeff Davis,243
+"Jefferson County, Texas",Texas,TX,48,Jefferson,245
+"Jim Hogg County, Texas",Texas,TX,48,Jim Hogg,247
+"Jim Wells County, Texas",Texas,TX,48,Jim Wells,249
+"Johnson County, Texas",Texas,TX,48,Johnson,251
+"Jones County, Texas",Texas,TX,48,Jones,253
+"Karnes County, Texas",Texas,TX,48,Karnes,255
+"Kaufman County, Texas",Texas,TX,48,Kaufman,257
+"Kendall County, Texas",Texas,TX,48,Kendall,259
+"Kenedy County, Texas",Texas,TX,48,Kenedy,261
+"Kent County, Texas",Texas,TX,48,Kent,263
+"Kerr County, Texas",Texas,TX,48,Kerr,265
+"Kimble County, Texas",Texas,TX,48,Kimble,267
+"King County, Texas",Texas,TX,48,King,269
+"Kinney County, Texas",Texas,TX,48,Kinney,271
+"Kleberg County, Texas",Texas,TX,48,Kleberg,273
+"Knox County, Texas",Texas,TX,48,Knox,275
+"Lamar County, Texas",Texas,TX,48,Lamar,277
+"Lamb County, Texas",Texas,TX,48,Lamb,279
+"Lampasas County, Texas",Texas,TX,48,Lampasas,281
+"La Salle County, Texas",Texas,TX,48,La Salle,283
+"Lavaca County, Texas",Texas,TX,48,Lavaca,285
+"Lee County, Texas",Texas,TX,48,Lee,287
+"Leon County, Texas",Texas,TX,48,Leon,289
+"Liberty County, Texas",Texas,TX,48,Liberty,291
+"Limestone County, Texas",Texas,TX,48,Limestone,293
+"Lipscomb County, Texas",Texas,TX,48,Lipscomb,295
+"Live Oak County, Texas",Texas,TX,48,Live Oak,297
+"Llano County, Texas",Texas,TX,48,Llano,299
+"Loving County, Texas",Texas,TX,48,Loving,301
+"Lubbock County, Texas",Texas,TX,48,Lubbock,303
+"Lynn County, Texas",Texas,TX,48,Lynn,305
+"McCulloch County, Texas",Texas,TX,48,McCulloch,307
+"McLennan County, Texas",Texas,TX,48,McLennan,309
+"McMullen County, Texas",Texas,TX,48,McMullen,311
+"Madison County, Texas",Texas,TX,48,Madison,313
+"Marion County, Texas",Texas,TX,48,Marion,315
+"Martin County, Texas",Texas,TX,48,Martin,317
+"Mason County, Texas",Texas,TX,48,Mason,319
+"Matagorda County, Texas",Texas,TX,48,Matagorda,321
+"Maverick County, Texas",Texas,TX,48,Maverick,323
+"Medina County, Texas",Texas,TX,48,Medina,325
+"Menard County, Texas",Texas,TX,48,Menard,327
+"Midland County, Texas",Texas,TX,48,Midland,329
+"Milam County, Texas",Texas,TX,48,Milam,331
+"Mills County, Texas",Texas,TX,48,Mills,333
+"Mitchell County, Texas",Texas,TX,48,Mitchell,335
+"Montague County, Texas",Texas,TX,48,Montague,337
+"Montgomery County, Texas",Texas,TX,48,Montgomery,339
+"Moore County, Texas",Texas,TX,48,Moore,341
+"Morris County, Texas",Texas,TX,48,Morris,343
+"Motley County, Texas",Texas,TX,48,Motley,345
+"Nacogdoches County, Texas",Texas,TX,48,Nacogdoches,347
+"Navarro County, Texas",Texas,TX,48,Navarro,349
+"Newton County, Texas",Texas,TX,48,Newton,351
+"Nolan County, Texas",Texas,TX,48,Nolan,353
+"Nueces County, Texas",Texas,TX,48,Nueces,355
+"Ochiltree County, Texas",Texas,TX,48,Ochiltree,357
+"Oldham County, Texas",Texas,TX,48,Oldham,359
+"Orange County, Texas",Texas,TX,48,Orange,361
+"Palo Pinto County, Texas",Texas,TX,48,Palo Pinto,363
+"Panola County, Texas",Texas,TX,48,Panola,365
+"Parker County, Texas",Texas,TX,48,Parker,367
+"Parmer County, Texas",Texas,TX,48,Parmer,369
+"Pecos County, Texas",Texas,TX,48,Pecos,371
+"Polk County, Texas",Texas,TX,48,Polk,373
+"Potter County, Texas",Texas,TX,48,Potter,375
+"Presidio County, Texas",Texas,TX,48,Presidio,377
+"Rains County, Texas",Texas,TX,48,Rains,379
+"Randall County, Texas",Texas,TX,48,Randall,381
+"Reagan County, Texas",Texas,TX,48,Reagan,383
+"Real County, Texas",Texas,TX,48,Real,385
+"Red River County, Texas",Texas,TX,48,Red River,387
+"Reeves County, Texas",Texas,TX,48,Reeves,389
+"Refugio County, Texas",Texas,TX,48,Refugio,391
+"Roberts County, Texas",Texas,TX,48,Roberts,393
+"Robertson County, Texas",Texas,TX,48,Robertson,395
+"Rockwall County, Texas",Texas,TX,48,Rockwall,397
+"Runnels County, Texas",Texas,TX,48,Runnels,399
+"Rusk County, Texas",Texas,TX,48,Rusk,401
+"Sabine County, Texas",Texas,TX,48,Sabine,403
+"San Augustine County, Texas",Texas,TX,48,San Augustine,405
+"San Jacinto County, Texas",Texas,TX,48,San Jacinto,407
+"San Patricio County, Texas",Texas,TX,48,San Patricio,409
+"San Saba County, Texas",Texas,TX,48,San Saba,411
+"Schleicher County, Texas",Texas,TX,48,Schleicher,413
+"Scurry County, Texas",Texas,TX,48,Scurry,415
+"Shackelford County, Texas",Texas,TX,48,Shackelford,417
+"Shelby County, Texas",Texas,TX,48,Shelby,419
+"Sherman County, Texas",Texas,TX,48,Sherman,421
+"Smith County, Texas",Texas,TX,48,Smith,423
+"Somervell County, Texas",Texas,TX,48,Somervell,425
+"Starr County, Texas",Texas,TX,48,Starr,427
+"Stephens County, Texas",Texas,TX,48,Stephens,429
+"Sterling County, Texas",Texas,TX,48,Sterling,431
+"Stonewall County, Texas",Texas,TX,48,Stonewall,433
+"Sutton County, Texas",Texas,TX,48,Sutton,435
+"Swisher County, Texas",Texas,TX,48,Swisher,437
+"Tarrant County, Texas",Texas,TX,48,Tarrant,439
+"Taylor County, Texas",Texas,TX,48,Taylor,441
+"Terrell County, Texas",Texas,TX,48,Terrell,443
+"Terry County, Texas",Texas,TX,48,Terry,445
+"Throckmorton County, Texas",Texas,TX,48,Throckmorton,447
+"Titus County, Texas",Texas,TX,48,Titus,449
+"Tom Green County, Texas",Texas,TX,48,Tom Green,451
+"Travis County, Texas",Texas,TX,48,Travis,453
+"Trinity County, Texas",Texas,TX,48,Trinity,455
+"Tyler County, Texas",Texas,TX,48,Tyler,457
+"Upshur County, Texas",Texas,TX,48,Upshur,459
+"Upton County, Texas",Texas,TX,48,Upton,461
+"Uvalde County, Texas",Texas,TX,48,Uvalde,463
+"Val Verde County, Texas",Texas,TX,48,Val Verde,465
+"Van Zandt County, Texas",Texas,TX,48,Van Zandt,467
+"Victoria County, Texas",Texas,TX,48,Victoria,469
+"Walker County, Texas",Texas,TX,48,Walker,471
+"Waller County, Texas",Texas,TX,48,Waller,473
+"Ward County, Texas",Texas,TX,48,Ward,475
+"Washington County, Texas",Texas,TX,48,Washington,477
+"Webb County, Texas",Texas,TX,48,Webb,479
+"Wharton County, Texas",Texas,TX,48,Wharton,481
+"Wheeler County, Texas",Texas,TX,48,Wheeler,483
+"Wichita County, Texas",Texas,TX,48,Wichita,485
+"Wilbarger County, Texas",Texas,TX,48,Wilbarger,487
+"Willacy County, Texas",Texas,TX,48,Willacy,489
+"Williamson County, Texas",Texas,TX,48,Williamson,491
+"Wilson County, Texas",Texas,TX,48,Wilson,493
+"Winkler County, Texas",Texas,TX,48,Winkler,495
+"Wise County, Texas",Texas,TX,48,Wise,497
+"Wood County, Texas",Texas,TX,48,Wood,499
+"Yoakum County, Texas",Texas,TX,48,Yoakum,501
+"Young County, Texas",Texas,TX,48,Young,503
+"Zapata County, Texas",Texas,TX,48,Zapata,505
+"Zavala County, Texas",Texas,TX,48,Zavala,507
+"Beaver County, Utah",Utah,UT,49,Beaver,001
+"Box Elder County, Utah",Utah,UT,49,Box Elder,003
+"Cache County, Utah",Utah,UT,49,Cache,005
+"Carbon County, Utah",Utah,UT,49,Carbon,007
+"Daggett County, Utah",Utah,UT,49,Daggett,009
+"Davis County, Utah",Utah,UT,49,Davis,011
+"Duchesne County, Utah",Utah,UT,49,Duchesne,013
+"Emery County, Utah",Utah,UT,49,Emery,015
+"Garfield County, Utah",Utah,UT,49,Garfield,017
+"Grand County, Utah",Utah,UT,49,Grand,019
+"Iron County, Utah",Utah,UT,49,Iron,021
+"Juab County, Utah",Utah,UT,49,Juab,023
+"Kane County, Utah",Utah,UT,49,Kane,025
+"Millard County, Utah",Utah,UT,49,Millard,027
+"Morgan County, Utah",Utah,UT,49,Morgan,029
+"Piute County, Utah",Utah,UT,49,Piute,031
+"Rich County, Utah",Utah,UT,49,Rich,033
+"Salt Lake County, Utah",Utah,UT,49,Salt Lake,035
+"San Juan County, Utah",Utah,UT,49,San Juan,037
+"Sanpete County, Utah",Utah,UT,49,Sanpete,039
+"Sevier County, Utah",Utah,UT,49,Sevier,041
+"Summit County, Utah",Utah,UT,49,Summit,043
+"Tooele County, Utah",Utah,UT,49,Tooele,045
+"Uintah County, Utah",Utah,UT,49,Uintah,047
+"Utah County, Utah",Utah,UT,49,Utah,049
+"Wasatch County, Utah",Utah,UT,49,Wasatch,051
+"Washington County, Utah",Utah,UT,49,Washington,053
+"Wayne County, Utah",Utah,UT,49,Wayne,055
+"Weber County, Utah",Utah,UT,49,Weber,057
+"Addison County, Vermont",Vermont,VT,50,Addison,001
+"Bennington County, Vermont",Vermont,VT,50,Bennington,003
+"Caledonia County, Vermont",Vermont,VT,50,Caledonia,005
+"Chittenden County, Vermont",Vermont,VT,50,Chittenden,007
+"Essex County, Vermont",Vermont,VT,50,Essex,009
+"Franklin County, Vermont",Vermont,VT,50,Franklin,011
+"Grand Isle County, Vermont",Vermont,VT,50,Grand Isle,013
+"Lamoille County, Vermont",Vermont,VT,50,Lamoille,015
+"Orange County, Vermont",Vermont,VT,50,Orange,017
+"Orleans County, Vermont",Vermont,VT,50,Orleans,019
+"Rutland County, Vermont",Vermont,VT,50,Rutland,021
+"Washington County, Vermont",Vermont,VT,50,Washington,023
+"Windham County, Vermont",Vermont,VT,50,Windham,025
+"Windsor County, Vermont",Vermont,VT,50,Windsor,027
+"Accomack County, Virginia",Virginia,VA,51,Accomack,001
+"Albemarle County, Virginia",Virginia,VA,51,Albemarle,003
+"Alleghany County, Virginia",Virginia,VA,51,Alleghany,005
+"Amelia County, Virginia",Virginia,VA,51,Amelia,007
+"Amherst County, Virginia",Virginia,VA,51,Amherst,009
+"Appomattox County, Virginia",Virginia,VA,51,Appomattox,011
+"Arlington County, Virginia",Virginia,VA,51,Arlington,013
+"Augusta County, Virginia",Virginia,VA,51,Augusta,015
+"Bath County, Virginia",Virginia,VA,51,Bath,017
+"Bedford County, Virginia",Virginia,VA,51,Bedford,019
+"Bland County, Virginia",Virginia,VA,51,Bland,021
+"Botetourt County, Virginia",Virginia,VA,51,Botetourt,023
+"Brunswick County, Virginia",Virginia,VA,51,Brunswick,025
+"Buchanan County, Virginia",Virginia,VA,51,Buchanan,027
+"Buckingham County, Virginia",Virginia,VA,51,Buckingham,029
+"Campbell County, Virginia",Virginia,VA,51,Campbell,031
+"Caroline County, Virginia",Virginia,VA,51,Caroline,033
+"Carroll County, Virginia",Virginia,VA,51,Carroll,035
+"Charles City County, Virginia",Virginia,VA,51,Charles City,036
+"Charlotte County, Virginia",Virginia,VA,51,Charlotte,037
+"Chesterfield County, Virginia",Virginia,VA,51,Chesterfield,041
+"Clarke County, Virginia",Virginia,VA,51,Clarke,043
+"Craig County, Virginia",Virginia,VA,51,Craig,045
+"Culpeper County, Virginia",Virginia,VA,51,Culpeper,047
+"Cumberland County, Virginia",Virginia,VA,51,Cumberland,049
+"Dickenson County, Virginia",Virginia,VA,51,Dickenson,051
+"Dinwiddie County, Virginia",Virginia,VA,51,Dinwiddie,053
+"Essex County, Virginia",Virginia,VA,51,Essex,057
+"Fairfax County, Virginia",Virginia,VA,51,Fairfax,059
+"Fauquier County, Virginia",Virginia,VA,51,Fauquier,061
+"Floyd County, Virginia",Virginia,VA,51,Floyd,063
+"Fluvanna County, Virginia",Virginia,VA,51,Fluvanna,065
+"Franklin County, Virginia",Virginia,VA,51,Franklin,067
+"Frederick County, Virginia",Virginia,VA,51,Frederick,069
+"Giles County, Virginia",Virginia,VA,51,Giles,071
+"Gloucester County, Virginia",Virginia,VA,51,Gloucester,073
+"Goochland County, Virginia",Virginia,VA,51,Goochland,075
+"Grayson County, Virginia",Virginia,VA,51,Grayson,077
+"Greene County, Virginia",Virginia,VA,51,Greene,079
+"Greensville County, Virginia",Virginia,VA,51,Greensville,081
+"Halifax County, Virginia",Virginia,VA,51,Halifax,083
+"Hanover County, Virginia",Virginia,VA,51,Hanover,085
+"Henrico County, Virginia",Virginia,VA,51,Henrico,087
+"Henry County, Virginia",Virginia,VA,51,Henry,089
+"Highland County, Virginia",Virginia,VA,51,Highland,091
+"Isle of Wight County, Virginia",Virginia,VA,51,Isle of Wight,093
+"James City County, Virginia",Virginia,VA,51,James City,095
+"King and Queen County, Virginia",Virginia,VA,51,King and Queen,097
+"King George County, Virginia",Virginia,VA,51,King George,099
+"King William County, Virginia",Virginia,VA,51,King William,101
+"Lancaster County, Virginia",Virginia,VA,51,Lancaster,103
+"Lee County, Virginia",Virginia,VA,51,Lee,105
+"Loudoun County, Virginia",Virginia,VA,51,Loudoun,107
+"Louisa County, Virginia",Virginia,VA,51,Louisa,109
+"Lunenburg County, Virginia",Virginia,VA,51,Lunenburg,111
+"Madison County, Virginia",Virginia,VA,51,Madison,113
+"Mathews County, Virginia",Virginia,VA,51,Mathews,115
+"Mecklenburg County, Virginia",Virginia,VA,51,Mecklenburg,117
+"Middlesex County, Virginia",Virginia,VA,51,Middlesex,119
+"Montgomery County, Virginia",Virginia,VA,51,Montgomery,121
+"Nelson County, Virginia",Virginia,VA,51,Nelson,125
+"New Kent County, Virginia",Virginia,VA,51,New Kent,127
+"Northampton County, Virginia",Virginia,VA,51,Northampton,131
+"Northumberland County, Virginia",Virginia,VA,51,Northumberland,133
+"Nottoway County, Virginia",Virginia,VA,51,Nottoway,135
+"Orange County, Virginia",Virginia,VA,51,Orange,137
+"Page County, Virginia",Virginia,VA,51,Page,139
+"Patrick County, Virginia",Virginia,VA,51,Patrick,141
+"Pittsylvania County, Virginia",Virginia,VA,51,Pittsylvania,143
+"Powhatan County, Virginia",Virginia,VA,51,Powhatan,145
+"Prince Edward County, Virginia",Virginia,VA,51,Prince Edward,147
+"Prince George County, Virginia",Virginia,VA,51,Prince George,149
+"Prince William County, Virginia",Virginia,VA,51,Prince William,153
+"Pulaski County, Virginia",Virginia,VA,51,Pulaski,155
+"Rappahannock County, Virginia",Virginia,VA,51,Rappahannock,157
+"Richmond County, Virginia",Virginia,VA,51,Richmond,159
+"Roanoke County, Virginia",Virginia,VA,51,Roanoke,161
+"Rockbridge County, Virginia",Virginia,VA,51,Rockbridge,163
+"Rockingham County, Virginia",Virginia,VA,51,Rockingham,165
+"Russell County, Virginia",Virginia,VA,51,Russell,167
+"Scott County, Virginia",Virginia,VA,51,Scott,169
+"Shenandoah County, Virginia",Virginia,VA,51,Shenandoah,171
+"Smyth County, Virginia",Virginia,VA,51,Smyth,173
+"Southampton County, Virginia",Virginia,VA,51,Southampton,175
+"Spotsylvania County, Virginia",Virginia,VA,51,Spotsylvania,177
+"Stafford County, Virginia",Virginia,VA,51,Stafford,179
+"Surry County, Virginia",Virginia,VA,51,Surry,181
+"Sussex County, Virginia",Virginia,VA,51,Sussex,183
+"Tazewell County, Virginia",Virginia,VA,51,Tazewell,185
+"Warren County, Virginia",Virginia,VA,51,Warren,187
+"Washington County, Virginia",Virginia,VA,51,Washington,191
+"Westmoreland County, Virginia",Virginia,VA,51,Westmoreland,193
+"Wise County, Virginia",Virginia,VA,51,Wise,195
+"Wythe County, Virginia",Virginia,VA,51,Wythe,197
+"York County, Virginia",Virginia,VA,51,York,199
+"Alexandria city, Virginia",Virginia,VA,51,Alexandr,510
+"Bedford city, Virginia",Virginia,VA,51,Bedfo,515
+"Bristol city, Virginia",Virginia,VA,51,Brist,520
+"Buena Vista city, Virginia",Virginia,VA,51,Buena Vis,530
+"Charlottesville city, Virginia",Virginia,VA,51,Charlottesvil,540
+"Chesapeake city, Virginia",Virginia,VA,51,Chesapea,550
+"Colonial Heights city, Virginia",Virginia,VA,51,Colonial Heigh,570
+"Covington city, Virginia",Virginia,VA,51,Covingt,580
+"Danville city, Virginia",Virginia,VA,51,Danvil,590
+"Emporia city, Virginia",Virginia,VA,51,Empor,595
+"Fairfax city, Virginia",Virginia,VA,51,Fairf,600
+"Falls Church city, Virginia",Virginia,VA,51,Falls Chur,610
+"Franklin city, Virginia",Virginia,VA,51,Frankl,620
+"Fredericksburg city, Virginia",Virginia,VA,51,Fredericksbu,630
+"Galax city, Virginia",Virginia,VA,51,Gal,640
+"Hampton city, Virginia",Virginia,VA,51,Hampt,650
+"Harrisonburg city, Virginia",Virginia,VA,51,Harrisonbu,660
+"Hopewell city, Virginia",Virginia,VA,51,Hopewe,670
+"Lexington city, Virginia",Virginia,VA,51,Lexingt,678
+"Lynchburg city, Virginia",Virginia,VA,51,Lynchbu,680
+"Manassas city, Virginia",Virginia,VA,51,Manass,683
+"Manassas Park city, Virginia",Virginia,VA,51,Manassas Pa,685
+"Martinsville city, Virginia",Virginia,VA,51,Martinsvil,690
+"Newport News city, Virginia",Virginia,VA,51,Newport Ne,700
+"Norfolk city, Virginia",Virginia,VA,51,Norfo,710
+"Norton city, Virginia",Virginia,VA,51,Nort,720
+"Petersburg city, Virginia",Virginia,VA,51,Petersbu,730
+"Poquoson city, Virginia",Virginia,VA,51,Poquos,735
+"Portsmouth city, Virginia",Virginia,VA,51,Portsmou,740
+"Radford city, Virginia",Virginia,VA,51,Radfo,750
+"Richmond city, Virginia",Virginia,VA,51,Richmo,760
+"Roanoke city, Virginia",Virginia,VA,51,Roano,770
+"Salem city, Virginia",Virginia,VA,51,Sal,775
+"Staunton city, Virginia",Virginia,VA,51,Staunt,790
+"Suffolk city, Virginia",Virginia,VA,51,Suffo,800
+"Virginia Beach city, Virginia",Virginia,VA,51,Virginia Bea,810
+"Waynesboro city, Virginia",Virginia,VA,51,Waynesbo,820
+"Williamsburg city, Virginia",Virginia,VA,51,Williamsbu,830
+"Winchester city, Virginia",Virginia,VA,51,Winchest,840
+"Adams County, Washington",Washington,WA,53,Adams,001
+"Asotin County, Washington",Washington,WA,53,Asotin,003
+"Benton County, Washington",Washington,WA,53,Benton,005
+"Chelan County, Washington",Washington,WA,53,Chelan,007
+"Clallam County, Washington",Washington,WA,53,Clallam,009
+"Clark County, Washington",Washington,WA,53,Clark,011
+"Columbia County, Washington",Washington,WA,53,Columbia,013
+"Cowlitz County, Washington",Washington,WA,53,Cowlitz,015
+"Douglas County, Washington",Washington,WA,53,Douglas,017
+"Ferry County, Washington",Washington,WA,53,Ferry,019
+"Franklin County, Washington",Washington,WA,53,Franklin,021
+"Garfield County, Washington",Washington,WA,53,Garfield,023
+"Grant County, Washington",Washington,WA,53,Grant,025
+"Grays Harbor County, Washington",Washington,WA,53,Grays Harbor,027
+"Island County, Washington",Washington,WA,53,Island,029
+"Jefferson County, Washington",Washington,WA,53,Jefferson,031
+"King County, Washington",Washington,WA,53,King,033
+"Kitsap County, Washington",Washington,WA,53,Kitsap,035
+"Kittitas County, Washington",Washington,WA,53,Kittitas,037
+"Klickitat County, Washington",Washington,WA,53,Klickitat,039
+"Lewis County, Washington",Washington,WA,53,Lewis,041
+"Lincoln County, Washington",Washington,WA,53,Lincoln,043
+"Mason County, Washington",Washington,WA,53,Mason,045
+"Okanogan County, Washington",Washington,WA,53,Okanogan,047
+"Pacific County, Washington",Washington,WA,53,Pacific,049
+"Pend Oreille County, Washington",Washington,WA,53,Pend Oreille,051
+"Pierce County, Washington",Washington,WA,53,Pierce,053
+"San Juan County, Washington",Washington,WA,53,San Juan,055
+"Skagit County, Washington",Washington,WA,53,Skagit,057
+"Skamania County, Washington",Washington,WA,53,Skamania,059
+"Snohomish County, Washington",Washington,WA,53,Snohomish,061
+"Spokane County, Washington",Washington,WA,53,Spokane,063
+"Stevens County, Washington",Washington,WA,53,Stevens,065
+"Thurston County, Washington",Washington,WA,53,Thurston,067
+"Wahkiakum County, Washington",Washington,WA,53,Wahkiakum,069
+"Walla Walla County, Washington",Washington,WA,53,Walla Walla,071
+"Whatcom County, Washington",Washington,WA,53,Whatcom,073
+"Whitman County, Washington",Washington,WA,53,Whitman,075
+"Yakima County, Washington",Washington,WA,53,Yakima,077
+"Barbour County, West Virginia",West Virginia,WV,54,Barbour,001
+"Berkeley County, West Virginia",West Virginia,WV,54,Berkeley,003
+"Boone County, West Virginia",West Virginia,WV,54,Boone,005
+"Braxton County, West Virginia",West Virginia,WV,54,Braxton,007
+"Brooke County, West Virginia",West Virginia,WV,54,Brooke,009
+"Cabell County, West Virginia",West Virginia,WV,54,Cabell,011
+"Calhoun County, West Virginia",West Virginia,WV,54,Calhoun,013
+"Clay County, West Virginia",West Virginia,WV,54,Clay,015
+"Doddridge County, West Virginia",West Virginia,WV,54,Doddridge,017
+"Fayette County, West Virginia",West Virginia,WV,54,Fayette,019
+"Gilmer County, West Virginia",West Virginia,WV,54,Gilmer,021
+"Grant County, West Virginia",West Virginia,WV,54,Grant,023
+"Greenbrier County, West Virginia",West Virginia,WV,54,Greenbrier,025
+"Hampshire County, West Virginia",West Virginia,WV,54,Hampshire,027
+"Hancock County, West Virginia",West Virginia,WV,54,Hancock,029
+"Hardy County, West Virginia",West Virginia,WV,54,Hardy,031
+"Harrison County, West Virginia",West Virginia,WV,54,Harrison,033
+"Jackson County, West Virginia",West Virginia,WV,54,Jackson,035
+"Jefferson County, West Virginia",West Virginia,WV,54,Jefferson,037
+"Kanawha County, West Virginia",West Virginia,WV,54,Kanawha,039
+"Lewis County, West Virginia",West Virginia,WV,54,Lewis,041
+"Lincoln County, West Virginia",West Virginia,WV,54,Lincoln,043
+"Logan County, West Virginia",West Virginia,WV,54,Logan,045
+"McDowell County, West Virginia",West Virginia,WV,54,McDowell,047
+"Marion County, West Virginia",West Virginia,WV,54,Marion,049
+"Marshall County, West Virginia",West Virginia,WV,54,Marshall,051
+"Mason County, West Virginia",West Virginia,WV,54,Mason,053
+"Mercer County, West Virginia",West Virginia,WV,54,Mercer,055
+"Mineral County, West Virginia",West Virginia,WV,54,Mineral,057
+"Mingo County, West Virginia",West Virginia,WV,54,Mingo,059
+"Monongalia County, West Virginia",West Virginia,WV,54,Monongalia,061
+"Monroe County, West Virginia",West Virginia,WV,54,Monroe,063
+"Morgan County, West Virginia",West Virginia,WV,54,Morgan,065
+"Nicholas County, West Virginia",West Virginia,WV,54,Nicholas,067
+"Ohio County, West Virginia",West Virginia,WV,54,Ohio,069
+"Pendleton County, West Virginia",West Virginia,WV,54,Pendleton,071
+"Pleasants County, West Virginia",West Virginia,WV,54,Pleasants,073
+"Pocahontas County, West Virginia",West Virginia,WV,54,Pocahontas,075
+"Preston County, West Virginia",West Virginia,WV,54,Preston,077
+"Putnam County, West Virginia",West Virginia,WV,54,Putnam,079
+"Raleigh County, West Virginia",West Virginia,WV,54,Raleigh,081
+"Randolph County, West Virginia",West Virginia,WV,54,Randolph,083
+"Ritchie County, West Virginia",West Virginia,WV,54,Ritchie,085
+"Roane County, West Virginia",West Virginia,WV,54,Roane,087
+"Summers County, West Virginia",West Virginia,WV,54,Summers,089
+"Taylor County, West Virginia",West Virginia,WV,54,Taylor,091
+"Tucker County, West Virginia",West Virginia,WV,54,Tucker,093
+"Tyler County, West Virginia",West Virginia,WV,54,Tyler,095
+"Upshur County, West Virginia",West Virginia,WV,54,Upshur,097
+"Wayne County, West Virginia",West Virginia,WV,54,Wayne,099
+"Webster County, West Virginia",West Virginia,WV,54,Webster,101
+"Wetzel County, West Virginia",West Virginia,WV,54,Wetzel,103
+"Wirt County, West Virginia",West Virginia,WV,54,Wirt,105
+"Wood County, West Virginia",West Virginia,WV,54,Wood,107
+"Wyoming County, West Virginia",West Virginia,WV,54,Wyoming,109
+"Adams County, Wisconsin",Wisconsin,WI,55,Adams,001
+"Ashland County, Wisconsin",Wisconsin,WI,55,Ashland,003
+"Barron County, Wisconsin",Wisconsin,WI,55,Barron,005
+"Bayfield County, Wisconsin",Wisconsin,WI,55,Bayfield,007
+"Brown County, Wisconsin",Wisconsin,WI,55,Brown,009
+"Buffalo County, Wisconsin",Wisconsin,WI,55,Buffalo,011
+"Burnett County, Wisconsin",Wisconsin,WI,55,Burnett,013
+"Calumet County, Wisconsin",Wisconsin,WI,55,Calumet,015
+"Chippewa County, Wisconsin",Wisconsin,WI,55,Chippewa,017
+"Clark County, Wisconsin",Wisconsin,WI,55,Clark,019
+"Columbia County, Wisconsin",Wisconsin,WI,55,Columbia,021
+"Crawford County, Wisconsin",Wisconsin,WI,55,Crawford,023
+"Dane County, Wisconsin",Wisconsin,WI,55,Dane,025
+"Dodge County, Wisconsin",Wisconsin,WI,55,Dodge,027
+"Door County, Wisconsin",Wisconsin,WI,55,Door,029
+"Douglas County, Wisconsin",Wisconsin,WI,55,Douglas,031
+"Dunn County, Wisconsin",Wisconsin,WI,55,Dunn,033
+"Eau Claire County, Wisconsin",Wisconsin,WI,55,Eau Claire,035
+"Florence County, Wisconsin",Wisconsin,WI,55,Florence,037
+"Fond du Lac County, Wisconsin",Wisconsin,WI,55,Fond du Lac,039
+"Forest County, Wisconsin",Wisconsin,WI,55,Forest,041
+"Grant County, Wisconsin",Wisconsin,WI,55,Grant,043
+"Green County, Wisconsin",Wisconsin,WI,55,Green,045
+"Green Lake County, Wisconsin",Wisconsin,WI,55,Green Lake,047
+"Iowa County, Wisconsin",Wisconsin,WI,55,Iowa,049
+"Iron County, Wisconsin",Wisconsin,WI,55,Iron,051
+"Jackson County, Wisconsin",Wisconsin,WI,55,Jackson,053
+"Jefferson County, Wisconsin",Wisconsin,WI,55,Jefferson,055
+"Juneau County, Wisconsin",Wisconsin,WI,55,Juneau,057
+"Kenosha County, Wisconsin",Wisconsin,WI,55,Kenosha,059
+"Kewaunee County, Wisconsin",Wisconsin,WI,55,Kewaunee,061
+"La Crosse County, Wisconsin",Wisconsin,WI,55,La Crosse,063
+"Lafayette County, Wisconsin",Wisconsin,WI,55,Lafayette,065
+"Langlade County, Wisconsin",Wisconsin,WI,55,Langlade,067
+"Lincoln County, Wisconsin",Wisconsin,WI,55,Lincoln,069
+"Manitowoc County, Wisconsin",Wisconsin,WI,55,Manitowoc,071
+"Marathon County, Wisconsin",Wisconsin,WI,55,Marathon,073
+"Marinette County, Wisconsin",Wisconsin,WI,55,Marinette,075
+"Marquette County, Wisconsin",Wisconsin,WI,55,Marquette,077
+"Menominee County, Wisconsin",Wisconsin,WI,55,Menominee,078
+"Milwaukee County, Wisconsin",Wisconsin,WI,55,Milwaukee,079
+"Monroe County, Wisconsin",Wisconsin,WI,55,Monroe,081
+"Oconto County, Wisconsin",Wisconsin,WI,55,Oconto,083
+"Oneida County, Wisconsin",Wisconsin,WI,55,Oneida,085
+"Outagamie County, Wisconsin",Wisconsin,WI,55,Outagamie,087
+"Ozaukee County, Wisconsin",Wisconsin,WI,55,Ozaukee,089
+"Pepin County, Wisconsin",Wisconsin,WI,55,Pepin,091
+"Pierce County, Wisconsin",Wisconsin,WI,55,Pierce,093
+"Polk County, Wisconsin",Wisconsin,WI,55,Polk,095
+"Portage County, Wisconsin",Wisconsin,WI,55,Portage,097
+"Price County, Wisconsin",Wisconsin,WI,55,Price,099
+"Racine County, Wisconsin",Wisconsin,WI,55,Racine,101
+"Richland County, Wisconsin",Wisconsin,WI,55,Richland,103
+"Rock County, Wisconsin",Wisconsin,WI,55,Rock,105
+"Rusk County, Wisconsin",Wisconsin,WI,55,Rusk,107
+"St. Croix County, Wisconsin",Wisconsin,WI,55,St. Croix,109
+"Sauk County, Wisconsin",Wisconsin,WI,55,Sauk,111
+"Sawyer County, Wisconsin",Wisconsin,WI,55,Sawyer,113
+"Shawano County, Wisconsin",Wisconsin,WI,55,Shawano,115
+"Sheboygan County, Wisconsin",Wisconsin,WI,55,Sheboygan,117
+"Taylor County, Wisconsin",Wisconsin,WI,55,Taylor,119
+"Trempealeau County, Wisconsin",Wisconsin,WI,55,Trempealeau,121
+"Vernon County, Wisconsin",Wisconsin,WI,55,Vernon,123
+"Vilas County, Wisconsin",Wisconsin,WI,55,Vilas,125
+"Walworth County, Wisconsin",Wisconsin,WI,55,Walworth,127
+"Washburn County, Wisconsin",Wisconsin,WI,55,Washburn,129
+"Washington County, Wisconsin",Wisconsin,WI,55,Washington,131
+"Waukesha County, Wisconsin",Wisconsin,WI,55,Waukesha,133
+"Waupaca County, Wisconsin",Wisconsin,WI,55,Waupaca,135
+"Waushara County, Wisconsin",Wisconsin,WI,55,Waushara,137
+"Winnebago County, Wisconsin",Wisconsin,WI,55,Winnebago,139
+"Wood County, Wisconsin",Wisconsin,WI,55,Wood,141
+"Albany County, Wyoming",Wyoming,WY,56,Albany,001
+"Big Horn County, Wyoming",Wyoming,WY,56,Big Horn,003
+"Campbell County, Wyoming",Wyoming,WY,56,Campbell,005
+"Carbon County, Wyoming",Wyoming,WY,56,Carbon,007
+"Converse County, Wyoming",Wyoming,WY,56,Converse,009
+"Crook County, Wyoming",Wyoming,WY,56,Crook,011
+"Fremont County, Wyoming",Wyoming,WY,56,Fremont,013
+"Goshen County, Wyoming",Wyoming,WY,56,Goshen,015
+"Hot Springs County, Wyoming",Wyoming,WY,56,Hot Springs,017
+"Johnson County, Wyoming",Wyoming,WY,56,Johnson,019
+"Laramie County, Wyoming",Wyoming,WY,56,Laramie,021
+"Lincoln County, Wyoming",Wyoming,WY,56,Lincoln,023
+"Natrona County, Wyoming",Wyoming,WY,56,Natrona,025
+"Niobrara County, Wyoming",Wyoming,WY,56,Niobrara,027
+"Park County, Wyoming",Wyoming,WY,56,Park,029
+"Platte County, Wyoming",Wyoming,WY,56,Platte,031
+"Sheridan County, Wyoming",Wyoming,WY,56,Sheridan,033
+"Sublette County, Wyoming",Wyoming,WY,56,Sublette,035
+"Sweetwater County, Wyoming",Wyoming,WY,56,Sweetwater,037
+"Teton County, Wyoming",Wyoming,WY,56,Teton,039
+"Uinta County, Wyoming",Wyoming,WY,56,Uinta,041
+"Washakie County, Wyoming",Wyoming,WY,56,Washakie,043
+"Weston County, Wyoming",Wyoming,WY,56,Weston,045
+"Adjuntas Municipio, Puerto Rico",Puerto Rico,PR,72,Adjuntas Mu,001
+"Aguada Municipio, Puerto Rico",Puerto Rico,PR,72,Aguada Mu,003
+"Aguadilla Municipio, Puerto Rico",Puerto Rico,PR,72,Aguadilla Mu,005
+"Aguas Buenas Municipio, Puerto Rico",Puerto Rico,PR,72,Aguas Buenas Mu,007
+"Aibonito Municipio, Puerto Rico",Puerto Rico,PR,72,Aibonito Mu,009
+"Añasco Municipio, Puerto Rico",Puerto Rico,PR,72,Añasco Mu,011
+"Arecibo Municipio, Puerto Rico",Puerto Rico,PR,72,Arecibo Mu,013
+"Arroyo Municipio, Puerto Rico",Puerto Rico,PR,72,Arroyo Mu,015
+"Barceloneta Municipio, Puerto Rico",Puerto Rico,PR,72,Barceloneta Mu,017
+"Barranquitas Municipio, Puerto Rico",Puerto Rico,PR,72,Barranquitas Mu,019
+"Bayamón Municipio, Puerto Rico",Puerto Rico,PR,72,Bayamón Mu,021
+"Cabo Rojo Municipio, Puerto Rico",Puerto Rico,PR,72,Cabo Rojo Mu,023
+"Caguas Municipio, Puerto Rico",Puerto Rico,PR,72,Caguas Mu,025
+"Camuy Municipio, Puerto Rico",Puerto Rico,PR,72,Camuy Mu,027
+"Canóvanas Municipio, Puerto Rico",Puerto Rico,PR,72,Canóvanas Mu,029
+"Carolina Municipio, Puerto Rico",Puerto Rico,PR,72,Carolina Mu,031
+"Cataño Municipio, Puerto Rico",Puerto Rico,PR,72,Cataño Mu,033
+"Cayey Municipio, Puerto Rico",Puerto Rico,PR,72,Cayey Mu,035
+"Ceiba Municipio, Puerto Rico",Puerto Rico,PR,72,Ceiba Mu,037
+"Ciales Municipio, Puerto Rico",Puerto Rico,PR,72,Ciales Mu,039
+"Cidra Municipio, Puerto Rico",Puerto Rico,PR,72,Cidra Mu,041
+"Coamo Municipio, Puerto Rico",Puerto Rico,PR,72,Coamo Mu,043
+"Comerío Municipio, Puerto Rico",Puerto Rico,PR,72,Comerío Mu,045
+"Corozal Municipio, Puerto Rico",Puerto Rico,PR,72,Corozal Mu,047
+"Culebra Municipio, Puerto Rico",Puerto Rico,PR,72,Culebra Mu,049
+"Dorado Municipio, Puerto Rico",Puerto Rico,PR,72,Dorado Mu,051
+"Fajardo Municipio, Puerto Rico",Puerto Rico,PR,72,Fajardo Mu,053
+"Florida Municipio, Puerto Rico",Puerto Rico,PR,72,Florida Mu,054
+"Guánica Municipio, Puerto Rico",Puerto Rico,PR,72,Guánica Mu,055
+"Guayama Municipio, Puerto Rico",Puerto Rico,PR,72,Guayama Mu,057
+"Guayanilla Municipio, Puerto Rico",Puerto Rico,PR,72,Guayanilla Mu,059
+"Guaynabo Municipio, Puerto Rico",Puerto Rico,PR,72,Guaynabo Mu,061
+"Gurabo Municipio, Puerto Rico",Puerto Rico,PR,72,Gurabo Mu,063
+"Hatillo Municipio, Puerto Rico",Puerto Rico,PR,72,Hatillo Mu,065
+"Hormigueros Municipio, Puerto Rico",Puerto Rico,PR,72,Hormigueros Mu,067
+"Humacao Municipio, Puerto Rico",Puerto Rico,PR,72,Humacao Mu,069
+"Isabela Municipio, Puerto Rico",Puerto Rico,PR,72,Isabela Mu,071
+"Jayuya Municipio, Puerto Rico",Puerto Rico,PR,72,Jayuya Mu,073
+"Juana Díaz Municipio, Puerto Rico",Puerto Rico,PR,72,Juana Díaz Mu,075
+"Juncos Municipio, Puerto Rico",Puerto Rico,PR,72,Juncos Mu,077
+"Lajas Municipio, Puerto Rico",Puerto Rico,PR,72,Lajas Mu,079
+"Lares Municipio, Puerto Rico",Puerto Rico,PR,72,Lares Mu,081
+"Las Marías Municipio, Puerto Rico",Puerto Rico,PR,72,Las Marías Mu,083
+"Las Piedras Municipio, Puerto Rico",Puerto Rico,PR,72,Las Piedras Mu,085
+"Loíza Municipio, Puerto Rico",Puerto Rico,PR,72,Loíza Mu,087
+"Luquillo Municipio, Puerto Rico",Puerto Rico,PR,72,Luquillo Mu,089
+"Manatí Municipio, Puerto Rico",Puerto Rico,PR,72,Manatí Mu,091
+"Maricao Municipio, Puerto Rico",Puerto Rico,PR,72,Maricao Mu,093
+"Maunabo Municipio, Puerto Rico",Puerto Rico,PR,72,Maunabo Mu,095
+"Mayagüez Municipio, Puerto Rico",Puerto Rico,PR,72,Mayagüez Mu,097
+"Moca Municipio, Puerto Rico",Puerto Rico,PR,72,Moca Mu,099
+"Morovis Municipio, Puerto Rico",Puerto Rico,PR,72,Morovis Mu,101
+"Naguabo Municipio, Puerto Rico",Puerto Rico,PR,72,Naguabo Mu,103
+"Naranjito Municipio, Puerto Rico",Puerto Rico,PR,72,Naranjito Mu,105
+"Orocovis Municipio, Puerto Rico",Puerto Rico,PR,72,Orocovis Mu,107
+"Patillas Municipio, Puerto Rico",Puerto Rico,PR,72,Patillas Mu,109
+"Peñuelas Municipio, Puerto Rico",Puerto Rico,PR,72,Peñuelas Mu,111
+"Ponce Municipio, Puerto Rico",Puerto Rico,PR,72,Ponce Mu,113
+"Quebradillas Municipio, Puerto Rico",Puerto Rico,PR,72,Quebradillas Mu,115
+"Rincón Municipio, Puerto Rico",Puerto Rico,PR,72,Rincón Mu,117
+"Río Grande Municipio, Puerto Rico",Puerto Rico,PR,72,Río Grande Mu,119
+"Sabana Grande Municipio, Puerto Rico",Puerto Rico,PR,72,Sabana Grande Mu,121
+"Salinas Municipio, Puerto Rico",Puerto Rico,PR,72,Salinas Mu,123
+"San Germán Municipio, Puerto Rico",Puerto Rico,PR,72,San Germán Mu,125
+"San Juan Municipio, Puerto Rico",Puerto Rico,PR,72,San Juan Mu,127
+"San Lorenzo Municipio, Puerto Rico",Puerto Rico,PR,72,San Lorenzo Mu,129
+"San Sebastián Municipio, Puerto Rico",Puerto Rico,PR,72,San Sebastián Mu,131
+"Santa Isabel Municipio, Puerto Rico",Puerto Rico,PR,72,Santa Isabel Mu,133
+"Toa Alta Municipio, Puerto Rico",Puerto Rico,PR,72,Toa Alta Mu,135
+"Toa Baja Municipio, Puerto Rico",Puerto Rico,PR,72,Toa Baja Mu,137
+"Trujillo Alto Municipio, Puerto Rico",Puerto Rico,PR,72,Trujillo Alto Mu,139
+"Utuado Municipio, Puerto Rico",Puerto Rico,PR,72,Utuado Mu,141
+"Vega Alta Municipio, Puerto Rico",Puerto Rico,PR,72,Vega Alta Mu,143
+"Vega Baja Municipio, Puerto Rico",Puerto Rico,PR,72,Vega Baja Mu,145
+"Vieques Municipio, Puerto Rico",Puerto Rico,PR,72,Vieques Mu,147
+"Villalba Municipio, Puerto Rico",Puerto Rico,PR,72,Villalba Mu,149
+"Yabucoa Municipio, Puerto Rico",Puerto Rico,PR,72,Yabucoa Mu,151
+"Yauco Municipio, Puerto Rico",Puerto Rico,PR,72,Yauco Mu,153
