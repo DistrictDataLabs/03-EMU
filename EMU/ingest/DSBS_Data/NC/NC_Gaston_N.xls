@@ -1,0 +1,1785 @@
+
+<div style="display:none;"><!-- Define inline, here, in case this is an HTML Import. -->
+<style>
+<!-- /* Hide from older browsers that don't understand CSS, even the display:none above. Don't show CSS on the page. */
+#ProfileTable		{speak-header:	always;} /* Section 508: Screen reader instruction: Read headers aloud before each td. */
+#ProfileTable th,
+#ProfileTable td	{font-size:		10pt;}
+-->
+</style>
+</div>
+<table border="10" id="ProfileTable" summary="profiles matching search criteria">
+<thead>
+	<tr>
+		<th id="Col01">#</th>
+		<th id="Col02">Name and Trade Name of Firm</th>
+		<th id="Col03">Contact</th>
+		<th id="Col04">Address and City, State Zip</th>
+		<th id="Col05">Capabilities Narrative</th>
+		<th id="Col06">Accepts Credit Card?</th>
+		<th id="Col07">CAGE Code</th>
+		<th id="Col08">Congr. Dist.</th>
+		<th id="Col09">County Code</th>
+		<th id="Col10">DUNS Number</th>
+		<th id="Col11">Fiscal Year Ends</th>
+		<th id="Col12">In SAM?</th>
+		<th id="Col13">Incorp. Country</th>
+		<th id="Col14">Main/Branch</th>
+		<th id="Col15">Metro Stat Area</th>
+		<th id="Col16">WWW Page URL</th>
+		<th id="Col17">Year Established</th>
+		<th id="Col18">8(a) Entrance Date</th>
+		<th id="Col19">8(a) Exit Date</th>
+		<th id="Col20">HUBZone Certification Date</th>
+		<th id="Col21">HUBZone Exit Date</th>
+		<th id="Col22">Legal Structure</th>
+		<th id="Col23">SDB Entrance Date</th>
+		<th id="Col24">SDB Exit Date</th>
+		<th id="Col25">Keywords</th>
+		<th id="Col26">Special Equipment/Materials</th>
+		<th id="Col27">NAICS, All (for which firm is small)</th>
+	</tr>
+</thead>
+<tbody>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row1" id="Row1" align="right"> 1
+		</td>
+		<td headers="Col02 Row1" align="left">Executive Coaching LLC</td>
+		<td headers="Col03 Row1" align="left">Cheryl Littlejohn</td>
+		<td headers="Col04 Row1" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=316%20Durham%20road%2C%20Stanley%2C%20NC%2C%2028164%2D2134">316 Durham road<br>Stanley, NC 28164-2134</a></td>
+		<td headers="Col05 Row1" align="left"></td>
+		<td headers="Col06 Row1" align="left">No</td>
+		<td headers="Col07 Row1" align="left">6YXM1</td>
+		<td headers="Col08 Row1" align="left">10</td>
+		<td headers="Col09 Row1" align="left">071</td>
+		<td headers="Col10 Row1" align="left">969472062</td>
+		<td headers="Col11 Row1" align="left">0601</td>
+		<td headers="Col12 Row1" align="left">Y</td>
+		<td headers="Col13 Row1" align="left">USA</td>
+		<td headers="Col14 Row1" align="left">Main</td>
+		<td headers="Col15 Row1" align="left">1520</td>
+		<td headers="Col16 Row1" align="left"></td>
+		<td headers="Col17 Row1" align="left">2011</td>
+		<td headers="Col18 Row1" align="left"></td>
+		<td headers="Col19 Row1" align="left"></td>
+		<td headers="Col20 Row1" align="left"></td>
+		<td headers="Col21 Row1" align="left"></td>
+		<td headers="Col22 Row1" align="left">LL</td>
+		<td headers="Col23 Row1" align="left"></td>
+		<td headers="Col24 Row1" align="left"></td>
+		<td headers="Col25 Row1" align="left"></td>
+		<td headers="Col26 Row1" align="left"></td>
+		<td headers="Col27 Row1" align="left">238990</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row2" id="Row2" align="right"> 2
+		</td>
+		<td headers="Col02 Row2" align="left">T A L K ASSOCIATES</td>
+		<td headers="Col03 Row2" align="left">Joseph B Freeman</td>
+		<td headers="Col04 Row2" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=968%20OLD%20HWY%2027%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D9477">968 OLD HWY 27<br>MOUNT HOLLY, NC 28120-9477</a></td>
+		<td headers="Col05 Row2" align="left">T.A.L.K. Associates provides expert assistance, seminars, experiential learning, and coaching to accelerate progress, unify direction and concentrate on high performance delivery. We focus on organizational unity, leadership consistency and diversity.</td>
+		<td headers="Col06 Row2" align="left">Yes</td>
+		<td headers="Col07 Row2" align="left">1XHS5</td>
+		<td headers="Col08 Row2" align="left">10</td>
+		<td headers="Col09 Row2" align="left">071</td>
+		<td headers="Col10 Row2" align="left">090024923</td>
+		<td headers="Col11 Row2" align="left">1201</td>
+		<td headers="Col12 Row2" align="left">Y</td>
+		<td headers="Col13 Row2" align="left">USA</td>
+		<td headers="Col14 Row2" align="left">Main</td>
+		<td headers="Col15 Row2" align="left">1520</td>
+		<td headers="Col16 Row2" align="left"></td>
+		<td headers="Col17 Row2" align="left">1987</td>
+		<td headers="Col18 Row2" align="left"></td>
+		<td headers="Col19 Row2" align="left"></td>
+		<td headers="Col20 Row2" align="left"></td>
+		<td headers="Col21 Row2" align="left"></td>
+		<td headers="Col22 Row2" align="left"></td>
+		<td headers="Col23 Row2" align="left"></td>
+		<td headers="Col24 Row2" align="left"></td>
+		<td headers="Col25 Row2" align="left">Quality, Employee, Diversity, Org.Development, Leadership, Professional Dev., Personal Dev., Customer, Customer Service, Management Trng, Employee Training, Communication, Multicultural, Empowerment, Staff Development, Education, K-12 Education, Positive Direction, Unity of Effort</td>
+		<td headers="Col26 Row2" align="left"></td>
+		<td headers="Col27 Row2" align="left">541611, 541612, 541618, 611430, 611710</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row3" id="Row3" align="right"> 3
+		</td>
+		<td headers="Col02 Row3" align="left">OUTREACH MANAGEMENT SERVICES LLC</td>
+		<td headers="Col03 Row3" align="left">Carla Balestra</td>
+		<td headers="Col04 Row3" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1723%20ARMSTRONG%20PARK%20DR%2C%20GASTONIA%2C%20NC%2C%2028054%2D4802">1723 ARMSTRONG PARK DR<br>GASTONIA, NC 28054-4802</a></td>
+		<td headers="Col05 Row3" align="left"></td>
+		<td headers="Col06 Row3" align="left">No</td>
+		<td headers="Col07 Row3" align="left">6EDY2</td>
+		<td headers="Col08 Row3" align="left">10</td>
+		<td headers="Col09 Row3" align="left">071</td>
+		<td headers="Col10 Row3" align="left">602199254</td>
+		<td headers="Col11 Row3" align="left">1201</td>
+		<td headers="Col12 Row3" align="left">Y</td>
+		<td headers="Col13 Row3" align="left">USA</td>
+		<td headers="Col14 Row3" align="left">Main</td>
+		<td headers="Col15 Row3" align="left">1520</td>
+		<td headers="Col16 Row3" align="left"></td>
+		<td headers="Col17 Row3" align="left">2005</td>
+		<td headers="Col18 Row3" align="left"></td>
+		<td headers="Col19 Row3" align="left"></td>
+		<td headers="Col20 Row3" align="left"></td>
+		<td headers="Col21 Row3" align="left"></td>
+		<td headers="Col22 Row3" align="left">LL</td>
+		<td headers="Col23 Row3" align="left"></td>
+		<td headers="Col24 Row3" align="left"></td>
+		<td headers="Col25 Row3" align="left"></td>
+		<td headers="Col26 Row3" align="left"></td>
+		<td headers="Col27 Row3" align="left">621420</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row4" id="Row4" align="right"> 4
+		</td>
+		<td headers="Col02 Row4" align="left">WATERS, WAYMON E.<br>JOYCE E. WATERS</td>
+		<td headers="Col03 Row4" align="left">WAYMON  E Waters</td>
+		<td headers="Col04 Row4" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=130%20SADLER%20RD%2C%20ALEXIS%2C%20NC%2C%2028006%2D9788">130 SADLER RD<br>ALEXIS, NC 28006-9788</a></td>
+		<td headers="Col05 Row4" align="left"></td>
+		<td headers="Col06 Row4" align="left">No</td>
+		<td headers="Col07 Row4" align="left">1TX10</td>
+		<td headers="Col08 Row4" align="left">10</td>
+		<td headers="Col09 Row4" align="left">071</td>
+		<td headers="Col10 Row4" align="left">018429147</td>
+		<td headers="Col11 Row4" align="left">1001</td>
+		<td headers="Col12 Row4" align="left">Y</td>
+		<td headers="Col13 Row4" align="left">USA</td>
+		<td headers="Col14 Row4" align="left">Main</td>
+		<td headers="Col15 Row4" align="left">1520</td>
+		<td headers="Col16 Row4" align="left"></td>
+		<td headers="Col17 Row4" align="left">2001</td>
+		<td headers="Col18 Row4" align="left"></td>
+		<td headers="Col19 Row4" align="left"></td>
+		<td headers="Col20 Row4" align="left"></td>
+		<td headers="Col21 Row4" align="left"></td>
+		<td headers="Col22 Row4" align="left"></td>
+		<td headers="Col23 Row4" align="left"></td>
+		<td headers="Col24 Row4" align="left"></td>
+		<td headers="Col25 Row4" align="left"></td>
+		<td headers="Col26 Row4" align="left"></td>
+		<td headers="Col27 Row4" align="left">721211</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row5" id="Row5" align="right"> 5
+		</td>
+		<td headers="Col02 Row5" align="left">REVELS CONTRACTING SERVICES, INC.</td>
+		<td headers="Col03 Row5" align="left">JAMES E Revels</td>
+		<td headers="Col04 Row5" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=5620%20GALLAGHER%20DR%2C%20GASTONIA%2C%20NC%2C%2028052%2D8702">5620 GALLAGHER DR<br>GASTONIA, NC 28052-8702</a></td>
+		<td headers="Col05 Row5" align="left"></td>
+		<td headers="Col06 Row5" align="left">No</td>
+		<td headers="Col07 Row5" align="left">365F1</td>
+		<td headers="Col08 Row5" align="left">10</td>
+		<td headers="Col09 Row5" align="left">071</td>
+		<td headers="Col10 Row5" align="left">786262154</td>
+		<td headers="Col11 Row5" align="left">0601</td>
+		<td headers="Col12 Row5" align="left">Y</td>
+		<td headers="Col13 Row5" align="left">USA</td>
+		<td headers="Col14 Row5" align="left">Main</td>
+		<td headers="Col15 Row5" align="left">1520</td>
+		<td headers="Col16 Row5" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Erevelscontracting%2Ecom">http://www.revelscontracting.com</a></td>
+		<td headers="Col17 Row5" align="left">1993</td>
+		<td headers="Col18 Row5" align="left"></td>
+		<td headers="Col19 Row5" align="left"></td>
+		<td headers="Col20 Row5" align="left"></td>
+		<td headers="Col21 Row5" align="left"></td>
+		<td headers="Col22 Row5" align="left"></td>
+		<td headers="Col23 Row5" align="left"></td>
+		<td headers="Col24 Row5" align="left"></td>
+		<td headers="Col25 Row5" align="left"></td>
+		<td headers="Col26 Row5" align="left"></td>
+		<td headers="Col27 Row5" align="left">238210, 238990</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row6" id="Row6" align="right"> 6
+		</td>
+		<td headers="Col02 Row6" align="left">PRICE, PAULA M</td>
+		<td headers="Col03 Row6" align="left">Paula M Price</td>
+		<td headers="Col04 Row6" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=140%20GREENDALE%20DRV%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D9219">140 GREENDALE DRV<br>MOUNT HOLLY, NC 28120-9219</a></td>
+		<td headers="Col05 Row6" align="left"></td>
+		<td headers="Col06 Row6" align="left">No</td>
+		<td headers="Col07 Row6" align="left">4A9H2</td>
+		<td headers="Col08 Row6" align="left">10</td>
+		<td headers="Col09 Row6" align="left">071</td>
+		<td headers="Col10 Row6" align="left">617607309</td>
+		<td headers="Col11 Row6" align="left">0101</td>
+		<td headers="Col12 Row6" align="left">Y</td>
+		<td headers="Col13 Row6" align="left">USA</td>
+		<td headers="Col14 Row6" align="left">Main</td>
+		<td headers="Col15 Row6" align="left">1520</td>
+		<td headers="Col16 Row6" align="left"></td>
+		<td headers="Col17 Row6" align="left">1999</td>
+		<td headers="Col18 Row6" align="left"></td>
+		<td headers="Col19 Row6" align="left"></td>
+		<td headers="Col20 Row6" align="left"></td>
+		<td headers="Col21 Row6" align="left"></td>
+		<td headers="Col22 Row6" align="left"></td>
+		<td headers="Col23 Row6" align="left"></td>
+		<td headers="Col24 Row6" align="left"></td>
+		<td headers="Col25 Row6" align="left"></td>
+		<td headers="Col26 Row6" align="left"></td>
+		<td headers="Col27 Row6" align="left">561720</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row7" id="Row7" align="right"> 7
+		</td>
+		<td headers="Col02 Row7" align="left">AMBIT MEDICAL, LLC</td>
+		<td headers="Col03 Row7" align="left">JESSE  SEARS</td>
+		<td headers="Col04 Row7" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=329%20WOODWARD%20RIDGE%20DR%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D0000">329 WOODWARD RIDGE DR<br>MOUNT HOLLY, NC 28120-0000</a></td>
+		<td headers="Col05 Row7" align="left"></td>
+		<td headers="Col06 Row7" align="left">No</td>
+		<td headers="Col07 Row7" align="left">6NEH6</td>
+		<td headers="Col08 Row7" align="left">10</td>
+		<td headers="Col09 Row7" align="left">071</td>
+		<td headers="Col10 Row7" align="left">032358705</td>
+		<td headers="Col11 Row7" align="left">1201</td>
+		<td headers="Col12 Row7" align="left">Y</td>
+		<td headers="Col13 Row7" align="left">USA</td>
+		<td headers="Col14 Row7" align="left">Main</td>
+		<td headers="Col15 Row7" align="left">1520</td>
+		<td headers="Col16 Row7" align="left"></td>
+		<td headers="Col17 Row7" align="left">2010</td>
+		<td headers="Col18 Row7" align="left"></td>
+		<td headers="Col19 Row7" align="left"></td>
+		<td headers="Col20 Row7" align="left"></td>
+		<td headers="Col21 Row7" align="left"></td>
+		<td headers="Col22 Row7" align="left">LL</td>
+		<td headers="Col23 Row7" align="left"></td>
+		<td headers="Col24 Row7" align="left"></td>
+		<td headers="Col25 Row7" align="left"></td>
+		<td headers="Col26 Row7" align="left"></td>
+		<td headers="Col27 Row7" align="left">622110, 622210, 623110, 623210, 623311, 623312, 623990, 624310</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row8" id="Row8" align="right"> 8
+		</td>
+		<td headers="Col02 Row8" align="left">GNB Ventures LLC<br>Sisco Fire & Safety</td>
+		<td headers="Col03 Row8" align="left">Naomi Reale</td>
+		<td headers="Col04 Row8" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=116%20Ledford%20Dr%2C%20Gastonia%2C%20NC%2C%2028056%2D8721">116 Ledford Dr<br>Gastonia, NC 28056-8721</a></td>
+		<td headers="Col05 Row8" align="left">installation, service and maintenance of fire extinguishers, fire alarms, sprinklers, emergency lights, and suppression systems.</td>
+		<td headers="Col06 Row8" align="left">Yes</td>
+		<td headers="Col07 Row8" align="left">70W74</td>
+		<td headers="Col08 Row8" align="left">10</td>
+		<td headers="Col09 Row8" align="left">071</td>
+		<td headers="Col10 Row8" align="left">155333250</td>
+		<td headers="Col11 Row8" align="left">1201</td>
+		<td headers="Col12 Row8" align="left">Y</td>
+		<td headers="Col13 Row8" align="left">USA</td>
+		<td headers="Col14 Row8" align="left">Main</td>
+		<td headers="Col15 Row8" align="left">1520</td>
+		<td headers="Col16 Row8" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Esiscofire%2Ecom">www.siscofire.com</a></td>
+		<td headers="Col17 Row8" align="left">2012</td>
+		<td headers="Col18 Row8" align="left"></td>
+		<td headers="Col19 Row8" align="left"></td>
+		<td headers="Col20 Row8" align="left"></td>
+		<td headers="Col21 Row8" align="left"></td>
+		<td headers="Col22 Row8" align="left">LL</td>
+		<td headers="Col23 Row8" align="left"></td>
+		<td headers="Col24 Row8" align="left"></td>
+		<td headers="Col25 Row8" align="left">fire extinguishers, fire pumps, fire hose, inspection, installation, sprinkler, fire alarm, emergency light, fire training, OSHA training, Safety training</td>
+		<td headers="Col26 Row8" align="left">fire extinguishers, suppression systems, fire alarms, sprinklers, fire hose, emergency lights</td>
+		<td headers="Col27 Row8" align="left">238220, 314999, 339113, 423450, 423850, 423990, 424210, 424690, 541690, 561990, 611699, 812332</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row9" id="Row9" align="right"> 9
+		</td>
+		<td headers="Col02 Row9" align="left">Global Sensors LLC</td>
+		<td headers="Col03 Row9" align="left">Chuck Gardner</td>
+		<td headers="Col04 Row9" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=63%20Mc%20Adenville%20Rd%2E%2C%20Belmont%2C%20NC%2C%2028012%2D2434">63 Mc Adenville Rd.<br>Belmont, NC 28012-2434</a></td>
+		<td headers="Col05 Row9" align="left"></td>
+		<td headers="Col06 Row9" align="left">Yes</td>
+		<td headers="Col07 Row9" align="left">76R38</td>
+		<td headers="Col08 Row9" align="left">10</td>
+		<td headers="Col09 Row9" align="left">071</td>
+		<td headers="Col10 Row9" align="left">163883528</td>
+		<td headers="Col11 Row9" align="left">1201</td>
+		<td headers="Col12 Row9" align="left">Y</td>
+		<td headers="Col13 Row9" align="left">USA</td>
+		<td headers="Col14 Row9" align="left">Main</td>
+		<td headers="Col15 Row9" align="left">1520</td>
+		<td headers="Col16 Row9" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Eglobal%2Dsensors%2Ecom">www.global-sensors.com</a></td>
+		<td headers="Col17 Row9" align="left">2004</td>
+		<td headers="Col18 Row9" align="left"></td>
+		<td headers="Col19 Row9" align="left"></td>
+		<td headers="Col20 Row9" align="left"></td>
+		<td headers="Col21 Row9" align="left"></td>
+		<td headers="Col22 Row9" align="left"></td>
+		<td headers="Col23 Row9" align="left"></td>
+		<td headers="Col24 Row9" align="left"></td>
+		<td headers="Col25 Row9" align="left"></td>
+		<td headers="Col26 Row9" align="left"></td>
+		<td headers="Col27 Row9" align="left">334512, 334513, 334515, 334519, 512210</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row10" id="Row10" align="right"> 10
+		</td>
+		<td headers="Col02 Row10" align="left">RAGS UNLIMITED INC</td>
+		<td headers="Col03 Row10" align="left">Jo Greene</td>
+		<td headers="Col04 Row10" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=3525%20FAIRVIEW%20DR%2C%20GASTONIA%2C%20NC%2C%2028052%2D7161">3525 FAIRVIEW DR<br>GASTONIA, NC 28052-7161</a></td>
+		<td headers="Col05 Row10" align="left"></td>
+		<td headers="Col06 Row10" align="left">Yes</td>
+		<td headers="Col07 Row10" align="left">4QXG1</td>
+		<td headers="Col08 Row10" align="left">10</td>
+		<td headers="Col09 Row10" align="left">071</td>
+		<td headers="Col10 Row10" align="left">803676253</td>
+		<td headers="Col11 Row10" align="left">1201</td>
+		<td headers="Col12 Row10" align="left">Y</td>
+		<td headers="Col13 Row10" align="left">USA</td>
+		<td headers="Col14 Row10" align="left">Main</td>
+		<td headers="Col15 Row10" align="left">1520</td>
+		<td headers="Col16 Row10" align="left"></td>
+		<td headers="Col17 Row10" align="left">1991</td>
+		<td headers="Col18 Row10" align="left"></td>
+		<td headers="Col19 Row10" align="left"></td>
+		<td headers="Col20 Row10" align="left"></td>
+		<td headers="Col21 Row10" align="left"></td>
+		<td headers="Col22 Row10" align="left"></td>
+		<td headers="Col23 Row10" align="left"></td>
+		<td headers="Col24 Row10" align="left"></td>
+		<td headers="Col25 Row10" align="left"></td>
+		<td headers="Col26 Row10" align="left"></td>
+		<td headers="Col27 Row10" align="left">313230, 423840, 423930, 424130</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row11" id="Row11" align="right"> 11
+		</td>
+		<td headers="Col02 Row11" align="left">Power Relaying Solutions, PLLC</td>
+		<td headers="Col03 Row11" align="left">Kenneth A Melchior</td>
+		<td headers="Col04 Row11" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=7937%20Sandestin%20Lane%2C%20Stanley%2C%20NC%2C%2028164%2D7736">7937 Sandestin Lane<br>Stanley, NC 28164-7736</a></td>
+		<td headers="Col05 Row11" align="left">Power Relaying Solutions, PLLC (PRS) is an engineering services company specializing in protection, control and automation solutions for the electric power industry. Our services include power system design, protective relay applications, automation and integration solutions, commissioning, and training.</td>
+		<td headers="Col06 Row11" align="left">No</td>
+		<td headers="Col07 Row11" align="left">7CN89</td>
+		<td headers="Col08 Row11" align="left">10</td>
+		<td headers="Col09 Row11" align="left">071</td>
+		<td headers="Col10 Row11" align="left">079742554</td>
+		<td headers="Col11 Row11" align="left">1201</td>
+		<td headers="Col12 Row11" align="left">Y</td>
+		<td headers="Col13 Row11" align="left">USA</td>
+		<td headers="Col14 Row11" align="left">Main</td>
+		<td headers="Col15 Row11" align="left">1520</td>
+		<td headers="Col16 Row11" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Erelayingsolutions%2Ecom">http://www.relayingsolutions.com</a></td>
+		<td headers="Col17 Row11" align="left">2015</td>
+		<td headers="Col18 Row11" align="left"></td>
+		<td headers="Col19 Row11" align="left"></td>
+		<td headers="Col20 Row11" align="left"></td>
+		<td headers="Col21 Row11" align="left"></td>
+		<td headers="Col22 Row11" align="left">LL</td>
+		<td headers="Col23 Row11" align="left"></td>
+		<td headers="Col24 Row11" align="left"></td>
+		<td headers="Col25 Row11" align="left">Engineering Services, Power System Protection, Automation, Controls, Integration, Testing, Commissioning, Training, Coordination Studies, Logic, Power System Studies</td>
+		<td headers="Col26 Row11" align="left"></td>
+		<td headers="Col27 Row11" align="left">541330, 541330, 541330, 541330</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row12" id="Row12" align="right"> 12
+		</td>
+		<td headers="Col02 Row12" align="left">TF RANKIN & ASSOCIATES, INC.</td>
+		<td headers="Col03 Row12" align="left">Thomas F Rankin</td>
+		<td headers="Col04 Row12" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=811%20Ashebrook%20Park%20Rd%2C%20Dallas%2C%20NC%2C%2028034%2D8756">811 Ashebrook Park Rd<br>Dallas, NC 28034-8756</a></td>
+		<td headers="Col05 Row12" align="left">Disaster Recovery Management Consulting to all levels of government entities.</td>
+		<td headers="Col06 Row12" align="left">No</td>
+		<td headers="Col07 Row12" align="left">6XXQ5</td>
+		<td headers="Col08 Row12" align="left">10</td>
+		<td headers="Col09 Row12" align="left">071</td>
+		<td headers="Col10 Row12" align="left">078869818</td>
+		<td headers="Col11 Row12" align="left">1201</td>
+		<td headers="Col12 Row12" align="left">Y</td>
+		<td headers="Col13 Row12" align="left">USA</td>
+		<td headers="Col14 Row12" align="left">Main</td>
+		<td headers="Col15 Row12" align="left">1520</td>
+		<td headers="Col16 Row12" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Edisasterresponse%2Ecom">www.disasterresponse.com</a></td>
+		<td headers="Col17 Row12" align="left">2013</td>
+		<td headers="Col18 Row12" align="left"></td>
+		<td headers="Col19 Row12" align="left"></td>
+		<td headers="Col20 Row12" align="left"></td>
+		<td headers="Col21 Row12" align="left"></td>
+		<td headers="Col22 Row12" align="left">SC</td>
+		<td headers="Col23 Row12" align="left"></td>
+		<td headers="Col24 Row12" align="left"></td>
+		<td headers="Col25 Row12" align="left">Disaster Recovery</td>
+		<td headers="Col26 Row12" align="left"></td>
+		<td headers="Col27 Row12" align="left">541611, 541620, 562119, 562910, 562910, 624230</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row13" id="Row13" align="right"> 13
+		</td>
+		<td headers="Col02 Row13" align="left">Hoffman Investors, LLC<br>Hoffman Homes Apartments</td>
+		<td headers="Col03 Row13" align="left">Paula Oravec</td>
+		<td headers="Col04 Row13" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=2263%20Cordoba%20St%2C%20Gastonia%2C%20NC%2C%2028054%2D7601">2263 Cordoba St<br>Gastonia, NC 28054-7601</a></td>
+		<td headers="Col05 Row13" align="left"></td>
+		<td headers="Col06 Row13" align="left">No</td>
+		<td headers="Col07 Row13" align="left">6NFZ2</td>
+		<td headers="Col08 Row13" align="left">10</td>
+		<td headers="Col09 Row13" align="left">071</td>
+		<td headers="Col10 Row13" align="left">829682590</td>
+		<td headers="Col11 Row13" align="left">1201</td>
+		<td headers="Col12 Row13" align="left">Y</td>
+		<td headers="Col13 Row13" align="left">USA</td>
+		<td headers="Col14 Row13" align="left">Main</td>
+		<td headers="Col15 Row13" align="left">1520</td>
+		<td headers="Col16 Row13" align="left"></td>
+		<td headers="Col17 Row13" align="left">2011</td>
+		<td headers="Col18 Row13" align="left"></td>
+		<td headers="Col19 Row13" align="left"></td>
+		<td headers="Col20 Row13" align="left"></td>
+		<td headers="Col21 Row13" align="left"></td>
+		<td headers="Col22 Row13" align="left"></td>
+		<td headers="Col23 Row13" align="left"></td>
+		<td headers="Col24 Row13" align="left"></td>
+		<td headers="Col25 Row13" align="left"></td>
+		<td headers="Col26 Row13" align="left"></td>
+		<td headers="Col27 Row13" align="left">531110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row14" id="Row14" align="right"> 14
+		</td>
+		<td headers="Col02 Row14" align="left">Sutton, Cheryl M S<br>Email Lemonade</td>
+		<td headers="Col03 Row14" align="left">Cheryl Sutton</td>
+		<td headers="Col04 Row14" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=320%20S%20St%2C%20Belmont%2C%20NC%2C%2028012%2D4128">320 S St<br>Belmont, NC 28012-4128</a></td>
+		<td headers="Col05 Row14" align="left">Email Lemonade provides training in writing and managing email. It can be delivered in a variety of formats - including online or in-person. International email communication is a particular specialty.</td>
+		<td headers="Col06 Row14" align="left">Yes</td>
+		<td headers="Col07 Row14" align="left">7ALF6</td>
+		<td headers="Col08 Row14" align="left">10</td>
+		<td headers="Col09 Row14" align="left">071</td>
+		<td headers="Col10 Row14" align="left">079671072</td>
+		<td headers="Col11 Row14" align="left">1201</td>
+		<td headers="Col12 Row14" align="left">Y</td>
+		<td headers="Col13 Row14" align="left">USA</td>
+		<td headers="Col14 Row14" align="left">Main</td>
+		<td headers="Col15 Row14" align="left">1520</td>
+		<td headers="Col16 Row14" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2EEmailLemonade%2Ecom">www.EmailLemonade.com</a></td>
+		<td headers="Col17 Row14" align="left">2014</td>
+		<td headers="Col18 Row14" align="left"></td>
+		<td headers="Col19 Row14" align="left"></td>
+		<td headers="Col20 Row14" align="left"></td>
+		<td headers="Col21 Row14" align="left"></td>
+		<td headers="Col22 Row14" align="left"></td>
+		<td headers="Col23 Row14" align="left"></td>
+		<td headers="Col24 Row14" align="left"></td>
+		<td headers="Col25 Row14" align="left">email etiquette, email writing, email management, writing training, deliver feedback, concise writing, get results, email training, how to write</td>
+		<td headers="Col26 Row14" align="left"></td>
+		<td headers="Col27 Row14" align="left">423490, 611430, 611699</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row15" id="Row15" align="right"> 15
+		</td>
+		<td headers="Col02 Row15" align="left">Progressive, LLC</td>
+		<td headers="Col03 Row15" align="left">Jay Hibberts</td>
+		<td headers="Col04 Row15" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=154%20Superior%20Stainless%20Rd%2C%20Gastonia%2C%20NC%2C%2028052%2D8744">154 Superior Stainless Rd<br>Gastonia, NC 28052-8744</a></td>
+		<td headers="Col05 Row15" align="left"></td>
+		<td headers="Col06 Row15" align="left">Yes</td>
+		<td headers="Col07 Row15" align="left">6ZCA2</td>
+		<td headers="Col08 Row15" align="left">10</td>
+		<td headers="Col09 Row15" align="left">071</td>
+		<td headers="Col10 Row15" align="left">078789645</td>
+		<td headers="Col11 Row15" align="left">1201</td>
+		<td headers="Col12 Row15" align="left">Y</td>
+		<td headers="Col13 Row15" align="left">USA</td>
+		<td headers="Col14 Row15" align="left">Main</td>
+		<td headers="Col15 Row15" align="left">1520</td>
+		<td headers="Col16 Row15" align="left"></td>
+		<td headers="Col17 Row15" align="left">2013</td>
+		<td headers="Col18 Row15" align="left"></td>
+		<td headers="Col19 Row15" align="left"></td>
+		<td headers="Col20 Row15" align="left"></td>
+		<td headers="Col21 Row15" align="left"></td>
+		<td headers="Col22 Row15" align="left">LL</td>
+		<td headers="Col23 Row15" align="left"></td>
+		<td headers="Col24 Row15" align="left"></td>
+		<td headers="Col25 Row15" align="left"></td>
+		<td headers="Col26 Row15" align="left"></td>
+		<td headers="Col27 Row15" align="left">332710</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row16" id="Row16" align="right"> 16
+		</td>
+		<td headers="Col02 Row16" align="left">THOMPSON, RICKY</td>
+		<td headers="Col03 Row16" align="left">RICKY  E Thompson</td>
+		<td headers="Col04 Row16" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=100%20HARRY%20ROBINSON%20ST%2C%20DALLAS%2C%20NC%2C%2028034%2D8516">100 HARRY ROBINSON ST<br>DALLAS, NC 28034-8516</a></td>
+		<td headers="Col05 Row16" align="left"></td>
+		<td headers="Col06 Row16" align="left">Yes</td>
+		<td headers="Col07 Row16" align="left">390W2</td>
+		<td headers="Col08 Row16" align="left">10</td>
+		<td headers="Col09 Row16" align="left">071</td>
+		<td headers="Col10 Row16" align="left">199237707</td>
+		<td headers="Col11 Row16" align="left">1201</td>
+		<td headers="Col12 Row16" align="left">Y</td>
+		<td headers="Col13 Row16" align="left">USA</td>
+		<td headers="Col14 Row16" align="left">Main</td>
+		<td headers="Col15 Row16" align="left">1520</td>
+		<td headers="Col16 Row16" align="left"></td>
+		<td headers="Col17 Row16" align="left">2005</td>
+		<td headers="Col18 Row16" align="left"></td>
+		<td headers="Col19 Row16" align="left"></td>
+		<td headers="Col20 Row16" align="left"></td>
+		<td headers="Col21 Row16" align="left"></td>
+		<td headers="Col22 Row16" align="left"></td>
+		<td headers="Col23 Row16" align="left"></td>
+		<td headers="Col24 Row16" align="left"></td>
+		<td headers="Col25 Row16" align="left"></td>
+		<td headers="Col26 Row16" align="left"></td>
+		<td headers="Col27 Row16" align="left">511210, 611420, 811212</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row17" id="Row17" align="right"> 17
+		</td>
+		<td headers="Col02 Row17" align="left">SOUTHLAND SOLUTIONS, INC.</td>
+		<td headers="Col03 Row17" align="left">CHARLES A Rose Sr</td>
+		<td headers="Col04 Row17" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1009%20PIERCE%20AVE%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D9529">1009 PIERCE AVE<br>MOUNT HOLLY, NC 28120-9529</a></td>
+		<td headers="Col05 Row17" align="left"></td>
+		<td headers="Col06 Row17" align="left">Yes</td>
+		<td headers="Col07 Row17" align="left">5NLN9</td>
+		<td headers="Col08 Row17" align="left">10</td>
+		<td headers="Col09 Row17" align="left">071</td>
+		<td headers="Col10 Row17" align="left">174567631</td>
+		<td headers="Col11 Row17" align="left">1201</td>
+		<td headers="Col12 Row17" align="left">Y</td>
+		<td headers="Col13 Row17" align="left">USA</td>
+		<td headers="Col14 Row17" align="left">Main</td>
+		<td headers="Col15 Row17" align="left">1520</td>
+		<td headers="Col16 Row17" align="left"></td>
+		<td headers="Col17 Row17" align="left">2005</td>
+		<td headers="Col18 Row17" align="left"></td>
+		<td headers="Col19 Row17" align="left"></td>
+		<td headers="Col20 Row17" align="left"></td>
+		<td headers="Col21 Row17" align="left"></td>
+		<td headers="Col22 Row17" align="left">SC</td>
+		<td headers="Col23 Row17" align="left"></td>
+		<td headers="Col24 Row17" align="left"></td>
+		<td headers="Col25 Row17" align="left"></td>
+		<td headers="Col26 Row17" align="left"></td>
+		<td headers="Col27 Row17" align="left">423840, 424690</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row18" id="Row18" align="right"> 18
+		</td>
+		<td headers="Col02 Row18" align="left">All Hazard Safety Associates, LLC<br>All Hazard Safety Associates</td>
+		<td headers="Col03 Row18" align="left">WENDY FISHER</td>
+		<td headers="Col04 Row18" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=505%20Woodlawn%20St%20Ste%20C%2C%20Belmont%2C%20NC%2C%2028012%2D2298">505 Woodlawn St Ste C<br>Belmont, NC 28012-2298</a></td>
+		<td headers="Col05 Row18" align="left"></td>
+		<td headers="Col06 Row18" align="left">Yes</td>
+		<td headers="Col07 Row18" align="left">505A8</td>
+		<td headers="Col08 Row18" align="left">10</td>
+		<td headers="Col09 Row18" align="left">071</td>
+		<td headers="Col10 Row18" align="left">809582765</td>
+		<td headers="Col11 Row18" align="left">1201</td>
+		<td headers="Col12 Row18" align="left">Y</td>
+		<td headers="Col13 Row18" align="left">USA</td>
+		<td headers="Col14 Row18" align="left">Main</td>
+		<td headers="Col15 Row18" align="left">1520</td>
+		<td headers="Col16 Row18" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Eallhazardsafety%2Ecom">http://www.allhazardsafety.com</a></td>
+		<td headers="Col17 Row18" align="left">2005</td>
+		<td headers="Col18 Row18" align="left"></td>
+		<td headers="Col19 Row18" align="left"></td>
+		<td headers="Col20 Row18" align="left"></td>
+		<td headers="Col21 Row18" align="left"></td>
+		<td headers="Col22 Row18" align="left">LL</td>
+		<td headers="Col23 Row18" align="left"></td>
+		<td headers="Col24 Row18" align="left"></td>
+		<td headers="Col25 Row18" align="left"></td>
+		<td headers="Col26 Row18" align="left"></td>
+		<td headers="Col27 Row18" align="left">314910, 314999, 316210, 332911, 332919, 332999, 333314, 333911, 333999, 334290, 334513, 334516, 334519, 339113, 339999, 423440, 423450, 423490, 423830, 423840, 423850, 423990, 424130, 424310, 424320, 424340, 424610, 424690, 424920, 424990, 425120, 444130, 444210, 448110, 448120, 448190, 448210, 452990, 454113, 454390, 541350, 611430, 611519, 611519, 611699, 811310</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row19" id="Row19" align="right"> 19
+		</td>
+		<td headers="Col02 Row19" align="left">BAXTER RUN</td>
+		<td headers="Col03 Row19" align="left">JOSEPH  PEARSON</td>
+		<td headers="Col04 Row19" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1422%20BURTONWOOD%20DR%2C%20%23200%2C%20GASTONIA%2C%20NC%2C%2028054%2D4049">1422 BURTONWOOD DR, #200<br>GASTONIA, NC 28054-4049</a></td>
+		<td headers="Col05 Row19" align="left"></td>
+		<td headers="Col06 Row19" align="left">No</td>
+		<td headers="Col07 Row19" align="left">48T02</td>
+		<td headers="Col08 Row19" align="left">10</td>
+		<td headers="Col09 Row19" align="left">071</td>
+		<td headers="Col10 Row19" align="left">614871551</td>
+		<td headers="Col11 Row19" align="left">1201</td>
+		<td headers="Col12 Row19" align="left">Y</td>
+		<td headers="Col13 Row19" align="left">USA</td>
+		<td headers="Col14 Row19" align="left">Main</td>
+		<td headers="Col15 Row19" align="left">1520</td>
+		<td headers="Col16 Row19" align="left"></td>
+		<td headers="Col17 Row19" align="left">2002</td>
+		<td headers="Col18 Row19" align="left"></td>
+		<td headers="Col19 Row19" align="left"></td>
+		<td headers="Col20 Row19" align="left"></td>
+		<td headers="Col21 Row19" align="left"></td>
+		<td headers="Col22 Row19" align="left"></td>
+		<td headers="Col23 Row19" align="left"></td>
+		<td headers="Col24 Row19" align="left"></td>
+		<td headers="Col25 Row19" align="left"></td>
+		<td headers="Col26 Row19" align="left"></td>
+		<td headers="Col27 Row19" align="left">531312</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row20" id="Row20" align="right"> 20
+		</td>
+		<td headers="Col02 Row20" align="left">Tooley Custom Rifles, LLC</td>
+		<td headers="Col03 Row20" align="left">David S Tooley</td>
+		<td headers="Col04 Row20" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=3317%20Candlewick%20Way%2C%20Gastonia%2C%20NC%2C%2028054%2D1607">3317 Candlewick Way<br>Gastonia, NC 28054-1607</a></td>
+		<td headers="Col05 Row20" align="left"></td>
+		<td headers="Col06 Row20" align="left">No</td>
+		<td headers="Col07 Row20" align="left">6Z9D4</td>
+		<td headers="Col08 Row20" align="left">10</td>
+		<td headers="Col09 Row20" align="left">071</td>
+		<td headers="Col10 Row20" align="left">009882978</td>
+		<td headers="Col11 Row20" align="left">1201</td>
+		<td headers="Col12 Row20" align="left">Y</td>
+		<td headers="Col13 Row20" align="left">USA</td>
+		<td headers="Col14 Row20" align="left">Main</td>
+		<td headers="Col15 Row20" align="left">1520</td>
+		<td headers="Col16 Row20" align="left"></td>
+		<td headers="Col17 Row20" align="left">2009</td>
+		<td headers="Col18 Row20" align="left"></td>
+		<td headers="Col19 Row20" align="left"></td>
+		<td headers="Col20 Row20" align="left"></td>
+		<td headers="Col21 Row20" align="left"></td>
+		<td headers="Col22 Row20" align="left">LL</td>
+		<td headers="Col23 Row20" align="left"></td>
+		<td headers="Col24 Row20" align="left"></td>
+		<td headers="Col25 Row20" align="left"></td>
+		<td headers="Col26 Row20" align="left"></td>
+		<td headers="Col27 Row20" align="left">332994</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row21" id="Row21" align="right"> 21
+		</td>
+		<td headers="Col02 Row21" align="left">HOSE BUDDY SYSTEMS, LLC<br>B&G STEEL MFG.</td>
+		<td headers="Col03 Row21" align="left">CHARLIE  R.  GHOLSON</td>
+		<td headers="Col04 Row21" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1304%20Old%20Spencer%20Mountain%20Rd%2C%20DALLAS%2C%20NC%2C%2028034%2D9404">1304 Old Spencer Mountain Rd<br>DALLAS, NC 28034-9404</a></td>
+		<td headers="Col05 Row21" align="left"></td>
+		<td headers="Col06 Row21" align="left">Yes</td>
+		<td headers="Col07 Row21" align="left">4WZT6</td>
+		<td headers="Col08 Row21" align="left">10</td>
+		<td headers="Col09 Row21" align="left">071</td>
+		<td headers="Col10 Row21" align="left">194839549</td>
+		<td headers="Col11 Row21" align="left">0101</td>
+		<td headers="Col12 Row21" align="left">Y</td>
+		<td headers="Col13 Row21" align="left">USA</td>
+		<td headers="Col14 Row21" align="left">Main</td>
+		<td headers="Col15 Row21" align="left">1520</td>
+		<td headers="Col16 Row21" align="left"></td>
+		<td headers="Col17 Row21" align="left">2001</td>
+		<td headers="Col18 Row21" align="left"></td>
+		<td headers="Col19 Row21" align="left"></td>
+		<td headers="Col20 Row21" align="left"></td>
+		<td headers="Col21 Row21" align="left"></td>
+		<td headers="Col22 Row21" align="left">LL</td>
+		<td headers="Col23 Row21" align="left"></td>
+		<td headers="Col24 Row21" align="left"></td>
+		<td headers="Col25 Row21" align="left"></td>
+		<td headers="Col26 Row21" align="left"></td>
+		<td headers="Col27 Row21" align="left">332999</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row22" id="Row22" align="right"> 22
+		</td>
+		<td headers="Col02 Row22" align="left">SIB General Contractors, LLC</td>
+		<td headers="Col03 Row22" align="left">MICHAEL  Bookhardt</td>
+		<td headers="Col04 Row22" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=2989%20%2D%20A%20%20Seth%20Court%2C%20Gastonia%2C%20NC%2C%2028054%2D7005">2989 - A  Seth Court<br>Gastonia, NC 28054-7005</a></td>
+		<td headers="Col05 Row22" align="left">8(a), Construction Services, Facility Support Services, Renovation, Services and Design Build</td>
+		<td headers="Col06 Row22" align="left">Yes</td>
+		<td headers="Col07 Row22" align="left">4D4P4</td>
+		<td headers="Col08 Row22" align="left">10</td>
+		<td headers="Col09 Row22" align="left">071</td>
+		<td headers="Col10 Row22" align="left">607046492</td>
+		<td headers="Col11 Row22" align="left">1201</td>
+		<td headers="Col12 Row22" align="left">Y</td>
+		<td headers="Col13 Row22" align="left">USA</td>
+		<td headers="Col14 Row22" align="left">Main</td>
+		<td headers="Col15 Row22" align="left">1520</td>
+		<td headers="Col16 Row22" align="left"></td>
+		<td headers="Col17 Row22" align="left">2006</td>
+		<td headers="Col18 Row22" align="left">03/21/2011</td>
+		<td headers="Col19 Row22" align="left">03/21/2020</td>
+		<td headers="Col20 Row22" align="left">07/26/2010</td>
+		<td headers="Col21 Row22" align="left">04/25/2014</td>
+		<td headers="Col22 Row22" align="left">LL</td>
+		<td headers="Col23 Row22" align="left">03/21/2011</td>
+		<td headers="Col24 Row22" align="left">03/21/2020</td>
+		<td headers="Col25 Row22" align="left">8(a), Alteration, Abatment, Barracks, Business Support, Construction, Consulting Services, Demolition, Facilities, Interior Upfits, Maintenance, Personnel, Professional, Rehabilitation, Renovation, Remodel, Repair, Roofing, Rigging, Staffing, Support Services, Temporary Services, Design Build, Engineering Services, Water & Sewer Lines</td>
+		<td headers="Col26 Row22" align="left"></td>
+		<td headers="Col27 Row22" align="left">115310, 115310, 115310, 221121, 236115, 236118, 236210, 236220, 237110, 237130, 237990, 237990, 238160, 238190, 238210, 238320, 238330, 238990, 541330, 541330, 541330, 541330, 541611, 541618, 561110, 561210, 561612, 561720, 561730, 561790, 561990</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row23" id="Row23" align="right"> 23
+		</td>
+		<td headers="Col02 Row23" align="left">Clark-Copeland, Lena<br>Aspire Ahead</td>
+		<td headers="Col03 Row23" align="left">Lena Clark-Copeland</td>
+		<td headers="Col04 Row23" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=801%20S%20Main%20St%20%23%20118%2C%20Mount%20Holly%2C%20NC%2C%2028120%2D2053">801 S Main St # 118<br>Mount Holly, NC 28120-2053</a></td>
+		<td headers="Col05 Row23" align="left">Aspire Ahead is a Federal contracting business providing career and personal development training for Female Veterans transitioning from military life back into the civilian world through business training, consulting and networking events.</td>
+		<td headers="Col06 Row23" align="left">No</td>
+		<td headers="Col07 Row23" align="left">706F8</td>
+		<td headers="Col08 Row23" align="left">10</td>
+		<td headers="Col09 Row23" align="left">071</td>
+		<td headers="Col10 Row23" align="left">079166154</td>
+		<td headers="Col11 Row23" align="left">1201</td>
+		<td headers="Col12 Row23" align="left">Y</td>
+		<td headers="Col13 Row23" align="left">USA</td>
+		<td headers="Col14 Row23" align="left">Main</td>
+		<td headers="Col15 Row23" align="left">1520</td>
+		<td headers="Col16 Row23" align="left"></td>
+		<td headers="Col17 Row23" align="left">2013</td>
+		<td headers="Col18 Row23" align="left"></td>
+		<td headers="Col19 Row23" align="left"></td>
+		<td headers="Col20 Row23" align="left"></td>
+		<td headers="Col21 Row23" align="left"></td>
+		<td headers="Col22 Row23" align="left"></td>
+		<td headers="Col23 Row23" align="left"></td>
+		<td headers="Col24 Row23" align="left"></td>
+		<td headers="Col25 Row23" align="left">Transition services</td>
+		<td headers="Col26 Row23" align="left"></td>
+		<td headers="Col27 Row23" align="left">541611, 541612, 561110, 611430</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row24" id="Row24" align="right"> 24
+		</td>
+		<td headers="Col02 Row24" align="left">COFFEY, SHARON<br>CARTS ZONE</td>
+		<td headers="Col03 Row24" align="left">SHARON  COFFEY</td>
+		<td headers="Col04 Row24" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=909%20S%20SOUTH%20ST%2C%20GASTONIA%2C%20NC%2C%2028052%2D7581">909 S SOUTH ST<br>GASTONIA, NC 28052-7581</a></td>
+		<td headers="Col05 Row24" align="left"></td>
+		<td headers="Col06 Row24" align="left">Yes</td>
+		<td headers="Col07 Row24" align="left">4UD17</td>
+		<td headers="Col08 Row24" align="left">10</td>
+		<td headers="Col09 Row24" align="left">071</td>
+		<td headers="Col10 Row24" align="left">805699431</td>
+		<td headers="Col11 Row24" align="left">1201</td>
+		<td headers="Col12 Row24" align="left">Y</td>
+		<td headers="Col13 Row24" align="left">USA</td>
+		<td headers="Col14 Row24" align="left">Main</td>
+		<td headers="Col15 Row24" align="left">1520</td>
+		<td headers="Col16 Row24" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Ecartszone%2Ecom">http://www.cartszone.com</a></td>
+		<td headers="Col17 Row24" align="left">2004</td>
+		<td headers="Col18 Row24" align="left"></td>
+		<td headers="Col19 Row24" align="left"></td>
+		<td headers="Col20 Row24" align="left"></td>
+		<td headers="Col21 Row24" align="left"></td>
+		<td headers="Col22 Row24" align="left"></td>
+		<td headers="Col23 Row24" align="left"></td>
+		<td headers="Col24 Row24" align="left"></td>
+		<td headers="Col25 Row24" align="left"></td>
+		<td headers="Col26 Row24" align="left"></td>
+		<td headers="Col27 Row24" align="left">454111</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row25" id="Row25" align="right"> 25
+		</td>
+		<td headers="Col02 Row25" align="left">M & M ELECTRIC SERVICE, INC.<br>M & M ELECTRIC SERVICE OF NORTH CAROLINA</td>
+		<td headers="Col03 Row25" align="left">Scott Foy</td>
+		<td headers="Col04 Row25" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1680%20GARFIELD%20DR%2C%20GASTONIA%2C%20NC%2C%2028052%2D8403">1680 GARFIELD DR<br>GASTONIA, NC 28052-8403</a></td>
+		<td headers="Col05 Row25" align="left"></td>
+		<td headers="Col06 Row25" align="left">Yes</td>
+		<td headers="Col07 Row25" align="left">1VZW1</td>
+		<td headers="Col08 Row25" align="left">10</td>
+		<td headers="Col09 Row25" align="left">071</td>
+		<td headers="Col10 Row25" align="left">071069686</td>
+		<td headers="Col11 Row25" align="left">0601</td>
+		<td headers="Col12 Row25" align="left">Y</td>
+		<td headers="Col13 Row25" align="left">USA</td>
+		<td headers="Col14 Row25" align="left">Main</td>
+		<td headers="Col15 Row25" align="left">1520</td>
+		<td headers="Col16 Row25" align="left"></td>
+		<td headers="Col17 Row25" align="left">1973</td>
+		<td headers="Col18 Row25" align="left"></td>
+		<td headers="Col19 Row25" align="left"></td>
+		<td headers="Col20 Row25" align="left"></td>
+		<td headers="Col21 Row25" align="left"></td>
+		<td headers="Col22 Row25" align="left"></td>
+		<td headers="Col23 Row25" align="left"></td>
+		<td headers="Col24 Row25" align="left"></td>
+		<td headers="Col25 Row25" align="left">electric contracting, engineering, installations, service, control panels, control panel design, field wiring, networking, outdoor lighting, indoor lighting, lighting, motor controls</td>
+		<td headers="Col26 Row25" align="left"></td>
+		<td headers="Col27 Row25" align="left">238210, 335313</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row26" id="Row26" align="right"> 26
+		</td>
+		<td headers="Col02 Row26" align="left">JHM NEW HOPE HOTEL, L.L.C.<br>COURTYARD GASTONIA</td>
+		<td headers="Col03 Row26" align="left">Rita Patel</td>
+		<td headers="Col04 Row26" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1856%20Remount%20Rd%2C%20Gastonia%2C%20NC%2C%2028054%2D7414">1856 Remount Rd<br>Gastonia, NC 28054-7414</a></td>
+		<td headers="Col05 Row26" align="left"></td>
+		<td headers="Col06 Row26" align="left">Yes</td>
+		<td headers="Col07 Row26" align="left">4WCE8</td>
+		<td headers="Col08 Row26" align="left">10</td>
+		<td headers="Col09 Row26" align="left">071</td>
+		<td headers="Col10 Row26" align="left">130400596</td>
+		<td headers="Col11 Row26" align="left">1201</td>
+		<td headers="Col12 Row26" align="left">Y</td>
+		<td headers="Col13 Row26" align="left">USA</td>
+		<td headers="Col14 Row26" align="left">Main</td>
+		<td headers="Col15 Row26" align="left">1520</td>
+		<td headers="Col16 Row26" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Emarriott%2Ecom%2Fcltcg">http://www.marriott.com/cltcg</a></td>
+		<td headers="Col17 Row26" align="left">2001</td>
+		<td headers="Col18 Row26" align="left"></td>
+		<td headers="Col19 Row26" align="left"></td>
+		<td headers="Col20 Row26" align="left"></td>
+		<td headers="Col21 Row26" align="left"></td>
+		<td headers="Col22 Row26" align="left"></td>
+		<td headers="Col23 Row26" align="left"></td>
+		<td headers="Col24 Row26" align="left"></td>
+		<td headers="Col25 Row26" align="left"></td>
+		<td headers="Col26 Row26" align="left"></td>
+		<td headers="Col27 Row26" align="left">721110, 721199</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row27" id="Row27" align="right"> 27
+		</td>
+		<td headers="Col02 Row27" align="left">BROOKS OF DALLAS, INC<br>PRODUCTIVE TOOL</td>
+		<td headers="Col03 Row27" align="left">Christopher V Brooks</td>
+		<td headers="Col04 Row27" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=203%20E%20LAY%20ST%2C%20DALLAS%2C%20NC%2C%2028034%2D1773">203 E LAY ST<br>DALLAS, NC 28034-1773</a></td>
+		<td headers="Col05 Row27" align="left"></td>
+		<td headers="Col06 Row27" align="left">Yes</td>
+		<td headers="Col07 Row27" align="left">1V8X1</td>
+		<td headers="Col08 Row27" align="left">10</td>
+		<td headers="Col09 Row27" align="left">071</td>
+		<td headers="Col10 Row27" align="left">003149309</td>
+		<td headers="Col11 Row27" align="left">0901</td>
+		<td headers="Col12 Row27" align="left">Y</td>
+		<td headers="Col13 Row27" align="left">USA</td>
+		<td headers="Col14 Row27" align="left">Main</td>
+		<td headers="Col15 Row27" align="left">1520</td>
+		<td headers="Col16 Row27" align="left"></td>
+		<td headers="Col17 Row27" align="left">1989</td>
+		<td headers="Col18 Row27" align="left"></td>
+		<td headers="Col19 Row27" align="left"></td>
+		<td headers="Col20 Row27" align="left"></td>
+		<td headers="Col21 Row27" align="left"></td>
+		<td headers="Col22 Row27" align="left">SC</td>
+		<td headers="Col23 Row27" align="left"></td>
+		<td headers="Col24 Row27" align="left"></td>
+		<td headers="Col25 Row27" align="left">Machine Shop</td>
+		<td headers="Col26 Row27" align="left"></td>
+		<td headers="Col27 Row27" align="left">332710, 332721, 332722, 333515, 333999</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row28" id="Row28" align="right"> 28
+		</td>
+		<td headers="Col02 Row28" align="left">Hall Brothers Dental Lab Inc</td>
+		<td headers="Col03 Row28" align="left">Ricky Hall</td>
+		<td headers="Col04 Row28" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=727%20E%203RD%20AVE%2C%20GASTONIA%2C%20NC%2C%2028054%2D4447">727 E 3RD AVE<br>GASTONIA, NC 28054-4447</a></td>
+		<td headers="Col05 Row28" align="left"></td>
+		<td headers="Col06 Row28" align="left">Yes</td>
+		<td headers="Col07 Row28" align="left">7B3F2</td>
+		<td headers="Col08 Row28" align="left">10</td>
+		<td headers="Col09 Row28" align="left">071</td>
+		<td headers="Col10 Row28" align="left">017631102</td>
+		<td headers="Col11 Row28" align="left">1201</td>
+		<td headers="Col12 Row28" align="left">Y</td>
+		<td headers="Col13 Row28" align="left">USA</td>
+		<td headers="Col14 Row28" align="left">Main</td>
+		<td headers="Col15 Row28" align="left">1520</td>
+		<td headers="Col16 Row28" align="left"></td>
+		<td headers="Col17 Row28" align="left">1987</td>
+		<td headers="Col18 Row28" align="left"></td>
+		<td headers="Col19 Row28" align="left"></td>
+		<td headers="Col20 Row28" align="left"></td>
+		<td headers="Col21 Row28" align="left"></td>
+		<td headers="Col22 Row28" align="left"></td>
+		<td headers="Col23 Row28" align="left"></td>
+		<td headers="Col24 Row28" align="left"></td>
+		<td headers="Col25 Row28" align="left"></td>
+		<td headers="Col26 Row28" align="left"></td>
+		<td headers="Col27 Row28" align="left">339116</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row29" id="Row29" align="right"> 29
+		</td>
+		<td headers="Col02 Row29" align="left">BENJAMIN BROKERS, INC.</td>
+		<td headers="Col03 Row29" align="left">Bettie O Culp</td>
+		<td headers="Col04 Row29" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=799%20PINKNEY%20PL%2C%20STANLEY%2C%20NC%2C%2028164%2D6827">799 PINKNEY PL<br>STANLEY, NC 28164-6827</a></td>
+		<td headers="Col05 Row29" align="left"></td>
+		<td headers="Col06 Row29" align="left">No</td>
+		<td headers="Col07 Row29" align="left">717B5</td>
+		<td headers="Col08 Row29" align="left">10</td>
+		<td headers="Col09 Row29" align="left">071</td>
+		<td headers="Col10 Row29" align="left">048285408</td>
+		<td headers="Col11 Row29" align="left">1201</td>
+		<td headers="Col12 Row29" align="left">Y</td>
+		<td headers="Col13 Row29" align="left">USA</td>
+		<td headers="Col14 Row29" align="left">Main</td>
+		<td headers="Col15 Row29" align="left">1520</td>
+		<td headers="Col16 Row29" align="left"></td>
+		<td headers="Col17 Row29" align="left">2013</td>
+		<td headers="Col18 Row29" align="left"></td>
+		<td headers="Col19 Row29" align="left"></td>
+		<td headers="Col20 Row29" align="left"></td>
+		<td headers="Col21 Row29" align="left"></td>
+		<td headers="Col22 Row29" align="left">SC</td>
+		<td headers="Col23 Row29" align="left"></td>
+		<td headers="Col24 Row29" align="left"></td>
+		<td headers="Col25 Row29" align="left">Local, Less Than Truckload</td>
+		<td headers="Col26 Row29" align="left"></td>
+		<td headers="Col27 Row29" align="left">484110, 484121, 484122, 484220, 484230, 488510, 488510</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row30" id="Row30" align="right"> 30
+		</td>
+		<td headers="Col02 Row30" align="left">STANLEY ENVIRONMENTAL SOLUTIONS, INC.</td>
+		<td headers="Col03 Row30" align="left">Adam Morrison</td>
+		<td headers="Col04 Row30" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=131%20MARIPOSA%20RD%2C%20STANLEY%2C%20NC%2C%2028164%2D0000">131 MARIPOSA RD<br>STANLEY, NC 28164-0000</a></td>
+		<td headers="Col05 Row30" align="left"></td>
+		<td headers="Col06 Row30" align="left">Yes</td>
+		<td headers="Col07 Row30" align="left">6CLD8</td>
+		<td headers="Col08 Row30" align="left">10</td>
+		<td headers="Col09 Row30" align="left">071</td>
+		<td headers="Col10 Row30" align="left">967815593</td>
+		<td headers="Col11 Row30" align="left">1201</td>
+		<td headers="Col12 Row30" align="left">Y</td>
+		<td headers="Col13 Row30" align="left">USA</td>
+		<td headers="Col14 Row30" align="left">Main</td>
+		<td headers="Col15 Row30" align="left">1520</td>
+		<td headers="Col16 Row30" align="left"></td>
+		<td headers="Col17 Row30" align="left">1971</td>
+		<td headers="Col18 Row30" align="left"></td>
+		<td headers="Col19 Row30" align="left"></td>
+		<td headers="Col20 Row30" align="left"></td>
+		<td headers="Col21 Row30" align="left"></td>
+		<td headers="Col22 Row30" align="left">SC</td>
+		<td headers="Col23 Row30" align="left"></td>
+		<td headers="Col24 Row30" align="left"></td>
+		<td headers="Col25 Row30" align="left"></td>
+		<td headers="Col26 Row30" align="left"></td>
+		<td headers="Col27 Row30" align="left">562998</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row31" id="Row31" align="right"> 31
+		</td>
+		<td headers="Col02 Row31" align="left">PROCESS ELECTRONICS CORPORATION</td>
+		<td headers="Col03 Row31" align="left">Don Butler</td>
+		<td headers="Col04 Row31" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=100%20BRICKYARD%20RD%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D8800">100 BRICKYARD RD<br>MOUNT HOLLY, NC 28120-8800</a></td>
+		<td headers="Col05 Row31" align="left">Design, manufacture, service and repair Rectifiers, D.C. power sources</td>
+		<td headers="Col06 Row31" align="left">Yes</td>
+		<td headers="Col07 Row31" align="left">0AUU7</td>
+		<td headers="Col08 Row31" align="left">10</td>
+		<td headers="Col09 Row31" align="left">071</td>
+		<td headers="Col10 Row31" align="left">148525116</td>
+		<td headers="Col11 Row31" align="left">0601</td>
+		<td headers="Col12 Row31" align="left">Y</td>
+		<td headers="Col13 Row31" align="left">USA</td>
+		<td headers="Col14 Row31" align="left">Main</td>
+		<td headers="Col15 Row31" align="left">1520</td>
+		<td headers="Col16 Row31" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Epecrectifier%2Ecom%2F">http://www.pecrectifier.com/</a></td>
+		<td headers="Col17 Row31" align="left">1984</td>
+		<td headers="Col18 Row31" align="left"></td>
+		<td headers="Col19 Row31" align="left"></td>
+		<td headers="Col20 Row31" align="left"></td>
+		<td headers="Col21 Row31" align="left"></td>
+		<td headers="Col22 Row31" align="left"></td>
+		<td headers="Col23 Row31" align="left"></td>
+		<td headers="Col24 Row31" align="left"></td>
+		<td headers="Col25 Row31" align="left">ANODIZING, BATTERY CHARGER, CATHODIC PROTECTION, DC POWER CONVERTER, DC POWER SUPPLIES, DIODE, ELECTRO-COATING, ELECTRO-MACHING, ELECTRO-REFINING, ELECTROGALVANIZING, ELECTROPLATING, ELECTROWINNING, PLATING POWER SUPPLY, RECTIFIER, SCR, THYRISTOR</td>
+		<td headers="Col26 Row31" align="left"></td>
+		<td headers="Col27 Row31" align="left">333249, 335999</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row32" id="Row32" align="right"> 32
+		</td>
+		<td headers="Col02 Row32" align="left">ENN LEASING COMPANY I, L.L.C.<br>HAMPTON INN GASTONIA</td>
+		<td headers="Col03 Row32" align="left">NICOLE BOLT</td>
+		<td headers="Col04 Row32" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1859%20REMOUNT%20RD%2C%20GASTONIA%2C%20NC%2C%2028054%2D0000">1859 REMOUNT RD<br>GASTONIA, NC 28054-0000</a></td>
+		<td headers="Col05 Row32" align="left"></td>
+		<td headers="Col06 Row32" align="left">Yes</td>
+		<td headers="Col07 Row32" align="left">4BLU5</td>
+		<td headers="Col08 Row32" align="left">10</td>
+		<td headers="Col09 Row32" align="left">071</td>
+		<td headers="Col10 Row32" align="left">608964136</td>
+		<td headers="Col11 Row32" align="left">1201</td>
+		<td headers="Col12 Row32" align="left">Y</td>
+		<td headers="Col13 Row32" align="left">USA</td>
+		<td headers="Col14 Row32" align="left">Branch</td>
+		<td headers="Col15 Row32" align="left">1520</td>
+		<td headers="Col16 Row32" align="left"></td>
+		<td headers="Col17 Row32" align="left">1990</td>
+		<td headers="Col18 Row32" align="left"></td>
+		<td headers="Col19 Row32" align="left"></td>
+		<td headers="Col20 Row32" align="left"></td>
+		<td headers="Col21 Row32" align="left"></td>
+		<td headers="Col22 Row32" align="left"></td>
+		<td headers="Col23 Row32" align="left"></td>
+		<td headers="Col24 Row32" align="left"></td>
+		<td headers="Col25 Row32" align="left"></td>
+		<td headers="Col26 Row32" align="left"></td>
+		<td headers="Col27 Row32" align="left">721110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row33" id="Row33" align="right"> 33
+		</td>
+		<td headers="Col02 Row33" align="left">CHARLOTTE PAINT COMPANY, INC.<br>PRO-TEC FINISHES</td>
+		<td headers="Col03 Row33" align="left">LARRY GARLAND</td>
+		<td headers="Col04 Row33" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1604%20LANE%20RD%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D9036">1604 LANE RD<br>MOUNT HOLLY, NC 28120-9036</a></td>
+		<td headers="Col05 Row33" align="left"></td>
+		<td headers="Col06 Row33" align="left">Yes</td>
+		<td headers="Col07 Row33" align="left">1Q5R1</td>
+		<td headers="Col08 Row33" align="left">10</td>
+		<td headers="Col09 Row33" align="left">071</td>
+		<td headers="Col10 Row33" align="left">085086189</td>
+		<td headers="Col11 Row33" align="left">1201</td>
+		<td headers="Col12 Row33" align="left">Y</td>
+		<td headers="Col13 Row33" align="left">USA</td>
+		<td headers="Col14 Row33" align="left">Main</td>
+		<td headers="Col15 Row33" align="left">1520</td>
+		<td headers="Col16 Row33" align="left"></td>
+		<td headers="Col17 Row33" align="left">1977</td>
+		<td headers="Col18 Row33" align="left"></td>
+		<td headers="Col19 Row33" align="left"></td>
+		<td headers="Col20 Row33" align="left"></td>
+		<td headers="Col21 Row33" align="left"></td>
+		<td headers="Col22 Row33" align="left"></td>
+		<td headers="Col23 Row33" align="left"></td>
+		<td headers="Col24 Row33" align="left"></td>
+		<td headers="Col25 Row33" align="left"></td>
+		<td headers="Col26 Row33" align="left"></td>
+		<td headers="Col27 Row33" align="left">238140, 238160, 238190, 238320, 238390, 238990, 561790</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row34" id="Row34" align="right"> 34
+		</td>
+		<td headers="Col02 Row34" align="left">SHORT RUN PRO, LLC</td>
+		<td headers="Col03 Row34" align="left">ARTHUR  TOAL</td>
+		<td headers="Col04 Row34" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=53%20ERVIN%20ST%2C%20BELMONT%2C%20NC%2C%2028012%2D3327">53 ERVIN ST<br>BELMONT, NC 28012-3327</a></td>
+		<td headers="Col05 Row34" align="left"></td>
+		<td headers="Col06 Row34" align="left">Yes</td>
+		<td headers="Col07 Row34" align="left">56TZ3</td>
+		<td headers="Col08 Row34" align="left">10</td>
+		<td headers="Col09 Row34" align="left">071</td>
+		<td headers="Col10 Row34" align="left">782923747</td>
+		<td headers="Col11 Row34" align="left">1201</td>
+		<td headers="Col12 Row34" align="left">Y</td>
+		<td headers="Col13 Row34" align="left">USA</td>
+		<td headers="Col14 Row34" align="left">Main</td>
+		<td headers="Col15 Row34" align="left">1520</td>
+		<td headers="Col16 Row34" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Eshortrunpro%2Ecom">http://www.shortrunpro.com</a></td>
+		<td headers="Col17 Row34" align="left">2006</td>
+		<td headers="Col18 Row34" align="left"></td>
+		<td headers="Col19 Row34" align="left"></td>
+		<td headers="Col20 Row34" align="left"></td>
+		<td headers="Col21 Row34" align="left"></td>
+		<td headers="Col22 Row34" align="left">LL</td>
+		<td headers="Col23 Row34" align="left"></td>
+		<td headers="Col24 Row34" align="left"></td>
+		<td headers="Col25 Row34" align="left"></td>
+		<td headers="Col26 Row34" align="left"></td>
+		<td headers="Col27 Row34" align="left">332312, 332313, 332322, 332323, 332510, 332722, 332812, 332813, 332999, 333515, 335129, 337215</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row35" id="Row35" align="right"> 35
+		</td>
+		<td headers="Col02 Row35" align="left">HOLIDAY INN EXPRESS<br>HOLIDAY INN</td>
+		<td headers="Col03 Row35" align="left">Aubrey Gardner</td>
+		<td headers="Col04 Row35" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=250%20BEATY%20DR%2C%20BELMONT%2C%20NC%2C%2028012%2D2716">250 BEATY DR<br>BELMONT, NC 28012-2716</a></td>
+		<td headers="Col05 Row35" align="left"></td>
+		<td headers="Col06 Row35" align="left">Yes</td>
+		<td headers="Col07 Row35" align="left">5R6B6</td>
+		<td headers="Col08 Row35" align="left">10</td>
+		<td headers="Col09 Row35" align="left">071</td>
+		<td headers="Col10 Row35" align="left">053533829</td>
+		<td headers="Col11 Row35" align="left">1201</td>
+		<td headers="Col12 Row35" align="left">Y</td>
+		<td headers="Col13 Row35" align="left">USA</td>
+		<td headers="Col14 Row35" align="left">Main</td>
+		<td headers="Col15 Row35" align="left">1520</td>
+		<td headers="Col16 Row35" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=https%3A%2F%2Fhiexpress%2Ecom%2Fmtholly%2Fbelmt">https://hiexpress.com/mtholly/belmt</a></td>
+		<td headers="Col17 Row35" align="left">1999</td>
+		<td headers="Col18 Row35" align="left"></td>
+		<td headers="Col19 Row35" align="left"></td>
+		<td headers="Col20 Row35" align="left"></td>
+		<td headers="Col21 Row35" align="left"></td>
+		<td headers="Col22 Row35" align="left">LL</td>
+		<td headers="Col23 Row35" align="left"></td>
+		<td headers="Col24 Row35" align="left"></td>
+		<td headers="Col25 Row35" align="left"></td>
+		<td headers="Col26 Row35" align="left"></td>
+		<td headers="Col27 Row35" align="left">721110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row36" id="Row36" align="right"> 36
+		</td>
+		<td headers="Col02 Row36" align="left">HOSTETTER, KEACH & CASSADA CONSTRUCTION, LLC</td>
+		<td headers="Col03 Row36" align="left">James E Hostetter</td>
+		<td headers="Col04 Row36" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=530%20DOGWOOD%20DR%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D2349">530 DOGWOOD DR<br>MOUNT HOLLY, NC 28120-2349</a></td>
+		<td headers="Col05 Row36" align="left"></td>
+		<td headers="Col06 Row36" align="left">No</td>
+		<td headers="Col07 Row36" align="left">55D54</td>
+		<td headers="Col08 Row36" align="left">10</td>
+		<td headers="Col09 Row36" align="left">071</td>
+		<td headers="Col10 Row36" align="left">827626230</td>
+		<td headers="Col11 Row36" align="left">0601</td>
+		<td headers="Col12 Row36" align="left">Y</td>
+		<td headers="Col13 Row36" align="left">USA</td>
+		<td headers="Col14 Row36" align="left">Main</td>
+		<td headers="Col15 Row36" align="left">1520</td>
+		<td headers="Col16 Row36" align="left"></td>
+		<td headers="Col17 Row36" align="left">2008</td>
+		<td headers="Col18 Row36" align="left"></td>
+		<td headers="Col19 Row36" align="left"></td>
+		<td headers="Col20 Row36" align="left"></td>
+		<td headers="Col21 Row36" align="left"></td>
+		<td headers="Col22 Row36" align="left">LL</td>
+		<td headers="Col23 Row36" align="left"></td>
+		<td headers="Col24 Row36" align="left"></td>
+		<td headers="Col25 Row36" align="left">commercial, institutional, industrial, infrastructure</td>
+		<td headers="Col26 Row36" align="left"></td>
+		<td headers="Col27 Row36" align="left">236210, 236220, 237130, 237310, 237990, 237990, 238110, 238160, 238210, 238220, 238910</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row37" id="Row37" align="right"> 37
+		</td>
+		<td headers="Col02 Row37" align="left">Accela Consulting, Inc.</td>
+		<td headers="Col03 Row37" align="left">MITZI I MEAD</td>
+		<td headers="Col04 Row37" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=337%20E%2E%20Catawba%20Street%2C%20Belmont%2C%20NC%2C%2028012%2D3309">337 E. Catawba Street<br>Belmont, NC 28012-3309</a></td>
+		<td headers="Col05 Row37" align="left">Accela Consulting brings innovation to the Federal Government. Accela resells various software and hardware products. Additionally, Accela provides business development and marketing services.</td>
+		<td headers="Col06 Row37" align="left">No</td>
+		<td headers="Col07 Row37" align="left">4X4D3</td>
+		<td headers="Col08 Row37" align="left">10</td>
+		<td headers="Col09 Row37" align="left">071</td>
+		<td headers="Col10 Row37" align="left">808214576</td>
+		<td headers="Col11 Row37" align="left">1201</td>
+		<td headers="Col12 Row37" align="left">Y</td>
+		<td headers="Col13 Row37" align="left">USA</td>
+		<td headers="Col14 Row37" align="left">Main</td>
+		<td headers="Col15 Row37" align="left">1520</td>
+		<td headers="Col16 Row37" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Eaccelaconsulting%2Ecom">http://www.accelaconsulting.com</a></td>
+		<td headers="Col17 Row37" align="left">2007</td>
+		<td headers="Col18 Row37" align="left"></td>
+		<td headers="Col19 Row37" align="left"></td>
+		<td headers="Col20 Row37" align="left">06/18/2015</td>
+		<td headers="Col21 Row37" align="left"></td>
+		<td headers="Col22 Row37" align="left">SC</td>
+		<td headers="Col23 Row37" align="left"></td>
+		<td headers="Col24 Row37" align="left"></td>
+		<td headers="Col25 Row37" align="left">Reseller, business development, marketing, software, hardware, telecommunications, equipment, network, computers, peripheral, storage, servers, PCs, security, internet, IT, ADP, telecom, CPU, BDNA, Troux, professional services</td>
+		<td headers="Col26 Row37" align="left"></td>
+		<td headers="Col27 Row37" align="left">334111, 334112, 334210, 511210, 519190, 541511, 541512, 541513, 541519, 541519, 541611, 541613</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row38" id="Row38" align="right"> 38
+		</td>
+		<td headers="Col02 Row38" align="left">FORWARD VENTURES, INC.<br>CORN SERVICE</td>
+		<td headers="Col03 Row38" align="left">Judy Johnson</td>
+		<td headers="Col04 Row38" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1710%20PACOLET%20CT%2C%20GASTONIA%2C%20NC%2C%2028052%2D7419">1710 PACOLET CT<br>GASTONIA, NC 28052-7419</a></td>
+		<td headers="Col05 Row38" align="left">boiler sales & service, mechanical piping</td>
+		<td headers="Col06 Row38" align="left">Yes</td>
+		<td headers="Col07 Row38" align="left">3DKP1</td>
+		<td headers="Col08 Row38" align="left">10</td>
+		<td headers="Col09 Row38" align="left">071</td>
+		<td headers="Col10 Row38" align="left">079057691</td>
+		<td headers="Col11 Row38" align="left">1201</td>
+		<td headers="Col12 Row38" align="left">Y</td>
+		<td headers="Col13 Row38" align="left">USA</td>
+		<td headers="Col14 Row38" align="left">Main</td>
+		<td headers="Col15 Row38" align="left">1520</td>
+		<td headers="Col16 Row38" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Ecorn%2Dservice%2Ecom">http://www.corn-service.com</a></td>
+		<td headers="Col17 Row38" align="left">1977</td>
+		<td headers="Col18 Row38" align="left"></td>
+		<td headers="Col19 Row38" align="left"></td>
+		<td headers="Col20 Row38" align="left"></td>
+		<td headers="Col21 Row38" align="left"></td>
+		<td headers="Col22 Row38" align="left">SC</td>
+		<td headers="Col23 Row38" align="left"></td>
+		<td headers="Col24 Row38" align="left"></td>
+		<td headers="Col25 Row38" align="left">boilers, piping, installation</td>
+		<td headers="Col26 Row38" align="left">Johnston Boiler representative</td>
+		<td headers="Col27 Row38" align="left">238220, 238290, 332410</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row39" id="Row39" align="right"> 39
+		</td>
+		<td headers="Col02 Row39" align="left">WATERPROOFING SPECIALTIES, INC.</td>
+		<td headers="Col03 Row39" align="left">Cardiff Shea</td>
+		<td headers="Col04 Row39" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=8086%20WATERFORD%20DR%2C%20STANLEY%2C%20NC%2C%2028164%2D7743">8086 WATERFORD DR<br>STANLEY, NC 28164-7743</a></td>
+		<td headers="Col05 Row39" align="left"></td>
+		<td headers="Col06 Row39" align="left">No</td>
+		<td headers="Col07 Row39" align="left">6YMR8</td>
+		<td headers="Col08 Row39" align="left">10</td>
+		<td headers="Col09 Row39" align="left">071</td>
+		<td headers="Col10 Row39" align="left">141231832</td>
+		<td headers="Col11 Row39" align="left">0601</td>
+		<td headers="Col12 Row39" align="left">Y</td>
+		<td headers="Col13 Row39" align="left">USA</td>
+		<td headers="Col14 Row39" align="left">Main</td>
+		<td headers="Col15 Row39" align="left">1520</td>
+		<td headers="Col16 Row39" align="left"></td>
+		<td headers="Col17 Row39" align="left">2001</td>
+		<td headers="Col18 Row39" align="left"></td>
+		<td headers="Col19 Row39" align="left"></td>
+		<td headers="Col20 Row39" align="left"></td>
+		<td headers="Col21 Row39" align="left"></td>
+		<td headers="Col22 Row39" align="left"></td>
+		<td headers="Col23 Row39" align="left"></td>
+		<td headers="Col24 Row39" align="left"></td>
+		<td headers="Col25 Row39" align="left"></td>
+		<td headers="Col26 Row39" align="left"></td>
+		<td headers="Col27 Row39" align="left">236220, 423390, 424690</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row40" id="Row40" align="right"> 40
+		</td>
+		<td headers="Col02 Row40" align="left">Mariposa Group Inc, The<br>Environmental Pumping & Drain Line Solutions</td>
+		<td headers="Col03 Row40" align="left">Pam Davis</td>
+		<td headers="Col04 Row40" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=732%20Sam%20Brown%20Rd%2C%20Gastonia%2C%20NC%2C%2028056%2D9539">732 Sam Brown Rd<br>Gastonia, NC 28056-9539</a></td>
+		<td headers="Col05 Row40" align="left"></td>
+		<td headers="Col06 Row40" align="left">No</td>
+		<td headers="Col07 Row40" align="left">5QHY0</td>
+		<td headers="Col08 Row40" align="left">10</td>
+		<td headers="Col09 Row40" align="left">071</td>
+		<td headers="Col10 Row40" align="left">053542648</td>
+		<td headers="Col11 Row40" align="left">1201</td>
+		<td headers="Col12 Row40" align="left">Y</td>
+		<td headers="Col13 Row40" align="left">USA</td>
+		<td headers="Col14 Row40" align="left">Main</td>
+		<td headers="Col15 Row40" align="left">1520</td>
+		<td headers="Col16 Row40" align="left"></td>
+		<td headers="Col17 Row40" align="left">1996</td>
+		<td headers="Col18 Row40" align="left"></td>
+		<td headers="Col19 Row40" align="left"></td>
+		<td headers="Col20 Row40" align="left"></td>
+		<td headers="Col21 Row40" align="left"></td>
+		<td headers="Col22 Row40" align="left">SC</td>
+		<td headers="Col23 Row40" align="left"></td>
+		<td headers="Col24 Row40" align="left"></td>
+		<td headers="Col25 Row40" align="left"></td>
+		<td headers="Col26 Row40" align="left"></td>
+		<td headers="Col27 Row40" align="left">237110, 238220</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row41" id="Row41" align="right"> 41
+		</td>
+		<td headers="Col02 Row41" align="left">ANDERSON CONSTRUCTION CO OF GASTON COUNTY INC</td>
+		<td headers="Col03 Row41" align="left">Scott Anderson</td>
+		<td headers="Col04 Row41" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=322%20OLD%20MILL%20RD%2C%20BESSEMER%20CITY%2C%20NC%2C%2028016%2D7686">322 OLD MILL RD<br>BESSEMER CITY, NC 28016-7686</a></td>
+		<td headers="Col05 Row41" align="left"></td>
+		<td headers="Col06 Row41" align="left">No</td>
+		<td headers="Col07 Row41" align="left">5S7C4</td>
+		<td headers="Col08 Row41" align="left">10</td>
+		<td headers="Col09 Row41" align="left">071</td>
+		<td headers="Col10 Row41" align="left">072464550</td>
+		<td headers="Col11 Row41" align="left">1201</td>
+		<td headers="Col12 Row41" align="left">Y</td>
+		<td headers="Col13 Row41" align="left">USA</td>
+		<td headers="Col14 Row41" align="left">Main</td>
+		<td headers="Col15 Row41" align="left">1520</td>
+		<td headers="Col16 Row41" align="left"></td>
+		<td headers="Col17 Row41" align="left">1995</td>
+		<td headers="Col18 Row41" align="left"></td>
+		<td headers="Col19 Row41" align="left"></td>
+		<td headers="Col20 Row41" align="left"></td>
+		<td headers="Col21 Row41" align="left"></td>
+		<td headers="Col22 Row41" align="left"></td>
+		<td headers="Col23 Row41" align="left"></td>
+		<td headers="Col24 Row41" align="left"></td>
+		<td headers="Col25 Row41" align="left"></td>
+		<td headers="Col26 Row41" align="left"></td>
+		<td headers="Col27 Row41" align="left">236118, 236220, 238130, 238140, 238160, 238190, 238330, 238340, 238350, 238390</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row42" id="Row42" align="right"> 42
+		</td>
+		<td headers="Col02 Row42" align="left">Pearson Properties - Summit Crossing Place LLC</td>
+		<td headers="Col03 Row42" align="left">Charles Pearson</td>
+		<td headers="Col04 Row42" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1422%20Burtonwood%20Dr%20Ste%20200%2C%20Gastonia%2C%20NC%2C%2028054%2D4049">1422 Burtonwood Dr Ste 200<br>Gastonia, NC 28054-4049</a></td>
+		<td headers="Col05 Row42" align="left"></td>
+		<td headers="Col06 Row42" align="left">No</td>
+		<td headers="Col07 Row42" align="left">6Z3X3</td>
+		<td headers="Col08 Row42" align="left">10</td>
+		<td headers="Col09 Row42" align="left">071</td>
+		<td headers="Col10 Row42" align="left">078883016</td>
+		<td headers="Col11 Row42" align="left">1201</td>
+		<td headers="Col12 Row42" align="left">Y</td>
+		<td headers="Col13 Row42" align="left">USA</td>
+		<td headers="Col14 Row42" align="left">Main</td>
+		<td headers="Col15 Row42" align="left">1520</td>
+		<td headers="Col16 Row42" align="left"></td>
+		<td headers="Col17 Row42" align="left">2002</td>
+		<td headers="Col18 Row42" align="left"></td>
+		<td headers="Col19 Row42" align="left"></td>
+		<td headers="Col20 Row42" align="left"></td>
+		<td headers="Col21 Row42" align="left"></td>
+		<td headers="Col22 Row42" align="left">LL</td>
+		<td headers="Col23 Row42" align="left"></td>
+		<td headers="Col24 Row42" align="left"></td>
+		<td headers="Col25 Row42" align="left"></td>
+		<td headers="Col26 Row42" align="left"></td>
+		<td headers="Col27 Row42" align="left">531120</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row43" id="Row43" align="right"> 43
+		</td>
+		<td headers="Col02 Row43" align="left">SSC GASTONIA OPERATING COMPANY LLC<br>BRIAN CENTER HEALTH & REHABILITATION - GASTONIA</td>
+		<td headers="Col03 Row43" align="left">KELLE C SANTORO</td>
+		<td headers="Col04 Row43" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=969%20COX%20RD%2C%20GASTONIA%2C%20NC%2C%2028054%2D3455">969 COX RD<br>GASTONIA, NC 28054-3455</a></td>
+		<td headers="Col05 Row43" align="left"></td>
+		<td headers="Col06 Row43" align="left">Yes</td>
+		<td headers="Col07 Row43" align="left">4ARR8</td>
+		<td headers="Col08 Row43" align="left">10</td>
+		<td headers="Col09 Row43" align="left">071</td>
+		<td headers="Col10 Row43" align="left">361455228</td>
+		<td headers="Col11 Row43" align="left">1201</td>
+		<td headers="Col12 Row43" align="left">Y</td>
+		<td headers="Col13 Row43" align="left">USA</td>
+		<td headers="Col14 Row43" align="left">Main</td>
+		<td headers="Col15 Row43" align="left">1520</td>
+		<td headers="Col16 Row43" align="left"></td>
+		<td headers="Col17 Row43" align="left">2005</td>
+		<td headers="Col18 Row43" align="left"></td>
+		<td headers="Col19 Row43" align="left"></td>
+		<td headers="Col20 Row43" align="left"></td>
+		<td headers="Col21 Row43" align="left"></td>
+		<td headers="Col22 Row43" align="left"></td>
+		<td headers="Col23 Row43" align="left"></td>
+		<td headers="Col24 Row43" align="left"></td>
+		<td headers="Col25 Row43" align="left"></td>
+		<td headers="Col26 Row43" align="left"></td>
+		<td headers="Col27 Row43" align="left">623110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row44" id="Row44" align="right"> 44
+		</td>
+		<td headers="Col02 Row44" align="left">JHM Perimeter Hotel, LLC<br>Fairfield Inn Gastonia</td>
+		<td headers="Col03 Row44" align="left">Rita Patel</td>
+		<td headers="Col04 Row44" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1860%20Remount%20Rd%2C%20Gastonia%2C%20NC%2C%2028054%2D7414">1860 Remount Rd<br>Gastonia, NC 28054-7414</a></td>
+		<td headers="Col05 Row44" align="left"></td>
+		<td headers="Col06 Row44" align="left">Yes</td>
+		<td headers="Col07 Row44" align="left">6UL15</td>
+		<td headers="Col08 Row44" align="left">10</td>
+		<td headers="Col09 Row44" align="left">071</td>
+		<td headers="Col10 Row44" align="left">078729377</td>
+		<td headers="Col11 Row44" align="left">1201</td>
+		<td headers="Col12 Row44" align="left">Y</td>
+		<td headers="Col13 Row44" align="left">USA</td>
+		<td headers="Col14 Row44" align="left">Main</td>
+		<td headers="Col15 Row44" align="left">1520</td>
+		<td headers="Col16 Row44" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Emarriott%2Ecom%2Fhotels%2Ftravel%2Fcltgs%2Dfairfield%2Dinn%2Dcharlotte%2Dgastonia%2F">http://www.marriott.com/hotels/travel/cltgs-fairfield-inn-charlotte-gastonia/</a></td>
+		<td headers="Col17 Row44" align="left">1997</td>
+		<td headers="Col18 Row44" align="left"></td>
+		<td headers="Col19 Row44" align="left"></td>
+		<td headers="Col20 Row44" align="left"></td>
+		<td headers="Col21 Row44" align="left"></td>
+		<td headers="Col22 Row44" align="left">LL</td>
+		<td headers="Col23 Row44" align="left"></td>
+		<td headers="Col24 Row44" align="left"></td>
+		<td headers="Col25 Row44" align="left"></td>
+		<td headers="Col26 Row44" align="left"></td>
+		<td headers="Col27 Row44" align="left">721110</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row45" id="Row45" align="right"> 45
+		</td>
+		<td headers="Col02 Row45" align="left">PROFESSIONAL INSULATION SERVICES OF BELMONT, LLC</td>
+		<td headers="Col03 Row45" align="left">BRIAN  SHOOK</td>
+		<td headers="Col04 Row45" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=936%20N%20Marietta%20St%20STE%2010%2C%20Gastonia%2C%20NC%2C%2028054%2D7310">936 N Marietta St STE 10<br>Gastonia, NC 28054-7310</a></td>
+		<td headers="Col05 Row45" align="left"></td>
+		<td headers="Col06 Row45" align="left">No</td>
+		<td headers="Col07 Row45" align="left">748B0</td>
+		<td headers="Col08 Row45" align="left">10</td>
+		<td headers="Col09 Row45" align="left">071</td>
+		<td headers="Col10 Row45" align="left">060171703</td>
+		<td headers="Col11 Row45" align="left">1201</td>
+		<td headers="Col12 Row45" align="left">Y</td>
+		<td headers="Col13 Row45" align="left">USA</td>
+		<td headers="Col14 Row45" align="left">Main</td>
+		<td headers="Col15 Row45" align="left">1520</td>
+		<td headers="Col16 Row45" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=HTTPS%3A%2F%2FWWW%2EPIS%2DB%2ECOM">HTTPS://WWW.PIS-B.COM</a></td>
+		<td headers="Col17 Row45" align="left">2011</td>
+		<td headers="Col18 Row45" align="left"></td>
+		<td headers="Col19 Row45" align="left"></td>
+		<td headers="Col20 Row45" align="left"></td>
+		<td headers="Col21 Row45" align="left"></td>
+		<td headers="Col22 Row45" align="left">LL</td>
+		<td headers="Col23 Row45" align="left"></td>
+		<td headers="Col24 Row45" align="left"></td>
+		<td headers="Col25 Row45" align="left"></td>
+		<td headers="Col26 Row45" align="left"></td>
+		<td headers="Col27 Row45" align="left">238220, 238290, 238310</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row46" id="Row46" align="right"> 46
+		</td>
+		<td headers="Col02 Row46" align="left">CHARLOTTE PAINT II,LLC</td>
+		<td headers="Col03 Row46" align="left">Charleen Goolsby</td>
+		<td headers="Col04 Row46" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1604%20LANE%20RD%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D9036">1604 LANE RD<br>MOUNT HOLLY, NC 28120-9036</a></td>
+		<td headers="Col05 Row46" align="left"></td>
+		<td headers="Col06 Row46" align="left">No</td>
+		<td headers="Col07 Row46" align="left">5HMM4</td>
+		<td headers="Col08 Row46" align="left">10</td>
+		<td headers="Col09 Row46" align="left">071</td>
+		<td headers="Col10 Row46" align="left">830618265</td>
+		<td headers="Col11 Row46" align="left">1201</td>
+		<td headers="Col12 Row46" align="left">Y</td>
+		<td headers="Col13 Row46" align="left">USA</td>
+		<td headers="Col14 Row46" align="left">Main</td>
+		<td headers="Col15 Row46" align="left">1520</td>
+		<td headers="Col16 Row46" align="left"></td>
+		<td headers="Col17 Row46" align="left">2005</td>
+		<td headers="Col18 Row46" align="left"></td>
+		<td headers="Col19 Row46" align="left"></td>
+		<td headers="Col20 Row46" align="left"></td>
+		<td headers="Col21 Row46" align="left"></td>
+		<td headers="Col22 Row46" align="left">LL</td>
+		<td headers="Col23 Row46" align="left"></td>
+		<td headers="Col24 Row46" align="left"></td>
+		<td headers="Col25 Row46" align="left">painting contractor, specialty contractor</td>
+		<td headers="Col26 Row46" align="left"></td>
+		<td headers="Col27 Row46" align="left">238140, 238160, 238190, 238320, 238390, 238990, 561790</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row47" id="Row47" align="right"> 47
+		</td>
+		<td headers="Col02 Row47" align="left">HUNTER & HUNTER GENERAL SERVICES, LLC</td>
+		<td headers="Col03 Row47" align="left">CARLOS G Hunter</td>
+		<td headers="Col04 Row47" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=324%20W%20GLENDALE%20AVE%2C%20MOUNT%20HOLLY%2C%20NC%2C%2028120%2D1639">324 W GLENDALE AVE<br>MOUNT HOLLY, NC 28120-1639</a></td>
+		<td headers="Col05 Row47" align="left"></td>
+		<td headers="Col06 Row47" align="left">No</td>
+		<td headers="Col07 Row47" align="left">6LGN7</td>
+		<td headers="Col08 Row47" align="left">10</td>
+		<td headers="Col09 Row47" align="left">071</td>
+		<td headers="Col10 Row47" align="left">041061702</td>
+		<td headers="Col11 Row47" align="left">0901</td>
+		<td headers="Col12 Row47" align="left">Y</td>
+		<td headers="Col13 Row47" align="left">USA</td>
+		<td headers="Col14 Row47" align="left">Main</td>
+		<td headers="Col15 Row47" align="left">1520</td>
+		<td headers="Col16 Row47" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Ehunterhunterllc%2Eorg">www.hunterhunterllc.org</a></td>
+		<td headers="Col17 Row47" align="left">2010</td>
+		<td headers="Col18 Row47" align="left"></td>
+		<td headers="Col19 Row47" align="left"></td>
+		<td headers="Col20 Row47" align="left"></td>
+		<td headers="Col21 Row47" align="left"></td>
+		<td headers="Col22 Row47" align="left">LL</td>
+		<td headers="Col23 Row47" align="left"></td>
+		<td headers="Col24 Row47" align="left"></td>
+		<td headers="Col25 Row47" align="left">CONSTRUCTION</td>
+		<td headers="Col26 Row47" align="left"></td>
+		<td headers="Col27 Row47" align="left">236115, 236116, 236118, 236210, 236220, 238130, 238160, 238170, 238190, 238210, 238310, 238320, 238330, 238350, 238390, 238910, 238990, 541320, 811192</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row48" id="Row48" align="right"> 48
+		</td>
+		<td headers="Col02 Row48" align="left">GASTON FENCE COMPANY, INC.</td>
+		<td headers="Col03 Row48" align="left">ROBERT CEARLEY</td>
+		<td headers="Col04 Row48" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=HWY%20321%20ST%20766%20FRIDAY%20PARK%20RD%2C%20DALLAS%2C%20NC%2C%2028034%2D9371">HWY 321 ST 766 FRIDAY PARK RD<br>DALLAS, NC 28034-9371</a></td>
+		<td headers="Col05 Row48" align="left"></td>
+		<td headers="Col06 Row48" align="left">Yes</td>
+		<td headers="Col07 Row48" align="left">6SJL7</td>
+		<td headers="Col08 Row48" align="left">10</td>
+		<td headers="Col09 Row48" align="left">071</td>
+		<td headers="Col10 Row48" align="left">148530157</td>
+		<td headers="Col11 Row48" align="left">1201</td>
+		<td headers="Col12 Row48" align="left">Y</td>
+		<td headers="Col13 Row48" align="left">USA</td>
+		<td headers="Col14 Row48" align="left">Main</td>
+		<td headers="Col15 Row48" align="left">1520</td>
+		<td headers="Col16 Row48" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Egastonfence%2Ecom">www.gastonfence.com</a></td>
+		<td headers="Col17 Row48" align="left">1965</td>
+		<td headers="Col18 Row48" align="left"></td>
+		<td headers="Col19 Row48" align="left"></td>
+		<td headers="Col20 Row48" align="left"></td>
+		<td headers="Col21 Row48" align="left"></td>
+		<td headers="Col22 Row48" align="left"></td>
+		<td headers="Col23 Row48" align="left"></td>
+		<td headers="Col24 Row48" align="left"></td>
+		<td headers="Col25 Row48" align="left"></td>
+		<td headers="Col26 Row48" align="left"></td>
+		<td headers="Col27 Row48" align="left">238990</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row49" id="Row49" align="right"> 49
+		</td>
+		<td headers="Col02 Row49" align="left">GOOD WILL PUBLISHERS, INC</td>
+		<td headers="Col03 Row49" align="left">ED  GALLAGHER</td>
+		<td headers="Col04 Row49" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1520%20S%20YORK%20RD%2C%20GASTONIA%2C%20NC%2C%2028052%2D0000">1520 S YORK RD<br>GASTONIA, NC 28052-0000</a></td>
+		<td headers="Col05 Row49" align="left"></td>
+		<td headers="Col06 Row49" align="left">Yes</td>
+		<td headers="Col07 Row49" align="left">6KRL5</td>
+		<td headers="Col08 Row49" align="left">10</td>
+		<td headers="Col09 Row49" align="left">071</td>
+		<td headers="Col10 Row49" align="left">003168770</td>
+		<td headers="Col11 Row49" align="left">0301</td>
+		<td headers="Col12 Row49" align="left">Y</td>
+		<td headers="Col13 Row49" align="left">USA</td>
+		<td headers="Col14 Row49" align="left">Main</td>
+		<td headers="Col15 Row49" align="left">1520</td>
+		<td headers="Col16 Row49" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Eonewhoserved%2Ecom">http://www.onewhoserved.com</a></td>
+		<td headers="Col17 Row49" align="left">1938</td>
+		<td headers="Col18 Row49" align="left"></td>
+		<td headers="Col19 Row49" align="left"></td>
+		<td headers="Col20 Row49" align="left"></td>
+		<td headers="Col21 Row49" align="left"></td>
+		<td headers="Col22 Row49" align="left"></td>
+		<td headers="Col23 Row49" align="left"></td>
+		<td headers="Col24 Row49" align="left"></td>
+		<td headers="Col25 Row49" align="left"></td>
+		<td headers="Col26 Row49" align="left"></td>
+		<td headers="Col27 Row49" align="left">424120</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row50" id="Row50" align="right"> 50
+		</td>
+		<td headers="Col02 Row50" align="left">NC Interior Contracting LLC</td>
+		<td headers="Col03 Row50" align="left">Nancy Palacios</td>
+		<td headers="Col04 Row50" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=1216%20Industrial%20Ave%2C%20Gastonia%2C%20NC%2C%2028054%2D4629">1216 Industrial Ave<br>Gastonia, NC 28054-4629</a></td>
+		<td headers="Col05 Row50" align="left"></td>
+		<td headers="Col06 Row50" align="left">No</td>
+		<td headers="Col07 Row50" align="left">7DXR4</td>
+		<td headers="Col08 Row50" align="left">10</td>
+		<td headers="Col09 Row50" align="left">071</td>
+		<td headers="Col10 Row50" align="left">034496066</td>
+		<td headers="Col11 Row50" align="left">1201</td>
+		<td headers="Col12 Row50" align="left">Y</td>
+		<td headers="Col13 Row50" align="left">USA</td>
+		<td headers="Col14 Row50" align="left">Main</td>
+		<td headers="Col15 Row50" align="left">1520</td>
+		<td headers="Col16 Row50" align="left"></td>
+		<td headers="Col17 Row50" align="left">2010</td>
+		<td headers="Col18 Row50" align="left"></td>
+		<td headers="Col19 Row50" align="left"></td>
+		<td headers="Col20 Row50" align="left"></td>
+		<td headers="Col21 Row50" align="left"></td>
+		<td headers="Col22 Row50" align="left">LL</td>
+		<td headers="Col23 Row50" align="left"></td>
+		<td headers="Col24 Row50" align="left"></td>
+		<td headers="Col25 Row50" align="left">FRP, GFRC, EIFS, DEFS, Stucco, Plaster</td>
+		<td headers="Col26 Row50" align="left"></td>
+		<td headers="Col27 Row50" align="left">236116, 236210, 236220</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row51" id="Row51" align="right"> 51
+		</td>
+		<td headers="Col02 Row51" align="left">CREECH COMPUTER CONSULTING INC</td>
+		<td headers="Col03 Row51" align="left">Clemon C Creech</td>
+		<td headers="Col04 Row51" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=5022%20Wicklow%20Dr%2C%20Gastonia%2C%20NC%2C%2028054%2D2036">5022 Wicklow Dr<br>Gastonia, NC 28054-2036</a></td>
+		<td headers="Col05 Row51" align="left">Creech Computer Consulting Inc. provides high quality software and network infrastructure solutions. Our software development team creates web, IPhone, Android, and Windows software application to meet your business needs. We provide software solution that are easy for you and your customer to use. The website that we create provide an easy and secure interface for buying and selling goods and services over the internet. Our network infrastructure team provides cabling, server installation, router and switch configuration services. We also install POS (Point Of Sales) systems.</td>
+		<td headers="Col06 Row51" align="left">Yes</td>
+		<td headers="Col07 Row51" align="left">6K0W6</td>
+		<td headers="Col08 Row51" align="left">10</td>
+		<td headers="Col09 Row51" align="left">071</td>
+		<td headers="Col10 Row51" align="left">064443449</td>
+		<td headers="Col11 Row51" align="left">0601</td>
+		<td headers="Col12 Row51" align="left">Y</td>
+		<td headers="Col13 Row51" align="left">USA</td>
+		<td headers="Col14 Row51" align="left">Main</td>
+		<td headers="Col15 Row51" align="left">1520</td>
+		<td headers="Col16 Row51" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Ecreechcomputers%2Ecom">http://www.creechcomputers.com</a></td>
+		<td headers="Col17 Row51" align="left">2011</td>
+		<td headers="Col18 Row51" align="left"></td>
+		<td headers="Col19 Row51" align="left"></td>
+		<td headers="Col20 Row51" align="left"></td>
+		<td headers="Col21 Row51" align="left"></td>
+		<td headers="Col22 Row51" align="left">SC</td>
+		<td headers="Col23 Row51" align="left"></td>
+		<td headers="Col24 Row51" align="left"></td>
+		<td headers="Col25 Row51" align="left">Computer Programming, computer repair, website, web services, network cabling, server maintenance, router, switch, access point, patch panel</td>
+		<td headers="Col26 Row51" align="left"></td>
+		<td headers="Col27 Row51" align="left">541511, 541512, 541519, 541519, 811212</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row52" id="Row52" align="right"> 52
+		</td>
+		<td headers="Col02 Row52" align="left">Arrochem, Inc.</td>
+		<td headers="Col03 Row52" align="left">Wendy Whisnant</td>
+		<td headers="Col04 Row52" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=201%20Westland%20Farm%20Rd%2C%20Mount%20Holly%2C%20NC%2C%2028120%2D9533">201 Westland Farm Rd<br>Mount Holly, NC 28120-9533</a></td>
+		<td headers="Col05 Row52" align="left"></td>
+		<td headers="Col06 Row52" align="left">Yes</td>
+		<td headers="Col07 Row52" align="left">1G0G6</td>
+		<td headers="Col08 Row52" align="left">10</td>
+		<td headers="Col09 Row52" align="left">071</td>
+		<td headers="Col10 Row52" align="left">021387899</td>
+		<td headers="Col11 Row52" align="left">1201</td>
+		<td headers="Col12 Row52" align="left">Y</td>
+		<td headers="Col13 Row52" align="left">USA</td>
+		<td headers="Col14 Row52" align="left">Main</td>
+		<td headers="Col15 Row52" align="left">1520</td>
+		<td headers="Col16 Row52" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Earrochem%2Ecom">www.arrochem.com</a></td>
+		<td headers="Col17 Row52" align="left">1979</td>
+		<td headers="Col18 Row52" align="left"></td>
+		<td headers="Col19 Row52" align="left"></td>
+		<td headers="Col20 Row52" align="left"></td>
+		<td headers="Col21 Row52" align="left"></td>
+		<td headers="Col22 Row52" align="left">SC</td>
+		<td headers="Col23 Row52" align="left"></td>
+		<td headers="Col24 Row52" align="left"></td>
+		<td headers="Col25 Row52" align="left"></td>
+		<td headers="Col26 Row52" align="left"></td>
+		<td headers="Col27 Row52" align="left">325611, 325613, 561910</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row53" id="Row53" align="right"> 53
+		</td>
+		<td headers="Col02 Row53" align="left">STEWART, COOPER, NEWELL ARCHITECTS PA<br>STEWART-COOPER-NEWELL-ARCHITECTS PA</td>
+		<td headers="Col03 Row53" align="left">KENNETH C Newell</td>
+		<td headers="Col04 Row53" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=719%20EAST%202ND%20AVE%2C%20GASTONIA%2C%20NC%2C%2028054%2D7144">719 EAST 2ND AVE<br>GASTONIA, NC 28054-7144</a></td>
+		<td headers="Col05 Row53" align="left"></td>
+		<td headers="Col06 Row53" align="left">No</td>
+		<td headers="Col07 Row53" align="left">30TQ4</td>
+		<td headers="Col08 Row53" align="left">10</td>
+		<td headers="Col09 Row53" align="left">071</td>
+		<td headers="Col10 Row53" align="left">021387816</td>
+		<td headers="Col11 Row53" align="left">1201</td>
+		<td headers="Col12 Row53" align="left">Y</td>
+		<td headers="Col13 Row53" align="left">USA</td>
+		<td headers="Col14 Row53" align="left">Main</td>
+		<td headers="Col15 Row53" align="left">1520</td>
+		<td headers="Col16 Row53" align="left"></td>
+		<td headers="Col17 Row53" align="left">1971</td>
+		<td headers="Col18 Row53" align="left"></td>
+		<td headers="Col19 Row53" align="left"></td>
+		<td headers="Col20 Row53" align="left"></td>
+		<td headers="Col21 Row53" align="left"></td>
+		<td headers="Col22 Row53" align="left">SC</td>
+		<td headers="Col23 Row53" align="left"></td>
+		<td headers="Col24 Row53" align="left"></td>
+		<td headers="Col25 Row53" align="left"></td>
+		<td headers="Col26 Row53" align="left"></td>
+		<td headers="Col27 Row53" align="left">541310</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row54" id="Row54" align="right"> 54
+		</td>
+		<td headers="Col02 Row54" align="left">D Tel Telecommunications, Inc.</td>
+		<td headers="Col03 Row54" align="left">Charlie Peninger</td>
+		<td headers="Col04 Row54" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=320%20E%203rd%20Ave%2C%20Gastonia%2C%20NC%2C%2028054%2D0437">320 E 3rd Ave<br>Gastonia, NC 28054-0437</a></td>
+		<td headers="Col05 Row54" align="left"></td>
+		<td headers="Col06 Row54" align="left">Yes</td>
+		<td headers="Col07 Row54" align="left">7C8N3</td>
+		<td headers="Col08 Row54" align="left">10</td>
+		<td headers="Col09 Row54" align="left">071</td>
+		<td headers="Col10 Row54" align="left">156047748</td>
+		<td headers="Col11 Row54" align="left">0801</td>
+		<td headers="Col12 Row54" align="left">Y</td>
+		<td headers="Col13 Row54" align="left">USA</td>
+		<td headers="Col14 Row54" align="left">Main</td>
+		<td headers="Col15 Row54" align="left">1520</td>
+		<td headers="Col16 Row54" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Edteltel%2Ecom">www.dteltel.com</a></td>
+		<td headers="Col17 Row54" align="left">1984</td>
+		<td headers="Col18 Row54" align="left"></td>
+		<td headers="Col19 Row54" align="left"></td>
+		<td headers="Col20 Row54" align="left"></td>
+		<td headers="Col21 Row54" align="left"></td>
+		<td headers="Col22 Row54" align="left"></td>
+		<td headers="Col23 Row54" align="left"></td>
+		<td headers="Col24 Row54" align="left"></td>
+		<td headers="Col25 Row54" align="left"></td>
+		<td headers="Col26 Row54" align="left"></td>
+		<td headers="Col27 Row54" align="left">334112, 811213</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row55" id="Row55" align="right"> 55
+		</td>
+		<td headers="Col02 Row55" align="left">Rapid Rads LLC</td>
+		<td headers="Col03 Row55" align="left">Todd Scandrett</td>
+		<td headers="Col04 Row55" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=116%20Missouri%20Ln%2C%20Mount%20Holly%2C%20NC%2C%2028120%2D1985">116 Missouri Ln<br>Mount Holly, NC 28120-1985</a></td>
+		<td headers="Col05 Row55" align="left"></td>
+		<td headers="Col06 Row55" align="left">No</td>
+		<td headers="Col07 Row55" align="left">73WP4</td>
+		<td headers="Col08 Row55" align="left">10</td>
+		<td headers="Col09 Row55" align="left">071</td>
+		<td headers="Col10 Row55" align="left">049061600</td>
+		<td headers="Col11 Row55" align="left">1201</td>
+		<td headers="Col12 Row55" align="left">Y</td>
+		<td headers="Col13 Row55" align="left">USA</td>
+		<td headers="Col14 Row55" align="left">Main</td>
+		<td headers="Col15 Row55" align="left">1520</td>
+		<td headers="Col16 Row55" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=www%2Erapidrads%2Ecom">www.rapidrads.com</a></td>
+		<td headers="Col17 Row55" align="left">2014</td>
+		<td headers="Col18 Row55" align="left"></td>
+		<td headers="Col19 Row55" align="left"></td>
+		<td headers="Col20 Row55" align="left"></td>
+		<td headers="Col21 Row55" align="left"></td>
+		<td headers="Col22 Row55" align="left">LL</td>
+		<td headers="Col23 Row55" align="left"></td>
+		<td headers="Col24 Row55" align="left"></td>
+		<td headers="Col25 Row55" align="left"></td>
+		<td headers="Col26 Row55" align="left"></td>
+		<td headers="Col27 Row55" align="left">541990, 621111, 621512, 621999, 813920</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row56" id="Row56" align="right"> 56
+		</td>
+		<td headers="Col02 Row56" align="left">Aldape, Jonathan<br>jonny on the spot</td>
+		<td headers="Col03 Row56" align="left">Jonathan Aldape</td>
+		<td headers="Col04 Row56" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=3418%20Table%20Rock%20Dr%2C%20Gastonia%2C%20NC%2C%2028052%2D5436">3418 Table Rock Dr<br>Gastonia, NC 28052-5436</a></td>
+		<td headers="Col05 Row56" align="left">Jonny on the Spot is a company in Charlotte, NC that prioritizes the clients needs and expectations. We clean offices, commercial buildings, and also specialize in furniture repair. With over 18 years experience in both fields, we have worked hard over the years to earn a reputation of being on time and providing quality work. We repair wood, leather and upholstery furniture on site. We apply our janitorial and furniture repair talents to any commercial need but we are able use both at the same time in a office setting.</td>
+		<td headers="Col06 Row56" align="left">No</td>
+		<td headers="Col07 Row56" align="left">7CN94</td>
+		<td headers="Col08 Row56" align="left">10</td>
+		<td headers="Col09 Row56" align="left">071</td>
+		<td headers="Col10 Row56" align="left">079774366</td>
+		<td headers="Col11 Row56" align="left">1201</td>
+		<td headers="Col12 Row56" align="left">Y</td>
+		<td headers="Col13 Row56" align="left">USA</td>
+		<td headers="Col14 Row56" align="left">Main</td>
+		<td headers="Col15 Row56" align="left">1520</td>
+		<td headers="Col16 Row56" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=http%3A%2F%2Fwww%2Ejonnyonthespotgov%2Ecom">http://www.jonnyonthespotgov.com</a></td>
+		<td headers="Col17 Row56" align="left">2015</td>
+		<td headers="Col18 Row56" align="left"></td>
+		<td headers="Col19 Row56" align="left"></td>
+		<td headers="Col20 Row56" align="left"></td>
+		<td headers="Col21 Row56" align="left"></td>
+		<td headers="Col22 Row56" align="left"></td>
+		<td headers="Col23 Row56" align="left"></td>
+		<td headers="Col24 Row56" align="left"></td>
+		<td headers="Col25 Row56" align="left">commercial office cleaning, cleaning, office cleaning, furniture repair, office furniture repair, wood repair, leather repair, upholstery repair, trash removal, restroom cleaning, private area cleaning, wood furniture repair, wood scratch repair, wood dent repair, missing finish repair, leather dye, upholstery frame repair, upholstery stitching, rebuild upholstery</td>
+		<td headers="Col26 Row56" align="left"></td>
+		<td headers="Col27 Row56" align="left">561720, 811420</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form1">
+		<td headers="Col01 Row57" id="Row57" align="right"> 57
+		</td>
+		<td headers="Col02 Row57" align="left">Automated Environments, Inc.<br>Vargas Vocational Consulting</td>
+		<td headers="Col03 Row57" align="left">MARIA VARGAS</td>
+		<td headers="Col04 Row57" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=6640%20Wilkinson%20Blvd%20Ste%20100%2C%20Belmont%2C%20NC%2C%2028012%2D2796">6640 Wilkinson Blvd Ste 100<br>Belmont, NC 28012-2796</a></td>
+		<td headers="Col05 Row57" align="left"></td>
+		<td headers="Col06 Row57" align="left">No</td>
+		<td headers="Col07 Row57" align="left">5BCN4</td>
+		<td headers="Col08 Row57" align="left">10</td>
+		<td headers="Col09 Row57" align="left">071</td>
+		<td headers="Col10 Row57" align="left">110732810</td>
+		<td headers="Col11 Row57" align="left">0701</td>
+		<td headers="Col12 Row57" align="left">Y</td>
+		<td headers="Col13 Row57" align="left">USA</td>
+		<td headers="Col14 Row57" align="left">Main</td>
+		<td headers="Col15 Row57" align="left">1520</td>
+		<td headers="Col16 Row57" align="left"></td>
+		<td headers="Col17 Row57" align="left">1990</td>
+		<td headers="Col18 Row57" align="left"></td>
+		<td headers="Col19 Row57" align="left"></td>
+		<td headers="Col20 Row57" align="left"></td>
+		<td headers="Col21 Row57" align="left"></td>
+		<td headers="Col22 Row57" align="left"></td>
+		<td headers="Col23 Row57" align="left"></td>
+		<td headers="Col24 Row57" align="left"></td>
+		<td headers="Col25 Row57" align="left"></td>
+		<td headers="Col26 Row57" align="left"></td>
+		<td headers="Col27 Row57" align="left">624310</td>
+	</tr>
+	<tr class="AlternatingRowBGC4Form0">
+		<td headers="Col01 Row58" id="Row58" align="right"> 58
+		</td>
+		<td headers="Col02 Row58" align="left">AIR DIAGNOSTICS INC</td>
+		<td headers="Col03 Row58" align="left">Rick D Pressley</td>
+		<td headers="Col04 Row58" align="left" NOWRAP><a target="_blank" href="http://maps.google.com/?q=5110%20SUMMERELL%20AVE%2C%20GASTONIA%2C%20NC%2C%2028056%2D8582">5110 SUMMERELL AVE<br>GASTONIA, NC 28056-8582</a></td>
+		<td headers="Col05 Row58" align="left"></td>
+		<td headers="Col06 Row58" align="left">No</td>
+		<td headers="Col07 Row58" align="left">783P8</td>
+		<td headers="Col08 Row58" align="left">10</td>
+		<td headers="Col09 Row58" align="left">071</td>
+		<td headers="Col10 Row58" align="left">161180828</td>
+		<td headers="Col11 Row58" align="left">1201</td>
+		<td headers="Col12 Row58" align="left">Y</td>
+		<td headers="Col13 Row58" align="left">USA</td>
+		<td headers="Col14 Row58" align="left">Main</td>
+		<td headers="Col15 Row58" align="left">1520</td>
+		<td headers="Col16 Row58" align="left"><a target="_blank" href="http://pro-net.sba.gov/cgi-bin/closeme.pl?TO=airdiagnostics%2Enet">airdiagnostics.net</a></td>
+		<td headers="Col17 Row58" align="left">2004</td>
+		<td headers="Col18 Row58" align="left"></td>
+		<td headers="Col19 Row58" align="left"></td>
+		<td headers="Col20 Row58" align="left"></td>
+		<td headers="Col21 Row58" align="left"></td>
+		<td headers="Col22 Row58" align="left">SC</td>
+		<td headers="Col23 Row58" align="left"></td>
+		<td headers="Col24 Row58" align="left"></td>
+		<td headers="Col25 Row58" align="left"></td>
+		<td headers="Col26 Row58" align="left"></td>
+		<td headers="Col27 Row58" align="left">238220, 238990, 541330, 541330, 541330, 541330</td>
+	</tr>
+</tbody>
+</table>
