@@ -102,7 +102,7 @@ class Census:
             final_url = base_url + "state:{0}".format(state_string)
         else:
             sys.stderr.write("Your location preference was not recognized")
-            os._exit(-1)
+            sys.exit(-1)
         
         
         print "\nquerying: ", final_url
@@ -115,7 +115,7 @@ class Census:
         except ValueError as e:
             print "an error occured:"
             sys.stderr.write(response_value)
-            os._exit(-1)
+            sys.exit(-1)
         
         
         
