@@ -1,0 +1,81 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module fileio</title>
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>fileio</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/Users/Apollo/Workspaces/utils/utils/fileio.py">/Users/Apollo/Workspaces/utils/utils/fileio.py</a></font></td></tr></table>
+    <p><tt>Created&nbsp;on&nbsp;Dec&nbsp;16,&nbsp;2014<br>
+&nbsp;<br>
+@author:&nbsp;Erich&nbsp;O'Saben<br>
+&nbsp;<br>
+&nbsp;<br>
+Implements&nbsp;common&nbsp;IO&nbsp;operations&nbsp;for&nbsp;files.&nbsp;Most&nbsp;implementations&nbsp;were&nbsp;taken&nbsp;from&nbsp;https://docs.python.org/2/library/csv.html</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="csv.html">csv</a><br>
+</td><td width="25%" valign=top><a href="sys.html">sys</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-read_delimited"><strong>read_delimited</strong></a>(filename, mode<font color="#909090">='rU'</font>, d<font color="#909090">=','</font>, q<font color="#909090">=0</font>)</dt><dd><tt>Reads&nbsp;delimited&nbsp;files&nbsp;one&nbsp;line&nbsp;at&nbsp;a&nbsp;time&nbsp;and&nbsp;appends&nbsp;to&nbsp;a&nbsp;list.<br>
+&nbsp;<br>
+@return:&nbsp;contents&nbsp;of&nbsp;the&nbsp;file<br>
+&nbsp;<br>
+q=0&nbsp;means&nbsp;'csv.QUOTE_NONE'<br>
+&nbsp;<br>
+Additional&nbsp;quoting&nbsp;options&nbsp;can&nbsp;be&nbsp;found&nbsp;at:&nbsp;https://docs.python.org/2/library/csv.html</tt></dd></dl>
+ <dl><dt><a name="-read_file"><strong>read_file</strong></a>(filename, mode<font color="#909090">='rU'</font>, stripChar<font color="#909090">='<font color="#c040c0">\n</font>'</font>, replaceChar<font color="#909090">=''</font>, lines<font color="#909090">=False</font>)</dt><dd><tt>&nbsp;&nbsp;&nbsp;&nbsp;Basic&nbsp;implementation&nbsp;of&nbsp;reading&nbsp;a&nbsp;text&nbsp;file&nbsp;into&nbsp;a&nbsp;list.&nbsp;Default&nbsp;is&nbsp;to&nbsp;read&nbsp;one&nbsp;line&nbsp;at&nbsp;a&nbsp;time.&nbsp;<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;If&nbsp;lines=True,&nbsp;uses&nbsp;read.readlines()&nbsp;and&nbsp;return&nbsp;each&nbsp;line&nbsp;of&nbsp;the&nbsp;file&nbsp;as&nbsp;is&nbsp;(includes&nbsp;all&nbsp;whitespace&nbsp;and&nbsp;newline&nbsp;chars)<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;If&nbsp;lines=False&nbsp;will&nbsp;strip&nbsp;will&nbsp;remove&nbsp;all&nbsp;characters&nbsp;specified&nbsp;in&nbsp;stripChar&nbsp;and&nbsp;replace&nbsp;with&nbsp;replaceChar.&nbsp;Defaults&nbsp;of&nbsp;those&nbsp;settings&nbsp;are&nbsp;"<br>
+"&nbsp;and&nbsp;""&nbsp;respectively.<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;@return:&nbsp;contents&nbsp;of&nbsp;the&nbsp;file</tt></dd></dl>
+ <dl><dt><a name="-read_json"><strong>read_json</strong></a>(filename, json_objs<font color="#909090">=False</font>)</dt><dd><tt>Provides&nbsp;two&nbsp;different&nbsp;types&nbsp;of&nbsp;read&nbsp;operations&nbsp;for&nbsp;a&nbsp;json&nbsp;file.&nbsp;If&nbsp;the&nbsp;file&nbsp;is&nbsp;a&nbsp;well&nbsp;formed&nbsp;json&nbsp;document,&nbsp;k&nbsp;&nbsp;and&nbsp;<br>
+this&nbsp;will&nbsp;return&nbsp;a&nbsp;python&nbsp;dict&nbsp;of&nbsp;the&nbsp;json&nbsp;structure.&nbsp;If&nbsp;the&nbsp;file&nbsp;is&nbsp;multiple&nbsp;lines&nbsp;of&nbsp;json&nbsp;<br>
+objects,&nbsp;set&nbsp;the&nbsp;json_objs&nbsp;flag&nbsp;to&nbsp;true&nbsp;and&nbsp;a&nbsp;list&nbsp;of&nbsp;Python&nbsp;dictionaries&nbsp;will&nbsp;be&nbsp;returned.</tt></dd></dl>
+ <dl><dt><a name="-write_delimited"><strong>write_delimited</strong></a>(contents, outputFilePath, mode<font color="#909090">='wb'</font>, d<font color="#909090">=','</font>, q<font color="#909090">=0</font>)</dt><dd><tt>Writes&nbsp;a&nbsp;delimited&nbsp;file,&nbsp;default&nbsp;setting&nbsp;is&nbsp;csv.<br>
+&nbsp;<br>
+q=0&nbsp;means&nbsp;'csv.QUOTE_NONE'<br>
+&nbsp;<br>
+Additional&nbsp;quoting&nbsp;options&nbsp;can&nbsp;be&nbsp;found&nbsp;at:&nbsp;https://docs.python.org/2/library/csv.html</tt></dd></dl>
+ <dl><dt><a name="-write_file"><strong>write_file</strong></a>(contents, filename, mode<font color="#909090">='wb'</font>)</dt><dd><tt>Basic&nbsp;implementation&nbsp;of&nbsp;writing&nbsp;to&nbsp;a&nbsp;text&nbsp;file.&nbsp;Each&nbsp;line&nbsp;of&nbsp;a&nbsp;list&nbsp;is&nbsp;a&nbsp;line&nbsp;in&nbsp;the&nbsp;file.<br>
+&nbsp;<br>
+If&nbsp;you&nbsp;have&nbsp;nested&nbsp;lists,&nbsp;loop&nbsp;the&nbsp;call&nbsp;to&nbsp;this&nbsp;function&nbsp;passing&nbsp;each&nbsp;inside&nbsp;list&nbsp;as&nbsp;the&nbsp;contents&nbsp;and&nbsp;change&nbsp;to&nbsp;mode&nbsp;to&nbsp;mode='a'</tt></dd></dl>
+ <dl><dt><a name="-write_file_dict"><strong>write_file_dict</strong></a>(contents, filename, mode<font color="#909090">='wb'</font>)</dt><dd><tt>Basic&nbsp;implementation&nbsp;of&nbsp;writing&nbsp;a&nbsp;Python&nbsp;dictionary&nbsp;to&nbsp;file.&nbsp;Writes&nbsp;item&nbsp;in&nbsp;the&nbsp;dict&nbsp;as&nbsp;''key:&nbsp;value''.<br>
+&nbsp;<br>
+If&nbsp;you&nbsp;have&nbsp;nested&nbsp;key/value&nbsp;pairs,&nbsp;loop&nbsp;the&nbsp;call&nbsp;to&nbsp;this&nbsp;function&nbsp;passing&nbsp;each&nbsp;key/value&nbsp;pair&nbsp;as&nbsp;the&nbsp;contents&nbsp;and&nbsp;change&nbsp;to&nbsp;mode&nbsp;to&nbsp;mode='a'.<br>
+&nbsp;<br>
+Can&nbsp;be&nbsp;used&nbsp;in&nbsp;pair&nbsp;with&nbsp;write_file&nbsp;or&nbsp;write_delimited&nbsp;if&nbsp;nested&nbsp;values&nbsp;are&nbsp;lists.&nbsp;Also&nbsp;make&nbsp;sure&nbsp;that&nbsp;their&nbsp;mode&nbsp;is&nbsp;changed&nbsp;to&nbsp;mode='a'</tt></dd></dl>
+ <dl><dt><a name="-write_json"><strong>write_json</strong></a>(data, filename, sort_keys<font color="#909090">=False</font>, mode<font color="#909090">='wb'</font>)</dt><dd><tt>Basic&nbsp;implementation&nbsp;to&nbsp;write&nbsp;a&nbsp;Python&nbsp;dict&nbsp;to&nbsp;a&nbsp;json&nbsp;file.</tt></dd></dl>
+ <dl><dt><a name="-write_matrix_csv"><strong>write_matrix_csv</strong></a>(matrix_contents, filename, mode<font color="#909090">='wb'</font>)</dt><dd><tt>Basic&nbsp;implementation&nbsp;of&nbsp;writing&nbsp;a&nbsp;matrix&nbsp;to&nbsp;a&nbsp;CSV&nbsp;file.<br>
+&nbsp;<br>
+matrix_contents&nbsp;must&nbsp;be&nbsp;a&nbsp;list&nbsp;of&nbsp;lists&nbsp;which&nbsp;each&nbsp;nested&nbsp;list&nbsp;is&nbsp;a&nbsp;row&nbsp;in&nbsp;the&nbsp;matrix.&nbsp;<br>
+For&nbsp;proper&nbsp;viewing&nbsp;in&nbsp;spreadsheet&nbsp;applications&nbsp;make&nbsp;matrix_contents[0][0]&nbsp;=&nbsp;''<br>
+For&nbsp;example&nbsp;the&nbsp;matrix:<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;<br>
+a&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;<br>
+b&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;5&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+where&nbsp;A&nbsp;and&nbsp;B&nbsp;are&nbsp;column&nbsp;headers&nbsp;and&nbsp;a&nbsp;and&nbsp;b&nbsp;are&nbsp;row&nbsp;names.&nbsp;matrix_contents&nbsp;would&nbsp;look&nbsp;like:<br>
+&nbsp;<br>
+matrix_contents&nbsp;=&nbsp;[['',&nbsp;'A',&nbsp;'B'],&nbsp;['a',&nbsp;2,&nbsp;3],&nbsp;['b',&nbsp;4,&nbsp;5]]</tt></dd></dl>
+</td></tr></table>
+</body></html>
